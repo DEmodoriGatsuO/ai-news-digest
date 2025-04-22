@@ -30,7 +30,10 @@ except ImportError:
         "https://techcommunity.microsoft.com/t5/microsoft-ai-blog/bg-p/ArtificialIntelligence/rss",
         
         # Anthropic/Claude関連
-        "https://www.anthropic.com/blog/rss"
+        "https://www.anthropic.com/blog/rss",
+        
+        # arXiv AI論文フィード
+        "http://export.arxiv.org/rss/cs.AI"
     ]
     
     KEYWORDS = ["生成AI", "大規模言語モデル", "LLM", "Claude", "Gemini", "GPT", "人工知能", 

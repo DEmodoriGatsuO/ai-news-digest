@@ -11,7 +11,10 @@ AI_FEEDS = [
     "https://techcommunity.microsoft.com/t5/microsoft-ai-blog/bg-p/ArtificialIntelligence/rss",
     
     # Anthropic/Claude関連
-    "https://www.anthropic.com/blog/rss"
+    "https://www.anthropic.com/blog/rss",
+    
+    # arXiv AI論文フィード
+    "http://export.arxiv.org/rss/cs.AI"
 ]
 
 # フィルタリングに使用するキーワード
