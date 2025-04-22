@@ -18,12 +18,8 @@ AI_FEEDS = [
 ]
 
 # フィルタリングに使用するキーワード
-KEYWORDS = [
-    "生成AI", "大規模言語モデル", "LLM", "Claude", "Gemini", "GPT", "人工知能", 
-    "機械学習", "深層学習", "AI倫理", "AIガバナンス", "マルチモーダル", "音声認識",
-    "画像認識", "自然言語処理", "NLP", "強化学習", "Anthropic", "Microsoft AI",
-    "Google AI", "OpenAI", "transformers", "RLHF", "ニューラルネットワーク"
-]
+KEYWORDS = ["生成AI", "大規模言語モデル", "LLM", "Claude", "Gemini", "GPT", "Copilot", 
+            "Anthropic", "OpenAI", "transformers"]
 
 # その他の設定
 HOURS_BACK = 24  # 何時間前までの記事を収集するか

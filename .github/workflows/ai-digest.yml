@@ -36,4 +36,5 @@ jobs:
           git add ai_digest_*.txt
           git add docs/
           git commit -m "Update AI news digest [skip ci]" || echo "No changes to commit"
+          git pull --rebase origin main
           git push
