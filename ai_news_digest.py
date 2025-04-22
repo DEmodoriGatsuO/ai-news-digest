@@ -30,19 +30,7 @@ except ImportError:
         "https://techcommunity.microsoft.com/t5/microsoft-ai-blog/bg-p/ArtificialIntelligence/rss",
         
         # Anthropic/Claude関連
-        "https://www.anthropic.com/blog/rss",
-        
-        # その他主要なAIニュースソース
-        "https://openai.com/blog/rss/",
-        "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-        "https://venturebeat.com/category/ai/feed/",
-        "https://www.zdnet.com/topic/artificial-intelligence/rss.xml",
-        "https://arstechnica.com/tag/artificial-intelligence/feed",
-        "https://www.wired.com/tag/artificial-intelligence/feed",
-        # arXiv AI論文フィード
-        "http://export.arxiv.org/rss/cs.AI",
-        "http://export.arxiv.org/rss/cs.LG",
-        "http://export.arxiv.org/rss/cs.CL",
+        "https://www.anthropic.com/blog/rss"
     ]
     
     KEYWORDS = ["生成AI", "大規模言語モデル", "LLM", "Claude", "Gemini", "GPT", "人工知能", 
@@ -52,7 +40,6 @@ except ImportError:
 
 # APIキー設定
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
-SLACK_WEBHOOK_URL = os.environ.get("SLACK_WEBHOOK_URL")
 
 if GEMINI_API_KEY:
     genai.configure(api_key=GEMINI_API_KEY)
@@ -292,7 +279,6 @@ def main():
     for entry in filtered_entries:
         content = f"タイトル: {entry['title']}\n本文: {entry['summary']}"
         entry["ai_summary"] = summarize_with_gemini(content)
-        # APIレート制限対策
         time.sleep(1)
     
     # テキスト形式のダイジェストを生成
@@ -314,10 +300,6 @@ def main():
     
     # インデックスページを更新
     update_index_page(md_path)
-    
-    # Slack通知（設定されている場合）
-    if SLACK_WEBHOOK_URL:
-        send_to_slack(text_digest, SLACK_WEBHOOK_URL)
 
 if __name__ == "__main__":
     main()

@@ -11,19 +11,7 @@ AI_FEEDS = [
     "https://techcommunity.microsoft.com/t5/microsoft-ai-blog/bg-p/ArtificialIntelligence/rss",
     
     # Anthropic/Claude関連
-    "https://www.anthropic.com/blog/rss",
-    
-    # その他主要なAIニュースソース
-    "https://openai.com/blog/rss/",
-    "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-    "https://venturebeat.com/category/ai/feed/",
-    "https://www.zdnet.com/topic/artificial-intelligence/rss.xml",
-    "https://arstechnica.com/tag/artificial-intelligence/feed",
-    "https://www.wired.com/tag/artificial-intelligence/feed",
-    # arXiv AI論文フィード
-    "http://export.arxiv.org/rss/cs.AI",
-    "http://export.arxiv.org/rss/cs.LG",
-    "http://export.arxiv.org/rss/cs.CL",
+    "https://www.anthropic.com/blog/rss"
 ]
 
 # フィルタリングに使用するキーワード
