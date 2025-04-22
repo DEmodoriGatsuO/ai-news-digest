@@ -54,18 +54,18 @@ def get_feed_entries(feed_url, hours_back=24):
     """指定時間内の記事を取得"""
     entries = []
     current_time = datetime.datetime.now()
-    
+    years_back = 10
+    past_date = current_time - datetime.timedelta(days=365.25 * years_back)
+
     try:
         feed = feedparser.parse(feed_url)
         for entry in feed.entries:
-            # 公開日を解析（フィールド名が異なる場合に対応）
             if hasattr(entry, "published_parsed") and entry.published_parsed:
                 published = datetime.datetime.fromtimestamp(time.mktime(entry.published_parsed))
             elif hasattr(entry, "updated_parsed") and entry.updated_parsed:
                 published = datetime.datetime.fromtimestamp(time.mktime(entry.updated_parsed))
             else:
-                # 日付情報がない場合は現在時刻を使用
-                published = current_time
+                 published = past_date
             
             time_diff = current_time - published
             
@@ -85,10 +85,10 @@ def get_feed_entries(feed_url, hours_back=24):
     return entries
 
 def summarize_with_gemini(text, max_tokens=100):
-    """Gemini公式ライブラリを使用して要約を生成"""
+    """Geminiを使用して要約を生成"""
     try:
         # Geminiモデルの設定
-        model = genai.GenerativeModel('gemini-2.0-flash')
+        model = genai.GenerativeModel('gemini-2.0-flash-lite')
         
         # 要約の生成
         prompt = f"以下のAI関連記事を3-4文で要約してください。重要なポイントと影響を含めてください。\n\n{text}"
