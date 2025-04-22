@@ -98,7 +98,7 @@ def summarize_with_gemini(text, max_tokens=100):
     """Gemini公式ライブラリを使用して要約を生成"""
     try:
         # Geminiモデルの設定
-        model = genai.GenerativeModel('gemini-pro')
+        model = genai.GenerativeModel('gemini-2.0-flash')
         
         # 要約の生成
         prompt = f"以下のAI関連記事を3-4文で要約してください。重要なポイントと影響を含めてください。\n\n{text}"
