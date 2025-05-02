@@ -1,0 +1,55 @@
+🤖 AI最新ニュースダイジェスト 🤖
+2025年05月02日 12:49
+
+【1】Position Paper: Towards Open Complex Human-AI Agents Collaboration System for Problem-Solving and Knowledge Management (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2505.00018
+📅 2025年05月02日
+💡 この論文は、人間とAIエージェントの協調に関する既存の研究を包括的にレビューし、統一的な理論的枠組みの欠如を指摘しています。複雑な問題解決と知識管理のために、マルチエージェント協調、知識管理、フィードバックループ、上位レベルの制御メカニズムを統合する新しい概念アーキテクチャを提案しています。このフレームワークは、既存の手法の見直しを促し、人間とAIの共進化を
+
+【2】Real-World Gaps in AI Governance Research (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2505.00174
+📅 2025年05月02日
+💡 この論文は、2020年1月から2025年3月までの生成AIに関する研究を分析し、AIガバナンス研究における現実的なギャップを明らかにしています。主要なAI企業は、モデルの調整やテストといった展開前の問題に研究を集中させる一方、バイアスなどの展開後の問題への関心は薄れています。特に、医療、金融、偽情報といった高リスク分野での研究不足が深刻です。論文は、展開
+
+【3】RAIL in the Wild: Operationalizing Responsible AI Evaluation Using Anthropic's Value Dataset (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2505.00204
+📅 2025年05月02日
+💡 この論文は、AIシステムが倫理基準を満たしていることを確認するための、実践的な評価方法を提案しています。Anthropicの「Values in the Wild」データセットを用いて、大規模言語モデル（LLM）の倫理的行動を評価するRAILフレームワークを適用しています。この研究は、LLMの倫理的行動を測定可能な指標に落とし込み、実世界でのLLMの利用における倫理的課題への理解を深めることに貢献
+
+【4】Urban Air Mobility as a System of Systems: An LLM-Enhanced Holonic Approach (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2505.00368
+📅 2025年05月02日
+💡 この論文は、都市型空中交通（UAM）の複雑なシステムを管理するために、大規模言語モデル（LLM）を統合したインテリジェントなホロン型アーキテクチャを提案しています。このアーキテクチャは、自律的に機能するホロン（エアタクシー、地上輸送、バーティポートなど）間のリアルタイムな調整を可能にし、LLMが自然言語入力に基づいて適応的な計画を生成し、天候
+
+【5】UserCentrix: An Agentic Memory-augmented AI Framework for Smart Spaces (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2505.00472
+📅 2025年05月02日
+💡 UserCentrixは、スマート空間を強化するために設計された、エージェント型でメモリ拡張されたAIフレームワークです。このフレームワークは、ユーザーの好みを学習し、状況に応じた意思決定を行うパーソナライズされたLLMエージェントと、リアルタイムの応答性と全体的な状況認識を最適化するハイブリッド制御システムを統合しています。UserCentrixは、メモリ拡張推論、協調エージェント交渉、適応型オーケスト
+
+【6】Can LLMs Help Improve Analogical Reasoning For Strategic Decisions? Experimental Evidence from Humans and GPT-4 (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2505.00603
+📅 2025年05月02日
+💡 この研究は、戦略的意思決定における類推推論において、GPT-4などの大規模言語モデル（LLM）が人間の能力に匹敵できるかを検証しました。GPT-4は、多くの類推を生成するものの、表面的な類似性に基づいて誤った類推を適用する傾向がありました。一方、人間はより少ない類推を選択しますが、因果関係の整合性が高いという結果でした。この結果は、LLMが幅広い類推生成に役立ち
+
+【7】Combining LLMs with Logic-Based Framework to Explain MCTS (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2505.00610
+📅 2025年05月02日
+💡 この論文は、モンテカルロ木探索（MCTS）アルゴリズムの説明性を向上させるために、大規模言語モデル（LLM）と論理ベースのフレームワークを組み合わせた新しいアプローチを提案しています。このフレームワークは、ユーザーの質問を論理ステートメントに変換することで、MCTSの複雑な検索ツリーに関する事実に基づいた一貫性のある説明を提供します。評価結果は、このアプローチが正確性と事実の一貫性の両
+
+【8】Open-Source LLM-Driven Federated Transformer for Predictive IoV Management (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2505.00651
+📅 2025年05月02日
+💡 この論文は、オープンソースのLLMを活用した、予測的なIoV（Internet of Vehicles）管理のための新しいフレームワーク、FPoTT（Federated Prompt-Optimized Traffic Transformer）を提案しています。FPoTTは、動的なプロンプト最適化と二層の連合学習を活用し、プライバシーを保護しながら、リアルタイムでスケーラブルな交通管理を実現します。EleutherAI Pythia-1B LLMを使用し、99.
+
+【9】LangVAE and LangSpace: Building and Probing for Language Model VAEs (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2505.00004
+📅 2025年05月02日
+💡 この論文は、大規模言語モデル（LLM）を基盤とした変分オートエンコーダー（VAE）を構築するための新しいフレームワーク「LangVAE」を紹介しています。LangVAEは、LLMの知識をよりコンパクトで意味的に分離された表現にエンコードすることを可能にします。さらに、LangVAEと連携する「LangSpace」は、これらの表現を分析するための様々な手法を提供します。この研究は、テキスト表現の実験と理解を体系化するための有望な
+
+【10】Jailbreak Detection in Clinical Training LLMs Using Feature-Based Predictive Models (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2505.00010
+📅 2025年05月02日
+💡 この研究は、臨床教育プラットフォーム2-Sigmaで使用されている大規模言語モデル（LLM）における「jailbreak」攻撃を検出するための新しい手法を提案しています。研究者たちは、jailbreak行動と相関する言語的特徴を抽出し、決定木やロジスティック回帰などの予測モデルを訓練しました。その結果、これらの特徴ベースのモデルは、従来のプロンプトエンジニアリングよりも優れた性能を示し、特にFuzzy Decision Treeが最も高い
+
+---
+合計 71 件のAI関連ニュースが見つかりました。
