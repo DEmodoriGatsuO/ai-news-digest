@@ -1,0 +1,11 @@
+🤖 AI最新ニュースダイジェスト 🤖
+2025年05月03日 12:43
+
+【1】Listen to a podcast deep dive on long context in Gemini models. (AI)
+🔗 https://blog.google/technology/google-deepmind/release-notes-podcast-long-context/
+📅 2025年05月02日
+💡 Google AI: Release Notesの最新エピソードでは、Geminiモデルにおける「ロングコンテキスト」、つまりAIモデルが一度に処理できる情報量に焦点を当てています。このポッドキャストでは、Geminiが大量の情報を効率的に処理できる能力について深く掘り下げています。これにより、Geminiはより複雑なタスクを理解し、より詳細な応答を生成できるようになり、AIの可能性を大きく広げる可能性があります。
+
+
+---
+合計 1 件のAI関連ニュースが見つかりました。
