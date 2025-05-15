@@ -1,0 +1,55 @@
+🤖 AI最新ニュースダイジェスト 🤖
+2025年05月15日 12:52
+
+【1】Automated Meta Prompt Engineering for Alignment with the Theory of Mind (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2505.09024
+📅 2025年05月15日
+💡 この論文では、人間の思考（Theory of Mind）を理解し、それに合わせたテキスト生成を行うメタプロンプト技術を紹介しています。LLMを「Judge」として利用し、人間の編集を予測してテキストを生成することで、人間の期待との整合性を高めることを目指しています。US Open 2024での実験では、人間の編集との高い整合性を達成し、テニス関連コンテンツの品質向上に貢献しました。この技術は、スポーツやエンターテイ
+
+【2】Improving the Reliability of LLMs: Combining CoT, RAG, Self-Consistency, and Self-Verification (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2505.09031
+📅 2025年05月15日
+💡 この論文は、大規模言語モデル（LLM）の信頼性を向上させるための様々な手法を組み合わせた研究です。具体的には、思考の連鎖（CoT）、検索拡張生成（RAG）、自己整合性、自己検証を組み合わせることで、LLMが生成する誤った情報（ハルシネーション）を減らし、事実精度を高めることを目指しています。外部知識の活用と自己検証により、より正確で一貫性のある応答を
+
+【3】Beyond the Known: Decision Making with Counterfactual Reasoning Decision Transformer (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2505.09114
+📅 2025年05月15日
+💡 この論文は、オフライン強化学習における意思決定能力を向上させるために、反実仮想推論を活用した新しいフレームワーク「Counterfactual Reasoning Decision Transformer (CRDT)」を提案しています。CRDTは、既存のデータを超えて反実仮想的な経験を生成することで、データ不足や最適行動の欠如といった課題に対応し、未知の状況下での意思決定を改善します。AtariやD4RLベンチマークでの実験結果は、CRDT
+
+【4】Reproducibility Study of "Cooperate or Collapse: Emergence of Sustainable Cooperation in a Society of LLM Agents" (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2505.09289
+📅 2025年05月15日
+💡 この研究は、LLMエージェントの協力行動を評価するGovSimフレームワークを検証し、拡張しています。GPT-4-turboなどの大規模モデルは、普遍化原理の有無に関わらず持続可能な協力を達成できることが確認されました。また、DeepSeek-V3やGPT-4o-miniなどの新しいモデル、多様な環境、日本語指示を用いたシナリオを評価し、フレームワークの汎用性を実証しました。この研究は、
+
+【5】The Influence of Human-inspired Agentic Sophistication in LLM-driven Strategic Reasoners (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2505.09396
+📅 2025年05月15日
+💡 この論文は、大規模言語モデル（LLM）を活用したエージェントの戦略的推論能力を、人間の思考に近づけるための研究です。研究では、様々なエージェント設計（単純なモデル、LLM単体、伝統的なフレームワークと統合したLLM）を比較し、ゲーム理論的な状況下でのパフォーマンスを評価しました。結果として、人間の認知構造を取り入れることでLLMエージェントの人間らしい戦略的行動が向上することが示
+
+【6】In-Context Learning for Label-Efficient Cancer Image Classification in Oncology (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2505.08798
+📅 2025年05月15日
+💡 この論文は、AIをがん画像分類に応用する際に、少数のラベル付きデータで学習できる「インコンテキスト学習（ICL）」の有効性を検証しています。4つのビジョン・言語モデル（VLM）を用いて、様々な腫瘍学データセットで実験を行い、GPT-4oが良好な結果を示しました。ICLは、再学習なしで新しい診断タスクに適応できるため、データ不足や計算リソースの制約がある環境での
+
+【7】An Extra RMSNorm is All You Need for Fine Tuning to 1.58 Bits (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2505.08823
+📅 2025年05月15日
+💡 この論文は、大規模言語モデル（LLM）の微調整において、追加のRMSNorm層を導入するだけで、1.58ビットという超低ビット精度での安定した学習を実現できることを示しています。この手法は、複雑な知識蒸留パイプラインと同等の性能を達成し、モデルの複雑さを増やすことなく、低ビット精度化に伴う精度低下を克服しています。これにより、メモリと計算コストを大幅に削減しつつ、実用
+
+【8】Self Rewarding Self Improving (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2505.08827
+📅 2025年05月15日
+💡 この論文は、大規模言語モデル（LLM）が、正解を参照することなく自己評価を通じて効果的に自己改善できることを示しています。実験では、LLMが自己評価によって信頼できる報酬信号を提供し、以前は不可能だった領域での強化学習を可能にしました。自己評価と問題生成を組み合わせることで、モデルは自己学習の完全なループを確立し、パフォーマンスを向上させました。この研究は、LLMが自己学習を通じて継続的に
+
+【9】Human-AI Collaboration or Academic Misconduct? Measuring AI Use in Student Writing Through Stylometric Evidence (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2505.08828
+📅 2025年05月15日
+💡 この研究は、学生の論文におけるAI利用を測定するために、筆者検証（AV）技術を開発し、その有効性を検証しました。研究では、学生のライティングスタイルを分析し、AI生成テキストとの違いを特定することで、AIによる支援の度合いを定量化することを目指しています。結果として、AIと人間の協働を可視化し、教育者が学術的な不正行為を調査するための透明性の高いツールを提供し、学生のライティング
+
+【10】Federated Large Language Models: Feasibility, Robustness, Security and Future Directions (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2505.08830
+📅 2025年05月15日
+💡 この論文は、大規模言語モデル（LLM）と連合学習（FL）を組み合わせた「連合大規模言語モデル（FLLM）」の現状を包括的にレビューしています。FLLMは、プライバシーを保護しながら分散データで共同学習できる有望な技術ですが、通信・計算コスト、データの多様性、プライバシーとセキュリティの問題といった課題に直面しています。研究は主に実現可能性に焦点を当てており、今後はシステムの堅牢性とセキュリティの
+
+---
+合計 60 件のAI関連ニュースが見つかりました。
