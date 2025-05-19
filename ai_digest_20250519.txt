@@ -1,0 +1,56 @@
+🤖 AI最新ニュースダイジェスト 🤖
+2025年05月19日 12:56
+
+【1】On the Evaluation of Engineering Artificial General Intelligence (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2505.10653
+📅 2025年05月19日
+💡 この論文は、工学的な人工汎用知能（eAGI）エージェントの評価に関する課題を議論し、評価フレームワークを提案しています。eAGIは、物理システムやコントローラーの工学における幅広い問題を解決できる能力を持つと定義されています。提案されたフレームワークは、人間の学習評価に用いられるブルームの分類法を工学設計の文脈に特化させ、方法論的知識から現実世界の設計問題までを網
+
+【2】Interpretable Risk Mitigation in LLM Agent Systems (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2505.10670
+📅 2025年05月19日
+💡 この論文は、大規模言語モデル（LLM）を搭載した自律型エージェントの安全性を高めるための新しい手法を提案しています。具体的には、LLMの振る舞いを解釈可能な特徴に基づいて制御することで、エージェントの信頼性を向上させることを目指しています。実験では、ゲーム理論的な環境で、交渉能力を向上させることで裏切り行為を減らすことに成功しました。この研究は、LLMエージェントの実世界での
+
+【3】Embodied AI in Machine Learning -- is it Really Embodied? (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2505.10705
+📅 2025年05月19日
+💡 この論文は、機械学習における「Embodied AI」の現状を批判的に評価しています。著者は、現在のAI搭載ロボットは真に「embodied（身体性）」しているとは言えず、従来のGOFAI（Good Old-Fashioned Artificial Intelligence）の問題を継承していると主張しています。さらに、クロス・エンボディメント学習の可能性についても議論し、今後の進歩に向けた課題と方向性を示唆しています。この研究は、AIロボット開発における
+
+【4】Evaluations at Work: Measuring the Capabilities of GenAI in Use (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2505.10742
+📅 2025年05月19日
+💡 この論文は、人間とAIの協働におけるGenAIの能力を評価するための新しいフレームワークを提案しています。従来のベンチマークでは捉えきれない、現実世界の複雑なタスクを複数のサブタスクに分解し、LLMのパフォーマンスとユーザーの戦略を追跡します。このフレームワークを用いて、出力の品質、構造的整合性、多様性、そしてAIの出力とユーザーの知識との整合性を測る指標を開発しました。金融評価
+
+【5】Code-Driven Planning in Grid Worlds with Large Language Models (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2505.10749
+📅 2025年05月19日
+💡 この論文は、大規模言語モデル（LLM）を用いて、コード生成による解法合成を通じてグリッドベースのタスクを解決する新しい手法「反復的プログラム計画（IPP）」を提案しています。IPPは、LLMが環境の状態から行動シーケンスへのマッピングを行う実行可能なコードを生成し、パフォーマンスフィードバックに基づいてコードを反復的に改善します。この手法は、GRASPなどのグリッドベースのベンチマークで、直接的なコード
+
+【6】PoE-World: Compositional World Modeling with Products of Programmatic Experts (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2505.10819
+📅 2025年05月19日
+💡 この論文は、複雑な環境に適応できるAIエージェント構築のための新しい世界モデル「PoE-World」を提案しています。PoE-Worldは、LLMによって合成されたプログラム的専門家の積として世界モデルを表現し、少ないデータから複雑な世界モデルを学習できます。このアプローチは、AtariのPongとMontezuma's Revengeで、効率的なパフォーマンスと未見のレベルへの一般化を示し、従来の深層学習ベース
+
+【7】Creativity or Brute Force? Using Brainteasers as a Window into the Problem-Solving Abilities of Large Language Models (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2505.10844
+📅 2025年05月19日
+💡 この研究は、大規模言語モデル（LLM）の推論能力を評価するために、長文の脳トレ問題を用いた新しいベンチマークを提案しています。単なる正答率だけでなく、解決策の質や創造性にも焦点を当て、LLMが創造的な洞察力に基づいた解決策を見つけられる一方、より効率的な方法があるにも関わらず力任せな解決策に頼る場合もあることを発見しました。この研究は、LLM
+
+【8】InfantAgent-Next: A Multimodal Generalist Agent for Automated Computer Interaction (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2505.10887
+📅 2025年05月19日
+💡 InfantAgent-Nextは、テキスト、画像、音声、動画など複数の情報を処理できる汎用的なAIエージェントです。このエージェントは、高度なモジュール構造を採用し、ツールベースと純粋なビジョンエージェントを統合することで、様々なタスクを段階的に解決します。OSWorldなどの実世界ベンチマークで高い精度を達成し、既存のAIエージェントを上回る性能を示しています。
+
+
+【9】MPS-Prover: Advancing Stepwise Theorem Proving by Multi-Perspective Search and Data Curation (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2505.10962
+📅 2025年05月19日
+💡 MPS-Proverは、AIにおける自動定理証明（ATP）の課題を解決するために開発された新しいシステムです。このシステムは、冗長なトレーニングデータを削減するデータキュレーション戦略と、多様な戦術選択を可能にする多視点ツリー検索メカニズムを特徴としています。その結果、miniF2FやProofNetなどの難しいベンチマークで優れた性能を発揮し、既存のモデルよりも短く多様な証明を生成することに成功
+
+【10】Rethinking the Role of Prompting Strategies in LLM Test-Time Scaling: A Perspective of Probability Theory (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2505.10981
+📅 2025年05月19日
+💡 この論文は、大規模言語モデル（LLM）のテスト時スケーリングにおけるプロンプト戦略の役割を再考しています。実験結果から、計算量が増加するにつれて、複雑なプロンプト戦略よりもシンプルなChain-of-Thoughtが優位になることを示しました。確率論に基づいたスケーリング性能の予測方法を提案し、シンプルなプロンプト戦略の可能性を解き放つことで、テスト時スケーリングのパフォーマンス向上に
+
+---
+合計 126 件のAI関連ニュースが見つかりました。
