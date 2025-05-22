@@ -1,0 +1,55 @@
+🤖 AI最新ニュースダイジェスト 🤖
+2025年05月22日 12:56
+
+【1】R&D-Agent: Automating Data-Driven AI Solution Building Through LLM-Powered Automated Research, Development, and Evolution (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2505.14738
+📅 2025年05月22日
+💡 この論文は、大規模言語モデル（LLM）を活用した自動研究、開発、進化を実現する二重エージェントフレームワーク「R&D-Agent」を紹介しています。R&D-Agentは、研究者エージェントと開発者エージェントが連携し、パフォーマンスとエラーフィードバックに基づいてAIソリューションを反復的に構築します。MLE-Benchでの評価で最高のパフォーマンスを示し、データサイエンスにおけるイノベーションの加速と精度向上
+
+【2】FOL-Pretrain: A complexity annotated corpus of first-order logic (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2505.14932
+📅 2025年05月22日
+💡 この論文は、大規模言語モデル (LLM) の推論能力を理解するために、複雑さの注釈が付いた一階述語論理 (FOL) データセット「FOL-Pretrain」を提案しています。このデータセットは、LLM 拡張と合成生成された例を含み、LLM がどのようにアルゴリズム的推論を学習し、一般化するかを研究するためのスケーラブルで解釈可能なリソースを提供します。これにより、LL
+
+【3】Reinforcement Learning from User Feedback (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2505.14946
+📅 2025年05月22日
+💡 この論文は、大規模言語モデル（LLM）を実際のユーザーの好みに合わせるための新しい手法「Reinforcement Learning from User Feedback (RLUF)」を紹介しています。RLUFは、ユーザーからの直接的なフィードバック（例えば、絵文字リアクション）を利用してLLMを学習させ、従来の専門家による評価に頼るRLHFの課題を解決します。実験では、RLUFが肯定的なフィードバックを増加させ、A/BテストでLove
+
+【4】Self-Evolving Curriculum for LLM Reasoning (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2505.14970
+📅 2025年05月22日
+💡 この論文は、大規模言語モデル（LLM）の推論能力を向上させるための新しい自己進化型カリキュラム（SEC）を提案しています。SECは、強化学習（RL）を用いて、トレーニング問題の提示順序を学習し、より効果的な学習を実現します。具体的には、問題の難易度や種類をアームとして扱い、各ステップで学習効果を最大化する問題カテゴリを選択します。実験結果は、SECが様々な推論
+
+【5】ModelingAgent: Bridging LLMs and Mathematical Modeling for Real-World Challenges (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2505.15068
+📅 2025年05月22日
+💡 この論文は、大規模言語モデル（LLM）と数理モデリングを統合し、現実世界の課題解決能力を向上させることを目指しています。ModelingBenchという、都市交通最適化から生態系資源計画まで、多様な分野の現実世界の問題を扱う新しいベンチマークを導入し、LLMが自然言語を数式に変換し、適切なツールを適用して構造化されたレポートを作成する能力を評価します。さらに、ツール利用を調整
+
+【6】lmgame-Bench: How Good are LLMs at Playing Games? (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2505.15146
+📅 2025年05月22日
+💡 この論文は、大規模言語モデル（LLM）がゲームプレイでどの程度優れているかを評価するための新しいベンチマーク「lmgame-Bench」を紹介しています。従来のゲーム評価は、視覚認識の脆弱性、プロンプトへの依存性、データの汚染といった問題により、LLMの能力を正確に測ることが困難でした。lmgame-Benchは、統一されたAPIと軽量な補助機能を提供し、これらの問題を解決することで、LLMのゲームプレイ
+
+【7】Generalised Probabilistic Modelling and Improved Uncertainty Estimation in Comparative LLM-as-a-judge (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2505.15240
+📅 2025年05月22日
+💡 この論文は、比較評価における大規模言語モデル（LLM）の判断能力を向上させるための、一般化された確率モデリングと不確実性推定に焦点を当てています。既存の手法をより広範なフレームワークに拡張し、個々の比較における不確実性推定を改善することで、評価効率を大幅に向上させ、必要な比較回数を約50%削減することに成功しました。さらに、ランキング全体の不確実性を推定する方法
+
+【8】ClickSight: Interpreting Student Clickstreams to Reveal Insights on Learning Strategies via LLMs (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2505.15410
+📅 2025年05月22日
+💡 この論文は、大規模言語モデル（LLM）を活用して、学生のクリックストリームデータから学習戦略に関する洞察を抽出する「ClickSight」という新しい手法を紹介しています。ClickSightは、生のクリックストリームと学習戦略のリストを入力として、学生の行動に関するテキスト解釈を生成します。評価の結果、LLMはクリックストリームから学習戦略をある程度解釈できるものの、プロンプト戦略によって解釈の質が異なり、自己
+
+【9】DraftAttention: Fast Video Diffusion via Low-Resolution Attention Guidance (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2505.14708
+📅 2025年05月22日
+💡 この論文は、動画生成AIの計算コストを大幅に削減する「DraftAttention」という新しいフレームワークを提案しています。DraftAttentionは、低解像度の注意マップを利用して、GPU上で動的なスパース注意を適用することで、動画生成におけるボトルネックである注意計算を高速化します。これにより、動画生成の品質を損なうことなく、最大1.75倍の速度向上を実現し、実用性とスケーラビリティを向上させます
+
+【10】MedBLIP: Fine-tuning BLIP for Medical Image Captioning (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2505.14726
+📅 2025年05月22日
+💡 この論文は、医療画像キャプション生成におけるBLIPモデルの有効性を探求しています。ROCOデータセットでBLIPをファインチューニングすることで、既存のモデルよりも臨床的に正確で意味のあるキャプションを生成できることを示しました。特に、デコーダーのみのファインチューニングは、トレーニング時間を短縮しながらも高いパフォーマンスを発揮し、フルモデルのファインチューニングが最良の結果をもたらすことも示唆されました。この研究は
+
+---
+合計 155 件のAI関連ニュースが見つかりました。
