@@ -1,0 +1,56 @@
+🤖 AI最新ニュースダイジェスト 🤖
+2025年05月26日 12:55
+
+【1】Where You Go is Who You Are: Behavioral Theory-Guided LLMs for Inverse Reinforcement Learning (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2505.17249
+📅 2025年05月26日
+💡 この論文は、大規模言語モデル（LLM）を活用して、移動パターンから社会人口統計学的属性を推測する新しいフレームワーク「SILIC」を紹介しています。SILICは、行動理論（計画的行動理論）に基づき、人間の行動の背後にある認知プロセスをモデル化することで、従来のモデルよりも高い予測精度を実現しています。このアプローチは、LLMが逆強化学習（IRL）をガイドし、報酬関数の初期化と更新
+
+【2】AdaReasoner: Adaptive Reasoning Enables More Flexible Thinking (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2505.17312
+📅 2025年05月26日
+💡 AdaReasonerは、LLMの思考をより柔軟にするための、LLMに依存しないプラグインです。様々なタスクに最適な温度や推論ステップなどの設定を、強化学習を用いて自動的に調整します。これにより、既存の固定設定よりも高いパフォーマンスを発揮し、知識集約型のタスクでも効果を発揮します。AdaReasonerは、LLMの性能を向上させ、より複雑な問題解決を可能にする可能性を秘めています。
+
+
+【3】Misaligning Reasoning with Answers -- A Framework for Assessing LLM CoT Robustness (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2505.17406
+📅 2025年05月26日
+💡 この論文は、大規模言語モデル（LLM）のChain-of-Thought（CoT）による推論の頑健性を評価する新しいフレームワーク「MATCHA」を提案しています。MATCHAは、入力のわずかな変化に対するLLMの推論と回答の一貫性を検証し、特に教育や医療などの分野で重要な信頼性の問題を浮き彫りにしています。研究結果は、LLMがマルチステップタスクや常識的なタスクにおいて、
+
+【4】Scaling Up Biomedical Vision-Language Models: Fine-Tuning, Instruction Tuning, and Multi-Modal Learning (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2505.17436
+📅 2025年05月26日
+💡 この論文は、バイオメディカル分野における画像とテキストを組み合わせた大規模言語モデルの性能向上を目指しています。研究者たちは、2つの大規模モデル（BiomedGPT-LargeとBiomedGPT-XLarge）を開発し、様々なタスクでファインチューニングと命令チューニングを実施しました。その結果、既存のモデルを上回る性能を示し、ゼロショット学習能力も向上しました。この研究は、医療画像診断や研究におけるAI
+
+【5】From Reasoning to Generalization: Knowledge-Augmented LLMs for ARC Benchmark (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2505.17482
+📅 2025年05月26日
+💡 この論文は、抽象的推論と一般化能力を評価するARCベンチマークで、最近の推論指向LLMの性能を検証しています。研究者たちは、プログラム合成タスクとしてARCを扱い、繰り返しサンプリング計画支援コード生成（RSPC）が最も高い精度を達成することを発見しました。さらに、知識を階層的に分類したオントロジーを用いてLLMの推論能力を段階的に拡張するKAARという手法を提案
+
+【6】Probe by Gaming: A Game-based Benchmark for Assessing Conceptual Knowledge in LLMs (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2505.17512
+📅 2025年05月26日
+💡 この論文は、大規模言語モデル（LLM）の概念理解能力を評価するための新しいゲームベースのベンチマーク「CK-Arena」を紹介しています。CK-Arenaは、Undercoverゲームを基盤とし、LLMが概念間の境界を推論し、区別する能力を評価します。実験結果は、LLMの概念理解がモデルのサイズや一般的な能力と必ずしも相関しないことを示しており、この新しいベンチマークは、LLM
+
+【7】Optimizing Retrieval-Augmented Generation for Electrical Engineering: A Case Study on ABB Circuit Breakers (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2505.17520
+📅 2025年05月26日
+💡 この論文は、大規模言語モデル（LLM）と検索拡張生成（RAG）を組み合わせた技術を、ABBの遮断器に関する技術的な質問への回答に適用した研究です。研究では、専門的なデータセット、高度な埋め込みモデル、最適化されたチャンク化戦略を用いて、精度、信頼性、文脈の関連性を評価しています。GPT4o、Cohere、Anthropic Claudeの3つのRAGパイプラインを比較し
+
+【8】USTBench: Benchmarking and Dissecting Spatiotemporal Reasoning of LLMs as Urban Agents (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2505.17572
+📅 2025年05月26日
+💡 この論文は、都市エージェントとしての大規模言語モデル（LLM）の時空間推論能力を評価するための新しいベンチマーク「USTBench」を紹介しています。USTBenchは、理解、予測、計画、フィードバックといった4つの次元に分解してLLMの推論プロセスを詳細に分析し、都市環境における多様なタスクで評価します。13の主要なLLMの評価結果から、LLMは有望な能力を示すものの、
+
+【9】Controlled Agentic Planning & Reasoning for Mechanism Synthesis (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2505.17607
+📅 2025年05月26日
+💡 この論文は、大規模言語モデル（LLM）を用いた、機構合成のための新しい推論手法を提案しています。この手法は、言語的レベルと記号的レベルの両方で推論を行い、幾何学的および動的な結果を生成します。自然言語の仕様から、シミュレーションコードの生成、フィードバックの獲得まで、一連の機能を通じて機構を設計します。さらに、平面機構合成のための新しいベンチマーク「MSynth」を導入
+
+【10】Decoupled Visual Interpretation and Linguistic Reasoning for Math Problem Solving (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2505.17609
+📅 2025年05月26日
+💡 この論文は、数学の問題解決におけるビジョンと言語の推論を分離する新しいアプローチを提案しています。従来のモデルとは異なり、視覚情報をテキストに変換する専門家と、テキストベースの言語モデル（LLM）を連携させることで、複雑な問題への対応を目指しています。この手法は、既存のモデルを効率的に活用し、視覚に依存する数学問題で特に優れた性能を発揮します。これにより、今後のLLMの進化に
+
+---
+合計 196 件のAI関連ニュースが見つかりました。
