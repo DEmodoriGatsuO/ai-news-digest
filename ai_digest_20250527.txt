@@ -1,0 +1,55 @@
+🤖 AI最新ニュースダイジェスト 🤖
+2025年05月27日 13:06
+
+【1】Understanding and Mitigating Overrefusal in LLMs from an Unveiling Perspective of Safety Decision Boundary (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2505.18325
+📅 2025年05月27日
+💡 この論文は、大規模言語モデル（LLM）が正当な質問を拒否する「過剰拒否」の問題を、安全性の決定境界という視点から分析しています。研究者たちは、モデルの安全性の決定境界を調査し、過剰拒否が境界付近での誤った判断に起因することを発見しました。この知見に基づき、RASSという自動フレームワークを開発し、安全性の決定境界に沿ったプロンプトを
+
+【2】RedactOR: An LLM-Powered Framework for Automatic Clinical Data De-Identification (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2505.18380
+📅 2025年05月27日
+💡 この論文は、AIを活用した医療データ分析におけるプライバシー保護を目的とした、臨床データの自動匿名化フレームワーク「RedactOR」を提案しています。RedactORは、ルールベース、LLM、音声データを含む様々な形式の医療データを効率的に匿名化し、データの有用性を維持します。このフレームワークは、LLMコストを最適化しつつ、高い精度で個人情報を特定し置換することで、実世界の医療データパイプラインへの応用を
+
+【3】Retrieval Augmented Decision-Making: A Requirements-Driven, Multi-Criteria Framework for Structured Decision Support (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2505.18483
+📅 2025年05月27日
+💡 この論文は、構造化された意思決定支援のための新しいフレームワーク「RAD」を提案しています。RADは、LLMのセマンティック理解能力と多基準意思決定を統合し、業界文書から重要な基準を自動的に抽出し、重み付けされた階層的な意思決定モデルを構築します。これにより、詳細で合理的な、追跡可能な意思決定レポートを生成し、既存の方法よりも優れた結果を示しました。RADは、複雑な意思決定支援において
+
+【4】Enumerate-Conjecture-Prove: Formally Solving Answer-Construction Problems in Math Competitions (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2505.18492
+📅 2025年05月27日
+💡 この論文は、数学コンテストにおける「答え構築」問題の解決を目指し、大規模言語モデル（LLM）の創造性と形式的証明の厳密性を組み合わせた新しいフレームワーク「Enumerate-Conjecture-Prove (ECP)」を提案しています。 ECPは、LLMによる候補生成、パターン認識による推測、形式的定理証明を統合し、ConstructiveBenchという新しいデータセットを用いて、従来のLLMベースの手法よりも大幅に高い精度
+
+【5】Knowledge Grafting of Large Language Models (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2505.18502
+📅 2025年05月27日
+💡 この論文は、大規模言語モデル（LLM）における能力のクロス転送を効率的に行う新しい手法「GraftLLM」を提案しています。GraftLLMは、SkillPack形式でソースモデルの能力をターゲットモデルに保存し、パラメータの競合を減らし、忘却を防ぎながら、効率的な知識転送を実現します。モジュールを意識した適応的な圧縮戦略により、タスク固有の知識を維持しつつ、コンパクトな
+
+【6】LiSTEN: Learning Soft Token Embeddings for Neural Audio LLMs (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2505.18517
+📅 2025年05月27日
+💡 この論文では、大規模言語モデル（LLM）を音声・オーディオタスクに適応させるためのフレームワーク「LiSTEN」を紹介しています。LiSTENは、動的なプロンプト選択戦略と学習可能なキーバリューペアを使用し、汎用的な知識とタスク固有の知識のバランスを取りながら、過学習を回避します。これにより、大規模なデータセットへの依存を減らし、少ないパラメータで競争力のあるパフォーマンスを実現し、単一段階のプロセス
+
+【7】Generative RLHF-V: Learning Principles from Multi-modal Human Preference (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2505.18531
+📅 2025年05月27日
+💡 この論文は、人間の意図に沿ったマルチモーダル大規模言語モデル（MLLM）の訓練における課題を解決するため、Generative RLHF-Vという新しいアライメントフレームワークを提案しています。Generative RLHF-Vは、生成型報酬モデル（GRM）とマルチモーダルRLHFを統合し、RLによってGRMが人間の意図を捉え、ペアごとのスコアを予測できるようにします。実験結果は、Generative RL
+
+【8】RoleRAG: Enhancing LLM Role-Playing via Graph Guided Retrieval (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2505.18541
+📅 2025年05月27日
+💡 この論文は、大規模言語モデル（LLM）のロールプレイング能力を向上させるための新しいフレームワーク、RoleRAGを提案しています。RoleRAGは、知識グラフを活用して、キャラクター固有の知識を正確に検索し、キャラクターの認知的な境界を考慮することで、LLMがキャラクターの背景に沿った、より一貫性のある応答を生成できるようにします。実験結果は、RoleRAGがLLMのハルシネーションを減らし
+
+【9】Response Uncertainty and Probe Modeling: Two Sides of the Same Coin in LLM Interpretability? (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2505.18575
+📅 2025年05月27日
+💡 この論文は、大規模言語モデル（LLM）の解釈可能性における、応答の不確実性とプローブモデリングの関係性を探求しています。研究の結果、プローブの性能はLLMの応答の不確実性と強く相関しており、応答の不確実性が低いほどプローブの性能は向上することが示されました。これは、LLMの応答のばらつきが大きいほど、プローブモデルが解釈すべき重要な特徴が増え、性能
+
+【10】RvLLM: LLM Runtime Verification with Domain Knowledge (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2505.18585
+📅 2025年05月27日
+💡 この論文は、大規模言語モデル（LLM）の信頼性を高めるために、ドメイン知識を活用した新しいランタイム検証フレームワーク「RvLLM」を提案しています。RvLLMは、専門家が軽量かつ直感的にドメイン固有の制約を定義できる仕様言語（ESL）を使用し、LLMの出力を検証します。実験結果は、RvLLMが様々なLLMにおけるエラーを効果的に検出し、LLMが依然
+
+---
+合計 427 件のAI関連ニュースが見つかりました。
