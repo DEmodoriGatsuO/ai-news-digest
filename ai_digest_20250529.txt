@@ -1,0 +1,55 @@
+🤖 AI最新ニュースダイジェスト 🤖
+2025年05月29日 12:55
+
+【1】R1-Code-Interpreter: Training LLMs to Reason with Code via Supervised and Reinforcement Learning (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2505.21668
+📅 2025年05月29日
+💡 この論文では、大規模言語モデル（LLM）がコードを駆使して推論を行う能力を向上させるための新しい手法「R1-Code-Interpreter」を提案しています。具体的には、教師あり学習（SFT）と強化学習（RL）を組み合わせ、LLMが複数のコードクエリを自律的に生成し、複雑なタスクを解決できるように訓練しています。その結果、R1-CI-14Bモデルは、GPT-4
+
+【2】Make Planning Research Rigorous Again! (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2505.21674
+📅 2025年05月29日
+💡 この論文は、計画分野における研究の厳密性を再評価することを提唱しています。特に、大規模言語モデル（LLM）を用いた計画研究において、従来の計画コミュニティが培ってきた知見やツール、データを取り入れる重要性を強調しています。LLMベースのプランナー開発における過去の失敗を回避し、より効率的な進歩を促すことが期待されています。このアプローチは、LLMプランニングの発展だけでなく、計画分野全体の進歩にも貢献
+
+【3】Don't Think Longer, Think Wisely: Optimizing Thinking Dynamics for Large Reasoning Models (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2505.21765
+📅 2025年05月29日
+💡 この論文は、大規模推論モデル（LRM）の推論効率を向上させるための新しいフレームワークを提案しています。LRMは、過剰な思考により出力長が長くなる傾向があり、計算リソースを浪費し、パフォーマンスを低下させる可能性があります。この研究では、モデルが適切な思考パターンを動的に選択できるように最適化し、推論パスを簡潔かつ効率的にすることで、計算コストを最大47%削減し、精度を最大
+
+【4】Towards Safety Reasoning in LLMs: AI-agentic Deliberation for Policy-embedded CoT Data Creation (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2505.21784
+📅 2025年05月29日
+💡 この論文は、大規模言語モデル（LLM）の安全性を向上させるための新しいデータ生成手法「AIDSAFE」を提案しています。AIDSAFEは、マルチエージェントによる反復的な議論を通じて、安全ポリシーを組み込んだ高品質なChain-of-Thought（CoT）データセットを生成します。このデータセットでLLMを微調整することで、安全性の向上、特に脱獄攻撃への耐性が高まり、過剰な拒否反応を抑え
+
+【5】SAGE-Eval: Evaluating LLMs for Systematic Generalizations of Safety Facts (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2505.21828
+📅 2025年05月29日
+💡 この論文は、大規模言語モデル（LLM）が安全に関する情報を新しい状況に適切に適用できるかを評価する新しいベンチマーク「SAGE-Eval」を紹介しています。SAGE-Evalは、LLMが安全に関する事実を一般化する能力をテストし、潜在的な危険性のある質問に対する警告を提供できるかを評価します。研究結果によると、最先端のLLMでさえ、テストされた安全に関する事実の約半分しか正しく適用できず、
+
+【6】Modeling and Optimizing User Preferences in AI Copilots: A Comprehensive Survey and Taxonomy (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2505.21907
+📅 2025年05月29日
+💡 この論文は、AIコパイロットにおけるユーザーの好みをモデル化し最適化する方法を包括的に調査しています。AIコパイロットの使いやすさ、信頼性、生産性を高めるために、ユーザーの好みを理解し、それに合わせることが重要であると強調しています。論文では、好みの取得、モデル化、洗練化に関する技術を分析し、AIパーソナライゼーション、人間とAIの協働、大規模言語モデルの適応に関する
+
+【7】From Reasoning to Learning: A Survey on Hypothesis Discovery and Rule Learning with Large Language Models (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2505.21935
+📅 2025年05月29日
+💡 この論文は、大規模言語モデル（LLM）が単なる命令実行者から、新たな知識を発見し、革新を生み出すエンジンへと進化する可能性を探求しています。LLMが仮説を生成し、検証することで、研究や科学、問題解決を根本的に変える可能性を示唆しています。ペルスの推論フレームワークに基づき、既存の研究を分析し、LLMによる仮説発見の現状と課題を明らかにしています。これにより、LL
+
+【8】Efficiently Enhancing General Agents With Hierarchical-categorical Memory (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2505.22006
+📅 2025年05月29日
+💡 この論文では、大規模言語モデル（LLM）を活用した汎用マルチモーダルエージェントを効率的に強化する新しい手法「EHC」を提案しています。EHCは、階層的メモリ検索（HMR）とタスクカテゴリ指向経験学習（TOEL）モジュールで構成され、パラメータ更新なしで継続的に学習し、新しい環境に適応できます。HMRは迅速なメモリ検索と無制限の記憶容量を可能にし、TOEL
+
+【9】Reinforced Reasoning for Embodied Planning (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2505.22050
+📅 2025年05月29日
+💡 この論文は、強化学習を用いて、動的な視覚情報と自然言語の目標に基づいて行動計画を立てるAIエージェントの能力を向上させることを目指しています。具体的には、高品質なデータセットから構造化された意思決定の事前知識を学習させ、ルールベースの報酬関数とGRPOを用いてポリシーを最適化しています。実験結果は、既存のモデルを大幅に上回り、未知の環境への高い汎化能力を示すことで、強化学
+
+【10】VIRAL: Vision-grounded Integration for Reward design And Learning (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2505.22092
+📅 2025年05月29日
+💡 この論文は、AIと人間の意図の整合性を高めるための新しい手法「VIRAL」を紹介しています。VIRALは、マルチモーダルLLMを活用して報酬関数を自動生成・洗練し、強化学習の効率と精度を向上させます。具体的には、環境と目標に基づいて報酬関数を生成し、人間のフィードバックやビデオLLMによる説明を通じて改善します。5つの環境での実験で、VIRALは学習速度を向上させ、
+
+---
+合計 169 件のAI関連ニュースが見つかりました。
