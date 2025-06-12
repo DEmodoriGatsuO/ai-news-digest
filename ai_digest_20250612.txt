@@ -1,0 +1,55 @@
+🤖 AI最新ニュースダイジェスト 🤖
+2025年06月12日 12:56
+
+【1】Ming-Omni: A Unified Multimodal Model for Perception and Generation (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2506.09344
+📅 2025年06月12日
+💡 Ming-Omniは、画像、テキスト、音声、動画を処理し、音声と画像生成も可能な統一されたマルチモーダルモデルです。Lingと呼ばれるMoEアーキテクチャを採用し、異なるモダリティからの情報を効率的に処理・融合します。Ming-Omniは、音声と画像生成をサポートすることで、コンテキストに応じたチャット、テキスト読み上げ、画像編集など、幅広いタスクに対応します。GPT-4oに匹敵するモダ
+
+【2】Beyond Nash Equilibrium: Bounded Rationality of LLMs and humans in Strategic Decision-making (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2506.09390
+📅 2025年06月12日
+💡 この研究は、大規模言語モデル（LLM）が戦略的意思決定において、人間と同様に完全な合理性から逸脱することを示しています。実験ゲーム（Rock-Paper-Scissorsと囚人のジレンマ）を用いて、LLMが人間の行動に見られるような限定合理性を示すことを確認しました。LLMは人間のヒューリスティックを模倣するものの、より硬直的であり、環境の変化に対する感度が低いことが判明しました。この結果は、LL
+
+【3】A Call for Collaborative Intelligence: Why Human-Agent Systems Should Precede AI Autonomy (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2506.09420
+📅 2025年06月12日
+💡 この論文は、AIの将来は完全自律型システムではなく、人間とAIが協力する「Human-Agent Systems (LLM-HAS)」にあると主張しています。LLM-HASは、人間のガイダンスと制御を維持しながら、AIが複雑なタスクを処理することで、信頼性と適応性を向上させます。医療、金融、ソフトウェア開発などの分野での人間とAIの協働の利点を強調し、AIの進歩は自律性
+
+【4】DipLLM: Fine-Tuning LLM for Strategic Decision-making in Diplomacy (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2506.09655
+📅 2025年06月12日
+💡 この論文は、外交ゲームにおける戦略的意思決定のために、大規模言語モデル（LLM）を微調整した「DipLLM」を提案しています。DipLLMは、複雑なマルチユニットの行動割り当てをユニットレベルの決定のシーケンスに分解する自己回帰型分解フレームワークを使用しています。これにより、従来のモデルよりも少ないデータ量で、外交ゲームにおける最先端のAIモデルであるCiceroを上回るパフォーマンスを達成しました。この研究は
+
+【5】Application-Driven Value Alignment in Agentic AI Systems: Survey and Perspectives (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2506.09656
+📅 2025年06月12日
+💡 この論文は、エージェントAIシステムにおける価値整合に焦点を当て、特に特定のアプリケーションシナリオにおける価値整合を調査しています。大規模言語モデルの進化に伴い、AIの利用が複雑化し、価値整合の重要性が増しています。論文では、価値原則、アプリケーションシナリオ、評価方法を階層的に整理し、マルチエージェントシステムにおける価値調整についても考察しています。この研究は、AIの社会実装におけるリスクを軽減し、人間と
+
+【6】Intent Factored Generation: Unleashing the Diversity in Your Language Model (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2506.09659
+📅 2025年06月12日
+💡 この論文は、大規模言語モデル（LLM）からの多様な高品質な出力を生成するための新しい手法「Intent Factored Generation (IFG)」を提案しています。IFGは、意図（例：要約やキーワード）を最初にサンプリングし、その意図と元のプロンプトに基づいて最終的な応答を生成することで、多様性を向上させます。この手法は、数学やコードの問題解決能力を向上させ、会話の多様性を高め、一般的な
+
+【7】An Interpretable N-gram Perplexity Threat Model for Large Language Model Jailbreaks (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2410.16222
+📅 2025年06月12日
+💡 この論文は、大規模言語モデル（LLM）の安全性を突破する「jailbreak」攻撃を評価するための、解釈可能なN-gram困惑度脅威モデルを提案しています。このモデルは、LLMに依存せず、テキストの分布に基づいて攻撃の可能性を評価し、既存の攻撃手法を公平に比較することを可能にします。研究の結果、従来の報告よりも攻撃の成功率は低く、離散最適化に基づく攻撃がLLMベースの攻撃よりも
+
+【8】RuleReasoner: Reinforced Rule-based Reasoning via Domain-aware Dynamic Sampling (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2506.08672
+📅 2025年06月12日
+💡 この論文は、ルールベース推論における課題を解決するために、ドメイン認識型動的サンプリングを用いた「RuleReasoner」という新しい手法を提案しています。RuleReasonerは、報酬履歴に基づいてサンプリング重みを更新することで、多様なタスクとドメインにおける堅牢な一般化を実現し、既存手法で必要だった事前定義された混合トレーニングを不要にしました。実験結果は、RuleReasonerが最先端の大型推論モデルを上回り、高い
+
+【9】Llama-Affinity: A Predictive Antibody Antigen Binding Model Integrating Antibody Sequences with Llama3 Backbone Architecture (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2506.09052
+📅 2025年06月12日
+💡 この論文は、抗体と抗原の結合親和性を予測するAIモデル「LlamaAffinity」を発表しています。Llama3の基盤と抗体配列データを利用し、既存のモデルよりも高い精度と効率性を実現しました。これにより、抗体医薬品の開発を加速し、がんや感染症などの治療に貢献する可能性があります。この研究は、AIを活用した創薬の進歩を示し、より迅速で低コストな治療法開発への
+
+【10】EdgeProfiler: A Fast Profiling Framework for Lightweight LLMs on Edge Using Analytical Model (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2506.09061
+📅 2025年06月12日
+💡 EdgeProfilerは、エッジシステム上で軽量LLMの性能を評価するための高速プロファイリングフレームワークです。このフレームワークは、TinyLLaMA、Gemma3.1BなどのコンパクトなLLMを対象とし、4ビット量子化などの手法を用いて、レイテンシ、FLOPs、エネルギー消費量を分析的にモデル化します。その結果、4ビット量子化によりメモリ使用量が大幅に削減され、精度を維持しながら推論速度が向上し
+
+---
+合計 138 件のAI関連ニュースが見つかりました。
