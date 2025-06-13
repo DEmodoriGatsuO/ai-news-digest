@@ -1,0 +1,55 @@
+🤖 AI最新ニュースダイジェスト 🤖
+2025年06月13日 12:55
+
+【1】WGSR-Bench: Wargame-based Game-theoretic Strategic Reasoning Benchmark for Large Language Models (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2506.10264
+📅 2025年06月13日
+💡 この論文は、大規模言語モデル（LLM）の戦略的推論能力を評価するための新しいベンチマーク「WGSR-Bench」を紹介しています。WGSR-Benchは、複雑な戦略的シナリオであるウォーゲームを評価環境として使用し、環境認識、対戦相手のリスクモデリング、ポリシー生成といった主要なタスクを通じてLLMの能力を体系的に評価します。このベンチマークは、LLMがマルチエージェント意思決定
+
+【2】Optimus-3: Towards Generalist Multimodal Minecraft Agents with Scalable Task Experts (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2506.10357
+📅 2025年06月13日
+💡 この論文は、Minecraftのようなオープンワールド環境で、知覚、計画、行動、グラウンディング、および反省といった能力を持つ汎用エージェント「Optimus-3」を開発したものです。Optimus-3は、知識拡張データ生成パイプライン、タスクレベルルーティングを備えたMixture-of-Expertsアーキテクチャ、およびマルチモーダル推論拡張強化学習アプローチという3つの主要な革新を通じて、既存の課題
+
+【3】Mirage-1: Augmenting and Updating GUI Agent with Hierarchical Multimodal Skills (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2506.10387
+📅 2025年06月13日
+💡 この論文は、マルチモーダル大規模言語モデル（MLLM）をGUIエージェントとして活用する際の課題である、オンライン環境での長期的タスク遂行能力の低さを解決する「Mirage-1」を提案しています。Mirage-1は、階層的なマルチモーダルスキル（HMS）モジュールと、オフラインで獲得したスキルをオンライン探索に活かすSkill-Augmented Monte Carlo Tree Search（SA-MCTS）アルゴリズム
+
+【4】Reasoning RAG via System 1 or System 2: A Survey on Reasoning Agentic Retrieval-Augmented Generation for Industry Challenges (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2506.10408
+📅 2025年06月13日
+💡 この論文は、大規模言語モデル（LLM）の知識限界を克服するためのRetrieval-Augmented Generation（RAG）の進化形である「Reasoning Agentic RAG」を包括的にレビューしています。この新しいパラダイムは、複雑な推論、動的な検索、マルチモーダル統合を可能にするために、意思決定と適応的なツール使用を検索プロセスに組み込んでいます。論文では、固定されたパイプラインを使用する「predefined reasoning
+
+【5】Multi-dimensional Autoscaling of Processing Services: A Comparison of Agent-based Methods (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2506.10420
+📅 2025年06月13日
+💡 この論文は、エッジコンピューティング環境におけるリソース制約に対応するため、ハードウェアとサービス設定の両方を調整するエージェントベースの自動スケーリングフレームワークを提案しています。4つの異なるスケーリングエージェント（Active Inference、Deep Q Network、Analysis of Structural Knowledge、Deep Active Inference）を比較し、YOLOv8とOpenCVの2つの処理サービスでテストした結果、すべてのエージェントが許容可能なサービスレベル目標（
+
+【6】OIBench: Benchmarking Strong Reasoning Models with Olympiad in Informatics (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2506.10481
+📅 2025年06月13日
+💡 この論文は、高度な推論能力を持つモデルを評価するための新しいベンチマーク「OIBench」を紹介しています。OIBenchは、情報オリンピックレベルの250問のオリジナル問題から構成され、様々なプログラミングパラダイムと複雑さを網羅しています。実験結果から、最先端のモデルは人間の参加者よりも優れた成績を収めているものの、まだ最適解には及ばないことが示されました。OIBenchのオープンソース化により
+
+【7】Scientists' First Exam: Probing Cognitive Abilities of MLLM via Perception, Understanding, and Reasoning (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2506.10521
+📅 2025年06月13日
+💡 この論文は、科学分野におけるマルチモーダル大規模言語モデル（MLLM）の認知能力を評価するための新しいベンチマーク「Scientists' First Exam (SFE)」を提案しています。SFEは、科学的な信号の知覚、属性の理解、比較推論という3つのレベルでMLLMの能力をテストし、既存のベンチマークでは評価が不十分だった知覚と推論能力のギャップを埋めることを目指しています。実験
+
+【8】LogiPlan: A Structured Benchmark for Logical Planning and Relational Reasoning in LLMs (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2506.10527
+📅 2025年06月13日
+💡 LogiPlanは、大規模言語モデル（LLM）の論理的計画と複雑な関係構造に関する推論能力を評価するための新しいベンチマークです。このベンチマークは、ネットワークインフラや知識ベースなどの構造化された関係グラフの生成とクエリにLLMが利用される可能性のあるアプリケーションに重要です。LogiPlanは、計画生成、整合性検出、比較質問の3つのタスクを通じて、モデルの複雑さレベルに応じたパフォーマンス
+
+【9】Primender Sequence: A Novel Mathematical Construct for Testing Symbolic Inference and AI Reasoning (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2506.10585
+📅 2025年06月13日
+💡 この論文では、素数とモジュラー桁に基づく新しい整数列「Primender Sequence」を導入し、大規模言語モデル（LLM）の記号推論能力を評価するためのベンチマークとして提案しています。Primender Sequenceは、LLMが隠れたルールを推論し、数学的仮説を検証し、記号論理を大規模に一般化する能力を評価するための、解釈可能なルールベースのテストベッドとして機能します。研究では
+
+【10】TeleMath: A Benchmark for Large Language Models in Telecom Mathematical Problem Solving (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2506.10674
+📅 2025年06月13日
+💡 この論文は、大規模言語モデル（LLM）が通信分野の数学的問題を解決する能力を評価するための新しいベンチマーク「TeleMath」を紹介しています。TeleMathは、信号処理やネットワーク最適化など、通信分野の500の数学的問題で構成されており、専門知識を必要とするタスクにおけるLLMの性能を測ります。評価の結果、数学的または論理的推論に特化したLLMが、汎用モデルよりも優れたパフォーマンス
+
+---
+合計 133 件のAI関連ニュースが見つかりました。
