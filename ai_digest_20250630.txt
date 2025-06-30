@@ -1,0 +1,55 @@
+🤖 AI最新ニュースダイジェスト 🤖
+2025年06月30日 12:56
+
+【1】SEEA-R1: Tree-Structured Reinforcement Fine-Tuning for Self-Evolving Embodied Agents (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2506.21669
+📅 2025年06月30日
+💡 この論文は、自己進化能力を持つエージェントを実現するための新しい強化学習フレームワーク「SEEA-R1」を提案しています。SEEA-R1は、マルチモーダルな環境での学習を促進するために、ツリーベースのグループ相対ポリシー最適化とマルチモーダル生成報酬モデルを導入しています。これにより、ALFWorldベンチマークで既存のモデルを上回り、自己進化能力を持つエージェントの実現可能性を示しました。この研究は
+
+【2】Hierarchical Reasoning Model (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2506.21734
+📅 2025年06月30日
+💡 この論文では、複雑な推論タスクを効率的に処理する新しい階層的推論モデル（HRM）を提案しています。HRMは、人間の脳の階層的処理を模倣し、高レベルの計画と低レベルの詳細な計算を組み合わせることで、少ないデータとパラメータ数で優れたパフォーマンスを実現します。特に、複雑な数独パズルや迷路での最適経路探索において、既存のモデルを凌駕し、汎用的な
+
+【3】THE-Tree: Can Tracing Historical Evolution Enhance Scientific Verification and Reasoning? (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2506.21763
+📅 2025年06月30日
+💡 この論文は、AIが生成した科学的アイデアの検証を加速するため、科学的進化の歴史を構造化するフレームワーク「THE-Tree」を提案しています。THE-Treeは、LLMと自然言語推論を組み合わせ、論文間の因果関係を検証することで、科学的知識の進化を可視化します。実験結果は、THE-Treeが既存の検証方法よりも優れており、科学的発見の予測や重要な論文の評価を
+
+【4】MobiVerse: Scaling Urban Mobility Simulation with Hybrid Lightweight Domain-Specific Generator and Large Language Models (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2506.21784
+📅 2025年06月30日
+💡 この論文は、都市モビリティシミュレーションを大規模に実行するための新しいハイブリッドフレームワーク「MobiVerse」を提案しています。MobiVerseは、軽量なドメイン固有ジェネレーターと大規模言語モデル（LLM）を組み合わせ、効率性と適応性を両立させています。このフレームワークは、道路閉鎖やイベントなどの環境変化にエージェントが対応できるシミュレーションを可能にし、都市計画や交通システム開発に役立つ
+
+【5】CitySim: Modeling Urban Behaviors and City Dynamics with Large-Scale LLM-Driven Agent Simulation (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2506.21805
+📅 2025年06月30日
+💡 この論文は、大規模言語モデル（LLM）を活用して都市の行動とダイナミクスをシミュレーションする「CitySim」を紹介しています。CitySimは、エージェントが現実的なスケジュールを生成し、信念、長期的な目標、空間記憶を持つことで、より人間らしい行動を再現します。このアプローチにより、群衆密度推定、場所の人気予測、幸福度評価など、様々な都市現象を理解し予測するための、スケーラブルで
+
+【6】LeanConjecturer: Automatic Generation of Mathematical Conjectures for Theorem Proving (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2506.22005
+📅 2025年06月30日
+💡 この論文は、大規模言語モデル（LLM）を用いて、Lean 4で大学レベルの数学的推測を自動生成するパイプライン「LeanConjecturer」を紹介しています。LeanConjecturerは、ルールベースのコンテキスト抽出とLLMベースの定理ステートメント生成を組み合わせ、形式的定理証明におけるデータ不足の問題に対処しています。このシステムは、3,776の構文的に有効で自明でない推測を生成し
+
+【7】The Automated LLM Speedrunning Benchmark: Reproducing NanoGPT Improvements (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2506.22419
+📅 2025年06月30日
+💡 この論文は、LLMが既存の研究を再現できる能力を評価するための新しいベンチマーク「Automated LLM Speedrunning Benchmark」を紹介しています。このベンチマークは、GPT-2モデルを最速で訓練する競争「NanoGPT speedrun」を基にしており、AIエージェントに過去の記録、スクリプト、ヒントを提供し、改善を試みます。研究の結果、最新のLLMは、詳細なヒントを与えられても
+
+【8】MMLU-CF: A Contamination-free Multi-task Language Understanding Benchmark (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2412.15194
+📅 2025年06月30日
+💡 この論文は、大規模言語モデル（LLM）の評価に用いられるMMLUベンチマークにおけるデータ汚染問題を解決するため、新たな「MMLU-CF」を提案しています。MMLU-CFは、より広範なデータソースと厳格なデータクレンジングルールを採用し、意図的なものと意図しないもの両方のデータ漏洩を防ぎます。テストセットを非公開とすることで、より信頼性の高い評価を可能
+
+【9】PEACE: Empowering Geologic Map Holistic Understanding with MLLMs (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2501.06184
+📅 2025年06月30日
+💡 この論文は、地質図の理解を深めるために、マルチモーダル大規模言語モデル（MLLM）を活用する新しいアプローチ「PEACE」を提案しています。地質図理解能力を評価するためのベンチマーク「GeoMap-Bench」を構築し、専門知識とツールを活用するエージェント「GeoMap-Agent」を開発しました。GeoMap-Agentは、既存のMLLMを大幅に上回り、地質調査の効率化と
+
+【10】Bench to the Future: A Pastcasting Benchmark for Forecasting Agents (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2506.21558
+📅 2025年06月30日
+💡 この論文は、AIエージェントの予測能力を評価するための新しいベンチマーク「Bench To the Future (BTF)」を紹介しています。BTFは、過去の出来事に関する数百の質問と、それに関連する大量のウェブページで構成されており、LLMが過去の出来事について「予測」を行うことを可能にします。研究結果は、BTFがLLMの予測能力を現実的に評価できることを示し、LLMの進歩を追跡
+
+---
+合計 104 件のAI関連ニュースが見つかりました。
