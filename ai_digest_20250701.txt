@@ -1,0 +1,55 @@
+🤖 AI最新ニュースダイジェスト 🤖
+2025年07月01日 12:58
+
+【1】Bootstrapping Human-Like Planning via LLMs (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2506.22604
+📅 2025年07月01日
+💡 この論文は、大規模言語モデル（LLM）を活用して、自然言語による指示から人間のような行動シーケンスを生成するパイプラインを構築しています。これにより、ロボットのタスクをより直感的に指示できるようになり、ドラッグアンドドロップインターフェースと自然言語プログラミングの利点を組み合わせることを目指しています。実験結果は、LLMのサイズが大きいほど性能が向上することを示唆していますが、小規模モデルでも十分なパフォーマンス
+
+【2】URSA: The Universal Research and Scientific Agent (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2506.22653
+📅 2025年07月01日
+💡 この論文は、研究タスクを加速させることを目的とした、科学エージェントエコシステム「URSA」を発表しています。URSAは、高度な物理シミュレーションコードとの連携など、モジュール化されたエージェントとツールで構成されており、複雑な科学的問題の解決に役立ちます。このシステムは、LLM（大規模言語モデル）を「エージェント型」AIとして活用し、科学研究におけるボトルネックを解消し、進歩
+
+【3】ReasonBridge: Efficient Reasoning Transfer from Closed to Open-Source Language Models (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2506.22865
+📅 2025年07月01日
+💡 この論文は、強力なクローズドソースLLMの推論能力を、オープンソースLLMに効率的に転送する手法「ReasonBridge」を提案しています。ReasonBridgeは、厳選された1,000件の推論トレースを用いた階層的知識蒸留フレームワークと、わずかなパラメータ追加で済むアダプターアーキテクチャを採用しています。その結果、オープンソースモデルの推論能力を最大23%向上させ、
+
+【4】Improving Rationality in the Reasoning Process of Language Models through Self-playing Game (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2506.22920
+📅 2025年07月01日
+💡 この論文は、自己対戦ゲーム（CDG）を通じて、大規模言語モデル（LLM）の推論能力における合理性を向上させる手法を提案しています。CDGでは、問題解決者（prover）が解を提示し、批判者（critique）が解を評価することで、LLMが自身の推論過程をより深く理解するように訓練します。実験結果は、CDGが数学的推論、エラー検出、自己修正、長鎖推
+
+【5】MARBLE: A Hard Benchmark for Multimodal Spatial Reasoning and Planning (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2506.22992
+📅 2025年07月01日
+💡 この論文は、マルチモーダル言語モデル（MLLM）の空間推論と計画能力を評価するための新しいベンチマーク「MARBLE」を紹介しています。MARBLEは、視覚的および物理的な制約の下で、複雑なマルチステップ計画を必要とする2つのタスクで構成されており、現在のMLLMは非常に低いパフォーマンスを示しています。この結果は、MLLMが複雑なマルチモーダル環境での推論に苦労しており、特に知覚能力
+
+【6】AURA: Agent for Understanding, Reasoning, and Automated Tool Use in Voice-Driven Tasks (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2506.23049
+📅 2025年07月01日
+💡 この論文では、音声による複雑なタスクをこなせる初のオープンソースAIアシスタント「AURA」が発表されました。AURAは、音声認識、テキスト読み上げ、大規模言語モデルを組み合わせ、ツール利用とエージェント的な推論を可能にしています。カレンダー予約、連絡先検索、ウェブ検索、メールなどの機能を備え、VoiceBenchでの高い性能と、人間による評価での高いタスク成功率を示しています。これにより、音声操作による
+
+【7】AI's Euclid's Elements Moment: From Language Models to Computable Thought (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2506.23080
+📅 2025年07月01日
+💡 この論文は、AIの進化を人間の認知技術の歴史的進歩になぞらえ、5つの段階にわたる包括的なフレームワークを提案しています。AIは、表現と推論能力の革新的な変化によって定義される段階を経ており、現在は自己反省能力が特徴の「メタ言語的瞬間」に移行しています。このフレームワークは、AIの過去のアーキテクチャの変化を説明するだけでなく、将来の具体的な道筋を示唆しています
+
+【8】Can Large Language Models Capture Human Risk Preferences? A Cross-Cultural Study (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2506.23107
+📅 2025年07月01日
+💡 この研究は、大規模言語モデル（LLM）が人間のリスク選好を捉えることができるかを調査しました。ChatGPT 4oとo1-miniを用いて、シドニー、ダッカ、香港、南京の参加者のロトベースの選択をシミュレーションし、人間の行動と比較しました。結果は、両モデルが人間よりもリスク回避的であり、特に中国語での予測が英語よりも実際の回答から乖離していることを示しました。この研究は、LL
+
+【9】Are Large Language Models Capable of Deep Relational Reasoning? Insights from DeepSeek-R1 and Benchmark Comparisons (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2506.23128
+📅 2025年07月01日
+💡 この論文は、大規模言語モデル（LLM）の深層関係推論能力を評価し、DeepSeek-R1、DeepSeek-V3、GPT-4oを比較しています。DeepSeek-R1は、家族関係やグラフ推論のベンチマークで優れた成績を示しましたが、問題の複雑さが増すと、すべてのモデルが苦戦しました。研究では、DeepSeek-R1の推論プロセスを分析し、今後の研究として、マルチ
+
+【10】FinStat2SQL: A Text2SQL Pipeline for Financial Statement Analysis (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2506.23273
+📅 2025年07月01日
+💡 この論文は、財務諸表分析のためのText2SQLパイプライン「FinStat2SQL」を紹介しています。FinStat2SQLは、複雑な財務データに対する自然言語での問い合わせを可能にし、ベトナムの会計基準（VAS）に特化しています。大規模言語モデルと小規模言語モデルを組み合わせたマルチエージェントシステムを採用し、エンティティ抽出、SQL生成、自己修正を行います。これにより、低コストで高速な応答を実現し、ベ
+
+---
+合計 169 件のAI関連ニュースが見つかりました。
