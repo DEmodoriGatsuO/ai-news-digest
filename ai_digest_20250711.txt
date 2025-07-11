@@ -1,0 +1,56 @@
+🤖 AI最新ニュースダイジェスト 🤖
+2025年07月11日 12:55
+
+【1】Autonomous Control Leveraging LLMs: An Agentic Framework for Next-Generation Industrial Automation (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2507.07115
+📅 2025年07月11日
+💡 この論文は、大規模言語モデル（LLM）を活用した次世代の産業自動化フレームワークを提案しています。LLMを、故障回復計画と連続的なプロセス制御の両方に統合することで、複雑な化学プロセスにおける問題解決能力を向上させます。実験結果は、GPT-4oなどのLLMが、従来の制御手法と同等の性能を発揮し、複雑な状況下での適応能力を示しています。この研究は、LLMの産業応用における可能性
+
+【2】Neurosymbolic Feature Extraction for Identifying Forced Labor in Supply Chains (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2507.07217
+📅 2025年07月11日
+💡 この論文は、サプライチェーンにおける強制労働などの違法行為を特定するために、ニューロシンボリック手法を用いた特徴抽出を提案しています。従来の機械学習が抱える、データ不足やデータの信頼性問題に対応するため、大規模言語モデル（LLM）を活用した自動特徴抽出を試みています。具体的には、ニュース記事から関連情報を抽出し、人間と機械による分類の比較を通じて、その有効性を検証しています。この研究は、違法行為が隠蔽
+
+【3】Open Source Planning & Control System with Language Agents for Autonomous Scientific Discovery (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2507.07257
+📅 2025年07月11日
+💡 この論文は、大規模言語モデル（LLM）エージェントを活用した、自律的な科学研究タスクを自動化するシステム「cmbagent」を発表しています。約30のエージェントが連携し、計画と制御戦略に基づいて、論文検索、コード作成、結果解釈など、様々なタスクを遂行します。cmbagentは、宇宙論の研究タスクで高い性能を示し、既存のLLMを上回る結果を達成しました
+
+【4】Application of LLMs to Multi-Robot Path Planning and Task Allocation (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2507.07302
+📅 2025年07月11日
+💡 この論文は、大規模言語モデル（LLM）を複数ロボットの経路計画とタスク割り当てに適用する研究を発表しています。LLMをエキスパートプランナーとして活用することで、複数エージェント環境における効率的な探索を実現し、深層強化学習の課題を解決することを目指しています。このアプローチは、マルチエージェントシステムの効率化に貢献し、ロボット工学におけるタスク遂行能力の向上に繋がる可能性があります。
+
+
+【5】ViDove: A Translation Agent System with Multimodal Context and Memory-Augmented Reasoning (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2507.07306
+📅 2025年07月11日
+💡 ViDoveは、テキストだけでなく画像などのマルチモーダル入力を処理できる翻訳エージェントシステムです。人間の翻訳者のワークフローを模倣し、視覚情報と文脈的背景を活用して翻訳精度を向上させます。さらに、マルチモーダルメモリシステムと専門知識を組み込むことで、字幕生成と一般的な翻訳タスクの両方で、既存の最先端技術を大幅に上回る性能を達成しました。ViDoveは、新しいベンチマーク「
+
+【6】On the Impossibility of Separating Intelligence from Judgment: The Computational Intractability of Filtering for AI Alignment (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2507.07341
+📅 2025年07月11日
+💡 この論文は、大規模言語モデル（LLM）の有害なコンテンツ生成を防ぐためのフィルターの限界を研究しています。研究者たちは、入力プロンプトと出力の両方に対するフィルターが、効率的に機能しないことを示しました。具体的には、悪意のあるプロンプトは、効率的なフィルターでは区別できないほど巧妙に作成でき、出力フィルターは計算的に実行不可能になる可能性があることを証明しました。この研究は、AIの安全性はLLMの内部構造
+
+【7】DrugMCTS: a drug repurposing framework combining multi-agent, RAG and Monte Carlo Tree Search (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2507.07426
+📅 2025年07月11日
+💡 この論文は、薬剤の再利用を目的とした新しいフレームワーク「DrugMCTS」を提案しています。DrugMCTSは、大規模言語モデル（LLM）の限界を克服するために、検索拡張生成（RAG）、マルチエージェント協調、モンテカルロ木探索を組み合わせたものです。5つの専門エージェントが分子とタンパク質の情報を分析し、構造化された反復的な推論を可能にすることで、DrugMCTSは特定の
+
+【8】StarDojo: Benchmarking Open-Ended Behaviors of Agentic Multimodal LLMs in Production-Living Simulations with Stardew Valley (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2507.07445
+📅 2025年07月11日
+💡 この論文は、Stardew Valleyを舞台にした新しいAIベンチマーク「StarDojo」を紹介しています。StarDojoは、農業やクラフトなどの生産活動と、人間関係の構築といった社会的な相互作用を同時に評価することで、自律型AIエージェントの能力を試します。最先端のマルチモーダルLLM（MLLM）を評価した結果、視覚理解、マルチモーダル推論、低レベル操作に課題があり、成功
+
+【9】Position: We Need An Algorithmic Understanding of Generative AI (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2507.07544
+📅 2025年07月11日
+💡 この論文は、生成AIが問題を解決するために実際にどのようなアルゴリズムを学習し使用しているのかを理解するための研究フレームワーク「AlgEval」を提案しています。AlgEvalは、潜在表現、注意機構、推論時の計算量などを分析し、アルゴリズムの構成要素を明らかにすることを目指しています。このアプローチは、大規模化に頼るのではなく、AIの内部構造を理解することで、解釈可能性の向上、効率的な学習方法の開発、そして新しい
+
+【10】PlanQA: A Benchmark for Spatial Reasoning in LLMs using Structured Representations (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2507.07644
+📅 2025年07月11日
+💡 この論文は、大規模言語モデル（LLM）の空間推論能力を評価するための新しいベンチマーク「PlanQA」を紹介しています。PlanQAは、キッチンやリビングルームなどの室内シーンの構造化表現に基づき、距離、視認性、最短経路などの幾何学的・空間的推論だけでなく、使いやすさなどのインテリアデザインの制約もテストします。実験結果は、現在のLLMが浅い質問には成功するものの、物理的制約
+
+---
+合計 90 件のAI関連ニュースが見つかりました。
