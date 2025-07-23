@@ -1,0 +1,56 @@
+🤖 AI最新ニュースダイジェスト 🤖
+2025年07月23日 12:59
+
+【1】Startups can apply now for the Google for Startups Gemini Founders Forum. (AI)
+🔗 https://blog.google/outreach-initiatives/entrepreneurs/apply-google-for-startups-gemini-founders-fund/
+📅 2025年07月23日
+💡 Googleは、AI分野のスタートアップを支援するため、「Google for Startups Gemini Founders Forum」への参加者を募集しています。このフォーラムは、AI技術を活用するスタートアップに、Googleの専門家との交流や、資金調達、ビジネス戦略に関するサポートを提供する機会となります。これにより、AIスタートアップの成長を加速させ、革新的な技術開発を促進する可能性があります。
+
+
+【2】From Reasoning to Super-Intelligence: A Search-Theoretic Perspective (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2507.15865
+📅 2025年07月23日
+💡 この論文は、大規模言語モデル（LLM）の推論能力を向上させるための新しい学習パラダイム「Diligent Learner」を提案しています。従来のChain-of-Thought (CoT)学習における課題を克服し、推論を深さ優先探索としてモデル化することで、より効率的かつ堅牢な学習を実現します。このアプローチは、大規模推論モデル（LRM）の開発を可能にし、複雑な問題解決能力を持つAIシステムの
+
+【3】Why Braking? Scenario Extraction and Reasoning Utilizing LLM (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2507.15874
+📅 2025年07月23日
+💡 この論文は、大規模言語モデル（LLM）を活用して、自動運転車のブレーキイベントが発生した理由を理解し、危険な運転シナリオを特定する新しいフレームワークを提案しています。従来のルールベースの手法が苦手とする複雑な都市環境での課題に対応するため、LLMを用いて低レベルの数値信号を自然言語に変換し、シナリオを解釈・分類します。このアプローチにより、既知のシナリオだけでなく、未知のシナリオ（O
+
+【4】Differential Multimodal Transformers (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2507.15875
+📅 2025年07月23日
+💡 この論文は、効率的な小型言語モデルにビジョンなどの追加モダリティを統合する際の課題、特にノイズの混入と不必要な注意の集中に対処しています。研究では、テキスト専用モデル向けに開発されたDifferential Attentionメカニズムを、テキストとビジョンを組み合わせたPaliGemmaモデルに拡張し、ノイズの多い情報検索と幻覚の低減効果を検証しています。LoRAを用いたファインチューニングを通じて、Differential Attention
+
+【5】Out-of-Distribution Generalization in the ARC-AGI Domain: Comparing Execution-Guided Neural Program Synthesis and Test-Time Fine-Tuning (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2507.15877
+📅 2025年07月23日
+💡 この論文は、AIの汎化能力を評価する実験を、オープンワールドのARC-AGIドメインで行っています。ニューラルプログラム合成とテスト時微調整という2つのアプローチを比較した結果、実行誘導型ニューラルプログラム合成が、新しい解を構成する能力において優れていることが判明しました。この研究は、AIが未知の状況に対応する能力を向上させるための、より効果的なアプローチを示唆しており、今後のAI開発に影響
+
+【6】Does More Inference-Time Compute Really Help Robustness? (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2507.15974
+📅 2025年07月23日
+💡 この論文は、推論時の計算量を増やすことがモデルの堅牢性を向上させるという従来の考えに異議を唱えています。研究者たちは、推論ステップが攻撃者から隠されていない場合、計算量の増加は実際には堅牢性を低下させる可能性があることを発見しました。この逆スケーリング則は、ツール統合や高度な推論抽出攻撃など、現実世界のシナリオでモデルを脆弱にする可能性があり、セキュリティが重要なアプリケーションで推論時のス
+
+【7】From Logic to Language: A Trust Index for Problem Solving with LLMs (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2507.16028
+📅 2025年07月23日
+💡 この論文は、大規模言語モデル（LLM）を用いた問題解決における新たな評価指標「信頼度指数Q」を提案しています。従来の論理的計算では扱えなかった、曖昧さや主観性を含む問題に対応するため、LLMの回答の質を、二元的な正誤ではなく、連続的な「適切さ」として評価します。具体的には、回答の頑健性と概念的多様性を測る「正規化二重意味エントロピー」
+
+【8】Expert-Guided LLM Reasoning for Battery Discovery: From AI-Driven Hypothesis to Synthesis and Characterization (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2507.16110
+📅 2025年07月23日
+💡 この論文は、大規模言語モデル（LLM）の推論能力をバッテリー材料の発見に応用した革新的な研究です。ChatBatteryと呼ばれるフレームワークは、専門家の知識を統合し、LLMを効果的に導き、3つの新しいリチウムイオンバッテリー正極材料を発見しました。これらの材料は、既存の材料と比較して最大28.8%の容量向上を実現し、材料設計から合成、特性評価までのAI主導のサイクル
+
+【9】TaxCalcBench: Evaluating Frontier Models on the Tax Calculation Task (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2507.16126
+📅 2025年07月23日
+💡 この論文は、最先端のAIモデルが米国の個人所得税計算タスクをどの程度正確に実行できるかを評価する新しいベンチマーク、TaxCalcBenchを提案しています。実験結果によると、最新のAIモデルは、簡略化されたデータセットでも連邦所得税申告書の3分の1未満しか正確に計算できず、税表の誤用や計算ミス、資格判定の間違いが頻繁に発生しています。この研究は、LL
+
+【10】SpiroLLM: Finetuning Pretrained LLMs to Understand Spirogram Time Series with Clinical Validation in COPD Reporting (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2507.16145
+📅 2025年07月23日
+💡 この論文は、慢性閉塞性肺疾患（COPD）の診断を支援する、スパイログラムを理解できる初のマルチモーダル大規模言語モデル「SpiroLLM」を提案しています。SpiroLLMは、スパイログラムの形状的特徴と肺機能検査の数値データを統合し、包括的な診断レポートを生成します。実験結果では高い診断精度を示し、データ欠損に対する堅牢性も証明されており、医療分野におけるAI
+
+---
+合計 90 件のAI関連ニュースが見つかりました。
