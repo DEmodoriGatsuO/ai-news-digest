@@ -1,0 +1,55 @@
+🤖 AI最新ニュースダイジェスト 🤖
+2025年07月28日 12:59
+
+【1】OS-MAP: How Far Can Computer-Using Agents Go in Breadth and Depth? (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2507.19132
+📅 2025年07月28日
+💡 この論文は、コンピュータを使用するエージェントの能力を評価するための新しいベンチマーク「OS-MAP」を紹介しています。OS-MAPは、416の現実的なタスクを、自動化のレベルと現実世界のユーザー需要に基づいた一般化の範囲という2つの軸に沿って整理しています。実験結果は、最先端のエージェントでさえ、より高度なタスクに苦労していることを示し、エージェント研究と実用化
+
+【2】Integrating LLM in Agent-Based Social Simulation: Opportunities and Challenges (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2507.19364
+📅 2025年07月28日
+💡 この論文は、大規模言語モデル（LLM）をエージェントベースの社会シミュレーションに統合することの可能性と課題を検討しています。LLMは人間の認知を模倣する能力を持つ一方で、バイアスや理解の欠如といった限界も抱えています。論文では、LLMを活用したシミュレーションの設計、検証、再現性に関する課題を議論し、インタラクティブなシミュレーションやゲームでの直接的な価値と、説明的・予測
+
+【3】Learning neuro-symbolic convergent term rewriting systems (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2507.19372
+📅 2025年07月28日
+💡 この論文は、記号的アルゴリズムを実行できるニューラルシステムを構築するための新しいフレームワークを提案しています。このフレームワークは、ニューロ記号的アーキテクチャを使用し、数学的数式の簡略化などのタスクで、既存のニューラルモデルやGPT-4oなどの大規模言語モデルよりも優れた性能を発揮します。特に、FastNRSと呼ばれるモデルは、メモリ効率、学習速度、推論時間において大幅な改善を示しています。
+
+【4】Prompt Engineering and the Effectiveness of Large Language Models in Enhancing Human Productivity (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2507.18638
+📅 2025年07月28日
+💡 この論文は、ChatGPT、Gemini、DeepSeekなどの大規模言語モデル（LLM）の利用が、教育、仕事、クリエイティブ分野で人々のタスク遂行方法を大きく変えたことを指摘しています。243人の調査データに基づき、明確で構造化された、コンテキストを意識したプロンプトを使用するユーザーは、より高いタスク効率と優れた結果を報告していることが明らかになりました。この研究は、生成AIの価値を最大
+
+【5】Innovator: Scientific Continued Pretraining with Fine-grained MoE Upcycling (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2507.18671
+📅 2025年07月28日
+💡 この論文は、科学と一般タスクの両方に精通した大規模言語モデル（LLM）を構築するための新しいアプローチ「Innovator」を紹介しています。Innovatorは、既存のLLMを微細なMixtures-of-Expertsモデルにアップサイクルすることで、科学データでの継続的な事前学習における「破滅的な忘却」の問題を解決します。このモデルは、専門家が異なる科学分野を学習し、共有専門家が一般的なタスクを
+
+【6】Towards Scalable Spatial Intelligence via 2D-to-3D Data Lifting (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2507.18678
+📅 2025年07月28日
+💡 この論文は、2D画像から3Dデータを生成するスケーラブルなパイプラインを提案しています。これにより、3Dデータ収集のコストを大幅に削減し、空間知能AIの開発を加速させます。この手法は、深度推定、カメラキャリブレーション、スケールキャリブレーションを統合し、大規模な2D画像データから現実的な3D表現を自動生成します。COCO-3DとObjects365-
+
+【7】Agentic Program Repair from Test Failures at Scale: A Neuro-symbolic approach with static analysis and test execution feedback (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2507.18755
+📅 2025年07月28日
+💡 この論文は、大規模なコードベースにおけるテスト失敗からソースコードを修正する、エージェント型プログラム修復システムを開発しています。Llamaを基盤とし、ReActフレームワークを用いて、静的解析とテスト実行フィードバックを通じてエージェントが修正を反復的に改善します。ベンチマークテストでは、高い修正成功率を示し、実運用では生成された修正の約3割が採用されました。エンジニアからは、迅速な承認や
+
+【8】DxHF: Providing High-Quality Human Feedback for LLM Alignment via Interactive Decomposition (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2507.18802
+📅 2025年07月28日
+💡 この論文は、大規模言語モデル（LLM）の調整における人間からのフィードバックの質を向上させるための新しいアプローチ、DxHFを紹介しています。DxHFは、長いテキストを直接比較するのではなく、個々の主張に分解することで、人間の認知的な負担を軽減し、より正確なフィードバックを可能にします。研究結果は、DxHFがフィードバックの精度を向上させる一方で、フィードバックにかかる時間はわずかに増加することを示しています
+
+【9】MemoCoder: Automated Function Synthesis using LLM-Supported Agents (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2507.18812
+📅 2025年07月28日
+💡 この論文は、大規模言語モデル（LLM）を活用したコード生成ツールが抱える、反復的なデバッグや多様な問題への対応の難しさを解決する「MemoCoder」という新しいフレームワークを提案しています。MemoCoderは、複数のエージェントが協調し、過去の修正から学習する「Fixing Knowledge Set」と、エラーパターンを分析し修正戦略を洗練させる「Mentor Agent」を特徴としています。実験結果は、
+
+【10】PrismRAG: Boosting RAG Factuality with Distractor Resilience and Strategized Reasoning (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2507.18857
+📅 2025年07月28日
+💡 この論文は、検索拡張生成（RAG）の精度を向上させる新しいフレームワーク「PrismRAG」を提案しています。PrismRAGは、誤解を招く可能性のある情報を含むコンテキストに対処し、深い理解と推論を促すようにモデルを訓練します。このフレームワークは、12のRAGベンチマークで既存の技術を上回り、平均5.4%の事実性向上を達成しました。これにより、
+
+---
+合計 59 件のAI関連ニュースが見つかりました。
