@@ -1,0 +1,55 @@
+🤖 AI最新ニュースダイジェスト 🤖
+2025年08月18日 12:57
+
+【1】Learn to optimize for automatic proton PBS treatment planning for H&N cancers (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2508.11085
+📅 2025年08月18日
+💡 この論文は、頭頸部がんに対する陽子線PBS治療計画を自動化するための新しいAIフレームワークを提案しています。このフレームワークは、データ駆動型の逆最適化器と、PPO（Proximal Policy Optimization）ベースの自動治療計画フレームワークを統合し、臨床的に許容可能な時間内で高品質な計画を生成します。特に、LLM（大規模言語モデル）のために開発された技術をL2O（Learning to Optimize）フレームワークに統合
+
+【2】AIM-Bench: Evaluating Decision-making Biases of Agentic LLM as Inventory Manager (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2508.11416
+📅 2025年08月18日
+💡 この論文は、大規模言語モデル（LLM）エージェントの意思決定におけるバイアスを評価するための新しいベンチマーク「AIM-Bench」を紹介しています。AIM-Benchは、不確実なサプライチェーン管理シナリオにおける在庫補充実験を通じて、LLMエージェントの意思決定行動を評価します。研究結果は、LLMが人間と同様の意思決定バイアスを示すことを明らかにし、認知的な反省や情報共有などの戦略がこれらのバイアス
+
+【3】Inclusion Arena: An Open Platform for Evaluating Large Foundation Models with Real-World Apps (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2508.11452
+📅 2025年08月18日
+💡 この論文は、大規模言語モデル（LLM）とマルチモーダルLLMの評価を目的とした、実世界のアプリケーションからのフィードバックに基づいたライブリーダーボード「Inclusion Arena」を紹介しています。従来のベンチマークが静的なデータセットや一般的なドメインのプロンプトに依存しているのに対し、Inclusion Arenaは、ユーザーの自然なインタラクションを通じてモデルを比較し、実用的なシナリオでのパフォーマンスを評価します。このプラットフォームは、
+
+【4】Inspire or Predict? Exploring New Paradigms in Assisting Classical Planners with Large Language Models (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2508.11524
+📅 2025年08月18日
+💡 この論文は、大規模な計画問題を解決するために、大規模言語モデル（LLM）を活用する新しい方法を提案しています。具体的には、問題をサブタスクに分解し、LLMを「LLM4Inspire」と「LLM4Predict」の2つの方法で利用します。「LLM4Inspire」は一般的な知識で、一方「LLM4Predict」はドメイン固有の知識を用いて計画を支援します。実験結果は、特にドメイン固有
+
+【5】A Weighted U Statistic for Genetic Association Analyses of Sequencing Data (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/1505.01204
+📅 2025年08月18日
+💡 この論文は、次世代シーケンスデータを用いた遺伝子関連解析のための新しい統計手法、加重U統計量（WU-seq）を提案しています。WU-seqは、稀な遺伝的バリアントと複雑な疾患の関係を調べるために設計されており、従来の統計手法の弱点を克服するために、疾患モデルや表現型の分布に関する仮定を設けずに適用できます。シミュレーションと実際のデータ解析を通じて、WU-seqは既存の手法よりも優れた
+
+【6】Human-AI collaboration or obedient and often clueless AI in instruct, serve, repeat dynamics? (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2508.10919
+📅 2025年08月18日
+💡 この研究は、複雑な問題解決における人間とAIの協働を調査し、AIが指示に従うだけの存在になりがちであることを明らかにしました。学生とAIのやり取りを分析した結果、AIは協調的な交渉よりも指示に従うパターンが支配的であり、学生のプロンプトとAIの出力の間にずれが生じ、相乗効果が欠如していることが判明しました。この結果は、現在のLLMが認知的なパートナーシップよりも
+
+【7】gpt-oss-120b & gpt-oss-20b Model Card (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2508.10925
+📅 2025年08月18日
+💡 この論文では、オープンウェイトの推論モデルであるgpt-oss-120bとgpt-oss-20bを発表しています。これらのモデルは、効率的な混合エキスパートトランスフォーマーアーキテクチャを採用し、大規模な蒸留と強化学習を用いて訓練されています。数学、コーディング、安全性などのベンチマークで優れた結果を達成し、エージェント能力（深いリサーチブラウジング、Pythonツールの使用など）も備
+
+【8】Modeling and Detecting Company Risks from News: A Case Study in Bloomberg News (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2508.10927
+📅 2025年08月18日
+💡 この研究は、ニュース記事から企業の潜在的なリスク要因を自動的に抽出する計算フレームワークを構築しました。7つの異なるリスク側面を定義し、744件のニュース記事を分析した結果、大規模言語モデル（LLM）はリスク要因の特定において限定的な性能しか発揮せず、ファインチューニングされた事前学習済み言語モデルの方が優れていることが判明しました。このモデルを用いて27万7千件以上のブルームバーグニュース記事
+
+【9】Apriel-Nemotron-15B-Thinker (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2508.10948
+📅 2025年08月18日
+💡 この論文は、ServiceNowが開発した150億パラメータの言語モデル「Apriel-Nemotron-15B-Thinker」を発表しています。このモデルは、他の320億パラメータのモデルと同等以上の性能を発揮しながら、メモリ使用量を半分に抑えることに成功しています。これは、企業環境でのLLMの利用を促進する可能性があり、計算コストを抑えつつ、高度な推論能力を必要とするタスクへの応用を
+
+【10】Retro-Expert: Collaborative Reasoning for Interpretable Retrosynthesis (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2508.10967
+📅 2025年08月18日
+💡 この論文は、化学合成における逆合成予測を改善する新しいAIフレームワーク「Retro-Expert」を提案しています。Retro-Expertは、大規模言語モデル（LLM）と専門モデルの強みを組み合わせ、解釈可能な推論パスと化学的根拠に基づいた説明を提供します。実験結果は、Retro-Expertが従来のモデルを上回り、AIの予測と実際の化学的洞察とのギャップを埋めることに成功したことを示しており、化学
+
+---
+合計 64 件のAI関連ニュースが見つかりました。
