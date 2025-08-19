@@ -1,0 +1,55 @@
+🤖 AI最新ニュースダイジェスト 🤖
+2025年08月19日 12:54
+
+【1】EvoCut: Strengthening Integer Programs via Evolution-Guided Language Models (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2508.11850
+📅 2025年08月19日
+💡 EvoCutは、整数計画問題を効率的に解くために、大規模言語モデル（LLM）と進化的探索を組み合わせた新しいフレームワークです。このシステムは、LLMを用いて候補となるカットを生成し、最適解の保存と解の絞り込み能力を評価することで、最適化問題を加速するカットを自動的に生成します。EvoCutは、従来の整数計画法と比較して、最適性ギャップを最大57%削減し、最大4
+
+【2】LARC: Towards Human-level Constrained Retrosynthesis Planning through an Agentic Framework (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2508.11860
+📅 2025年08月19日
+💡 この論文は、LLM（大規模言語モデル）を活用した、制約付きレトロ合成計画のための新しいエージェントフレームワーク「LARC」を紹介しています。LARCは、エージェントが制約評価を行い、ツールベースの推論を通じてルート生成をガイドすることで、従来のLLMベースのモデルを大幅に上回る成功率を達成しました。LARCは、化学分野における合成ルートの特定を効率化し、専門家レベルのパフォーマンスに
+
+【3】CHBench: A Cognitive Hierarchy Benchmark for Evaluating Strategic Reasoning Capability of LLMs (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2508.11944
+📅 2025年08月19日
+💡 この論文は、大規模言語モデル（LLM）の戦略的推論能力を評価するための新しいベンチマーク「Cognitive Hierarchy Benchmark (CHBench)」を提案しています。CHBenchは、行動経済学の認知階層モデルに基づいており、LLMが異なる推論レベルで行動するエージェントとして評価されます。実験結果は、LLMが多様な対戦相手に対して一貫した戦略的推論レベルを示し、チャットメカニズムが推
+
+【4】Data Mixing Optimization for Supervised Fine-Tuning of Large Language Models (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2508.11953
+📅 2025年08月19日
+💡 この論文は、大規模言語モデル（LLM）の教師ありファインチューニング（SFT）におけるデータ混合を最適化する新しい手法を提案しています。この手法は、データ混合を最適化問題として捉え、検証損失を最小化するように設計されており、スケーリング則を活用して最適なデータ比率を導き出します。実験結果は、この手法がグリッドサーチと同等の性能を発揮し、既存のSFTデータセットの再重
+
+【5】FutureX: An Advanced Live Benchmark for LLM Agents in Future Prediction (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2508.11987
+📅 2025年08月19日
+💡 この論文は、LLMエージェントによる将来予測能力を評価するための新しいベンチマーク「FutureX」を紹介しています。FutureXは、リアルタイムの更新をサポートし、データ汚染を防ぐことで、大規模で多様な評価を可能にします。25のLLM/エージェントモデルの評価を通じて、動的な環境における適応的な推論能力や、偽のウェブページへの脆弱性などの課題を明らかにしています。FutureXは、LLM
+
+【6】AgentCDM: Enhancing Multi-Agent Collaborative Decision-Making via ACH-Inspired Structured Reasoning (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2508.11995
+📅 2025年08月19日
+💡 この論文は、大規模言語モデル（LLM）を活用したマルチエージェントシステムにおける協調的意思決定（CDM）を改善する新しいフレームワーク「AgentCDM」を提案しています。AgentCDMは、認知科学の「競合仮説分析（ACH）」から着想を得て、構造化された推論パラダイムを導入し、認知バイアスを軽減し、能動的な仮説評価と構築を促進します。2段階のトレーニング手法を用いて、
+
+【7】RLNVR: Reinforcement Learning from Non-Verified Real-World Rewards (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2508.12165
+📅 2025年08月19日
+💡 この論文は、RLNVR（Reinforcement Learning from Non-Verified Rewards）という、人間の検証を必要とせずに、ノイズの多い現実世界のフィードバック信号から言語モデルを訓練するための新しいフレームワークを紹介しています。従来のRLHF（Reinforcement Learning from Human Feedback）のコストが高い問題を解決し、RLNVRは、ベースライン正規化と意味的類似性に基づく報酬転送を通じて、実際のエンゲージメントデータからソーシャルメディアコンテンツを最適化する
+
+【8】RadarQA: Multi-modal Quality Analysis of Weather Radar Forecasts (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2508.12291
+📅 2025年08月19日
+💡 この論文は、気象レーダー予報の品質分析に特化した、マルチモーダル大規模言語モデル（MLLM）を活用した新しい手法「RadarQA」を紹介しています。RadarQAは、レーダー画像と物理的属性を統合し、詳細な評価レポートを生成することで、従来のスコアベースの評価指標よりも詳細な分析と解釈を提供します。この研究では、大規模データセットRQA-70Kを構築し、多段階のトレーニング戦略
+
+【9】Wisdom of the Crowd: Reinforcement Learning from Coevolutionary Collective Feedback (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2508.12338
+📅 2025年08月19日
+💡 この論文は、大規模言語モデル（LLM）の学習を効率化する新しい強化学習フレームワーク「Reinforcement Learning from Coevolutionary Collective Feedback (RLCCF)」を提案しています。RLCCFは、複数のLLMを共同で進化させ、集団の出力の一貫性に基づいて報酬を与えることで、外部の教師データや複雑な報酬モデルに頼らずに学習を可能にします。このアプローチにより、モデルの多様性と自己確信度を活用
+
+【10】GraphCogent: Overcoming LLMs' Working Memory Constraints via Multi-Agent Collaboration in Complex Graph Understanding (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2508.12379
+📅 2025年08月19日
+💡 この論文は、大規模言語モデル（LLM）が複雑なグラフ理解タスクで抱えるワーキングメモリの制約を克服するために開発されたGraphCogentという新しいフレームワークを紹介しています。GraphCogentは、人間のワーキングメモリモデルに着想を得て、グラフ推論を「感覚」「バッファ」「実行」の3つのモジュールに分解し、効率的な推論を実現します。GraphCogentは、既存のベンチマークよりも10倍
+
+---
+合計 147 件のAI関連ニュースが見つかりました。
