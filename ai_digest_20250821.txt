@@ -1,0 +1,55 @@
+🤖 AI最新ニュースダイジェスト 🤖
+2025年08月21日 12:53
+
+【1】Large Language Models are Highly Aligned with Human Ratings of Emotional Stimuli (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2508.14214
+📅 2025年08月21日
+💡 この論文は、大規模言語モデル（LLM）が感情的な刺激に対する人間の評価とどの程度一致するかを調査しています。GPT-4oを含むLLMは、言葉や画像に対する感情評価において、人間と高い相関を示し、特に幸福感の評価で顕著な一致が見られました。しかし、覚醒度評価では一致度が低く、LLMは二次元の感情モデルよりも五つの感情カテゴリー（幸福、怒り、悲しみ、恐怖
+
+【2】Explaining Hitori Puzzles: Neurosymbolic Proof Staging for Sequential Decisions (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2508.14294
+📅 2025年08月21日
+💡 この論文は、複雑な意思決定シーケンスの説明に、決定手続きと大規模言語モデル（LLM）の強みを組み合わせた神経記号論的アプローチを提案しています。具体的には、Hitoriパズル（数字を消して解くパズル）の解法を説明するためにこのアプローチを適用しています。Hitoriパズルは、SATソルバーとLLMを柔軟に組み合わせるのに適しており、実験結果はツールの有効性を示しています
+
+【3】Automated Optimization Modeling through Expert-Guided Large Language Model Reasoning (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2508.14410
+📅 2025年08月21日
+💡 この論文は、専門家の指導を受けた大規模言語モデル（LLM）の推論を通じて、最適化モデリングを自動化する新しいアプローチを提案しています。既存のデータセットを改善し、より複雑な問題を含む新しいベンチマークを導入することで、LLMの性能を向上させています。提案手法であるORThoughtは、連鎖思考推論を活用し、既存のマルチエージェントフレームワークよりも優れた性能を示し、特に複雑な最適化
+
+【4】Who Sees What? Structured Thought-Action Sequences for Epistemic Reasoning in LLMs (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2508.14564
+📅 2025年08月21日
+💡 この論文は、大規模言語モデル（LLM）における視点取得能力を向上させるための新しいアプローチを提案しています。研究者たちは、Fast Downwardプランナーから生成された構造化された例を用いて、LLMベースのエージェントのパフォーマンスを向上させようと試みました。しかし、構造化された例だけでは、隠れた空間に関する推論や認識行動のコスト評価など、複雑な視点取得タスクを解決するには不十分であることが判明しました
+
+【5】Entropy-Constrained Strategy Optimization in Urban Floods: A Multi-Agent Framework with LLM and Knowledge Graph Integration (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2508.14654
+📅 2025年08月21日
+💡 この論文は、都市洪水における緊急対応を改善するために、大規模言語モデル（LLM）と知識グラフを統合した新しいマルチエージェントフレームワーク「H-J」を提案しています。H-Jは、状況に応じた戦略を生成し、交通渋滞やサービスの中断を軽減することを目指しています。実験結果は、H-Jが従来のルールベースや強化学習ベースの手法よりも優れたパフォーマンスを示し、都市洪水への対応能力を向上させる
+
+【6】MCP-Universe: Benchmarking Large Language Models with Real-World Model Context Protocol Servers (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2508.14704
+📅 2025年08月21日
+💡 この論文は、大規模言語モデル（LLM）を現実世界のモデルコンテキストプロトコル（MCP）サーバーと連携させて評価するための新しいベンチマーク「MCP-Universe」を紹介しています。MCP-Universeは、長期間の推論や未知のツール使用など、既存のベンチマークでは捉えきれない現実的な課題に焦点を当てています。評価の結果、GPT-5やGrok-4などの最先端LLMでさえ、MCPサーバーとの連携
+
+【7】Privileged Self-Access Matters for Introspection in AI (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2508.14802
+📅 2025年08月21日
+💡 この論文は、AIにおける「内省」の定義を深めることを提案しています。従来の「軽量」な定義では不十分であり、AIが第三者よりも信頼性の高い方法で内部状態に関する情報を得られる能力こそが真の内省であると主張しています。実験を通して、大規模言語モデル（LLM）が内部パラメータについて「軽量」な内省を示しても、真の意味での内省には至らないことを示唆しています。この研究は、AIの自己
+
+【8】The Hidden Cost of Readability: How Code Formatting Silently Consumes Your LLM Budget (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2508.13666
+📅 2025年08月21日
+💡 この論文は、コードの可読性を高めるための書式設定が、大規模言語モデル（LLM）の計算コストを増加させる可能性があることを示唆しています。研究では、コードの書式設定を削除することで、入力トークン数を最大24.5%削減し、LLMのパフォーマンスを維持できることがわかりました。この発見は、LLMの効率を向上させるための実用的な最適化戦略となり、コードの書式設定を処理する
+
+【9】FinAgentBench: A Benchmark Dataset for Agentic Retrieval in Financial Question Answering (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2508.14052
+📅 2025年08月21日
+💡 この論文は、金融分野における情報検索能力を評価するための新しいベンチマーク「FinAgentBench」を紹介しています。FinAgentBenchは、LLM（大規模言語モデル）が財務関連の質問に答えるために、複数のステップで推論し、最も関連性の高い情報を特定できるかを評価します。このベンチマークは、LLMの財務分野における検索能力を定量的に評価するための基盤を提供し、モデルの改善に役立つ可能性があります。FinAgentBench
+
+【10】MAHL: Multi-Agent LLM-Guided Hierarchical Chiplet Design with Adaptive Debugging (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2508.14053
+📅 2025年08月21日
+💡 この論文は、AIアルゴリズムの複雑化に対応するため、大規模言語モデル（LLM）を活用した新しいチップレット設計フレームワーク「MAHL」を提案しています。MAHLは、複数のエージェントが協調して階層的な設計生成、検証、設計空間探索を行い、電力効率、性能、面積（PPA）を最適化します。実験結果は、MAHLが従来のLLMよりも設計精度を大幅に向上させ、既存の専門家
+
+---
+合計 84 件のAI関連ニュースが見つかりました。
