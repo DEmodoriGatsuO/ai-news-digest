@@ -1,0 +1,55 @@
+🤖 AI最新ニュースダイジェスト 🤖
+2025年08月25日 12:55
+
+【1】Generative Foundation Model for Structured and Unstructured Electronic Health Records (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2508.16054
+📅 2025年08月25日
+💡 この論文では、構造化データと非構造化データを含む電子健康記録（EHR）を処理する、Generative Deep Patient（GDP）と呼ばれる新しいマルチモーダル基盤モデルを紹介しています。GDPは、CNN-Transformerエンコーダを使用して構造化EHR時系列をネイティブにエンコードし、クロスモーダルアテンションを通じて非構造化EHRと融合させ、LLaMAベースのデコーダを使用します。GDPは、臨床予測タスク
+
+【2】Integrating Time Series into LLMs via Multi-layer Steerable Embedding Fusion for Enhanced Forecasting (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2508.16059
+📅 2025年08月25日
+💡 この論文は、大規模言語モデル（LLM）に時系列データを統合し、予測能力を向上させる新しいフレームワーク「Multi-layer Steerable Embedding Fusion (MSEF)」を提案しています。MSEFは、LLMの各層で時系列情報を直接利用できるようにすることで、従来の浅い統合による情報損失を克服し、テキスト表現と時系列表現の間の整合性を高めます。実験結果は、MSEFが既存のベースラインと比較して大幅な
+
+【3】InMind: Evaluating LLMs in Capturing and Applying Individual Human Reasoning Styles (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2508.16072
+📅 2025年08月25日
+💡 この論文は、LLM（大規模言語モデル）が個々の人間の推論スタイルを捉え、適用できるかを評価する新しいフレームワーク「InMind」を紹介しています。InMindは、ソーシャル推論ゲーム（SDGs）のデータを用いて、LLMが状況に応じて変化する多様な推論戦略を理解し、適応できるかを評価します。研究の結果、現在のLLMは、特に汎用モデルでは、個別の推論スタイルを捉える能力
+
+【4】IR-Agent: Expert-Inspired LLM Agents for Structure Elucidation from Infrared Spectra (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2508.16112
+📅 2025年08月25日
+💡 この論文は、赤外線スペクトルからの分子構造解明を目的とした、専門家を模倣したLLM（大規模言語モデル）エージェントフレームワーク「IR-Agent」を提案しています。IR-Agentは、専門家による分析プロセスを模倣し、多様な化学的知識を統合することで、従来の技術よりも高い精度を実現することを目指しています。各エージェントがIR解釈の特定の側面に特化し、連携することで、より洗
+
+【5】Bridging the Gap in Ophthalmic AI: MM-Retinal-Reason Dataset and OphthaReason Model toward Dynamic Multimodal Reasoning (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2508.16129
+📅 2025年08月25日
+💡 この論文は、眼科AIにおけるマルチモーダル推論のギャップを埋めることを目指し、新しいデータセット「MM-Retinal-Reason」とモデル「OphthaReason」を提案しています。MM-Retinal-Reasonは、基本的な推論だけでなく、臨床的な思考パターンを模倣した複雑な推論タスクも含む、眼科領域初のマルチモーダルデータセットです。OphthaReasonは、不確実性認識動
+
+【6】Graph RAG as Human Choice Model: Building a Data-Driven Mobility Agent with Preference Chain (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2508.16172
+📅 2025年08月25日
+💡 この論文は、グラフRAGとLLMを組み合わせた「Preference Chain」という新しい手法を提案し、都市環境における人間の行動をより正確にシミュレーションすることを目指しています。特に、交通手段の選択をコンテキストに応じて再現することに焦点を当て、データが少ない地域でも有効なモデルを構築することを目指しています。実験では、既存のLLMよりも優れた結果を示し、都市モビリティのモデリング、パーソナライズされた旅行行動
+
+【7】The next question after Turing's question: Introducing the Grow-AI test (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2508.16277
+📅 2025年08月25日
+💡 この論文は、チューリングテストの次の段階として、AIの成長と成熟度を評価する「GROW-AI」テストを紹介しています。GROW-AIは、人間とAIの両方の側面を探求する6つの基準と、AIの行動を記録する統一されたAIジャーナルに基づいています。このテストは、AIの成長のレベルを評価し、その強みと弱みを特定することを目的としており、ロボット、ソフトウェアエージェント、LLMなど、
+
+【8】AgentScope 1.0: A Developer-Centric Framework for Building Agentic Applications (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2508.16279
+📅 2025年08月25日
+💡 AgentScope 1.0 は、大規模言語モデル (LLM) の進歩を活用し、ツール利用を組み合わせたエージェントアプリケーション開発を支援するフレームワークです。このバージョンでは、柔軟で効率的なツールベースのエージェントと環境の相互作用を包括的にサポートし、最新のモデルや技術を容易に利用できるように設計されています。ReAct パラダイムに基づいたエージェントの動作と非同期設計による高度なインフラストラクチャ
+
+【9】GLARE: Agentic Reasoning for Legal Judgment Prediction (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2508.16383
+📅 2025年08月25日
+💡 この論文は、法的な判断予測における大規模言語モデル（LLM）の推論能力不足を解決するため、エージェント型推論フレームワーク「GLARE」を提案しています。GLAREは、様々なモジュールを呼び出すことで動的に法的知識を獲得し、推論の幅と深さを向上させます。実験結果はGLAREの有効性を示し、生成された推論チェーンは解釈可能性を高め、実用的な応用への可能性を
+
+【10】LLM-Based Agents for Competitive Landscape Mapping in Drug Asset Due Diligence (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2508.16571
+📅 2025年08月25日
+💡 この論文では、LLM（大規模言語モデル）を基盤としたエージェントシステムを用いて、医薬品資産デューデリジェンスにおける競合薬の特定を効率化する手法を提案しています。このシステムは、特定の適応症に対して競合薬を抽出し、その属性を整理することで、従来の競合分析にかかる時間を大幅に短縮（約20倍）することに成功しました。特に、LLMベースのエージェントが、非構造
+
+---
+合計 107 件のAI関連ニュースが見つかりました。
