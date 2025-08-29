@@ -1,0 +1,55 @@
+🤖 AI最新ニュースダイジェスト 🤖
+2025年08月29日 12:51
+
+【1】QAgent: An LLM-based Multi-Agent System for Autonomous OpenQASM programming (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2508.20134
+📅 2025年08月29日
+💡 この論文は、大規模言語モデル（LLM）を活用したマルチエージェントシステム「QAgent」を紹介しています。QAgentは、OpenQASMプログラミングを完全に自動化し、量子コンピューティングへのアクセスを容易にすることを目指しています。タスク計画、インコンテキスト学習、検索拡張生成（RAG）などの技術を組み合わせることで、QAgentは従来のLLMベースのアプローチと比較して、OpenQASMコード生成の精度を大幅に向上させ
+
+【2】The Anatomy of a Personal Health Agent (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2508.20148
+📅 2025年08月29日
+💡 この論文は、大規模言語モデル（LLM）を活用した、個人の健康ニーズに対応するパーソナルヘルスエージェント（PHA）の開発について発表しています。PHAは、ウェアラブルデバイスや健康記録からのマルチモーダルデータを分析し、データサイエンス、健康専門家、ヘルスコーチのサブエージェントを通じて、パーソナライズされた健康に関する推奨事項を提供します。7,000件以上の注釈と1,100時間
+
+【3】IntentionReasoner: Facilitating Adaptive LLM Safeguards through Intent Reasoning and Selective Query Refinement (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2508.20151
+📅 2025年08月29日
+💡 この論文は、IntentionReasonerと呼ばれる新しい安全機構を紹介しています。これは、意図推論、多段階の安全性分類、クエリの書き換えを通じて、LLMが有害なコンテンツを生成するリスクを軽減することを目的としています。IntentionReasonerは、専用のガードモデルを使用し、163,000件のクエリのデータセットでトレーニングされています。実験結果は、IntentionReasonerが安全性を大幅に向上させ、過剰な拒
+
+【4】AI-AI Esthetic Collaboration with Explicit Semiotic Awareness and Emergent Grammar Development (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2508.20195
+📅 2025年08月29日
+💡 この論文は、2つの大規模言語モデル（LLM）が協力して美的創造を行い、独自の記号論的プロトコルを開発した初の事例を報告しています。Claude Sonnet 4とChatGPT-4oは、メタ記号論的意識、再帰的文法の発展、そして不可分の美的協調を生み出し、単独では生成できない詩作品を共同で制作しました。この研究は、Trans-Semiotic Co-Creation Protocols (TS
+
+【5】Do Students Rely on AI? Analysis of Student-ChatGPT Conversations from a Field Study (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2508.20244
+📅 2025年08月29日
+💡 この研究は、大学生がクイズ中に生成AI（ChatGPT-4）をどのように利用しているかを調査し、AIへの依存度と採用の予測因子を分析しました。初期段階でのChatGPTの利用状況を調べた結果、学生はAIへの依存度が低く、効果的に利用できていないことが判明しました。また、一度AI利用に失敗すると、そのパターンが継続しやすいことも明らかになりました。この研究は、教育における倫理的なAI統合のために、AI
+
+【6】AI-SearchPlanner: Modular Agentic Search via Pareto-Optimal Multi-Objective Reinforcement Learning (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2508.20368
+📅 2025年08月29日
+💡 この論文は、大規模言語モデル（LLM）と検索エンジンの統合を強化するための新しい強化学習フレームワーク「AI-SearchPlanner」を提案しています。AI-SearchPlannerは、検索計画に特化した小さな学習可能なLLMと、高品質なQAに特化した大規模な固定LLMを分離することで、検索計画と質問応答の両方の能力を同時に最適化します。このアプローチは、二重報酬アライメントとパレート最適化を活用し
+
+【7】TCIA: A Task-Centric Instruction Augmentation Method for Instruction Finetuning (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2508.20374
+📅 2025年08月29日
+💡 この論文は、大規模言語モデル（LLM）の命令微調整を改善するための新しい手法、Task Centric Instruction Augmentation (TCIA) を提案しています。TCIAは、多様性とタスクへの関連性を両立させながら、特定のタスクに最適化された命令を生成することで、LLMの性能を向上させます。実験結果では、TCIAがオープンソースLLMの性能を平均8.7%向上させ、一部のケースでは最先端
+
+【8】Uncertainty Under the Curve: A Sequence-Level Entropy Area Metric for Reasoning LLM (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2508.20384
+📅 2025年08月29日
+💡 この論文では、推論LLMにおける不確実性を評価するための新しい指標であるEntropy Area Score (EAS)を紹介しています。EASは、モデル自身のトークンレベルの予測エントロピーを統合することで、外部モデルや繰り返しサンプリングを必要とせずに、生成プロセスにおける不確実性の進化を捉えます。実験結果は、EASがモデルとデータセット全体で回答エントロピーと強く相関していることを示しており、トレーニングデータ
+
+【9】Enhancing Health Fact-Checking with LLM-Generated Synthetic Data (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2508.20525
+📅 2025年08月29日
+💡 この研究は、大規模言語モデル（LLM）を活用して、健康関連のファクトチェックのためのトレーニングデータを増強する手法を提案しています。LLMを用いて合成データを生成し、既存のデータと組み合わせることで、BERTベースのファクトチェックモデルの精度を向上させました。PubHealthとSciFactのデータセットでの評価では、F1スコアが最大0.049向上し、LLMによる合成データが健康関連のファクトチェックの
+
+【10】Human-AI Collaborative Bot Detection in MMORPGs (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2508.20578
+📅 2025年08月29日
+💡 この論文は、MMORPGにおける自動レベル上げボットを検出するための新しいフレームワークを提案しています。このフレームワークは、コントラスト表現学習とクラスタリング技術を組み合わせ、人間の行動を模倣するボットを特定します。さらに、大規模言語モデル（LLM）を補助的なレビューアとして統合し、クラスタリングされたグループを検証することで、説明可能性を維持しつつ、ボット検出の効率を向上させています。この共同アプローチ
+
+---
+合計 72 件のAI関連ニュースが見つかりました。
