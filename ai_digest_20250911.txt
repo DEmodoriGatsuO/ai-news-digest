@@ -1,0 +1,55 @@
+🤖 AI最新ニュースダイジェスト 🤖
+2025年09月11日 12:49
+
+【1】Exploratory Retrieval-Augmented Planning For Continual Embodied Instruction Following (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2509.08222
+📅 2025年09月11日
+💡 この研究では、動的環境における継続的な指示追従タスクに取り組むための、探査的検索拡張計画（ExRAP）フレームワークを紹介しています。ExRAPは、大規模言語モデル（LLM）の環境理解能力を向上させるために、環境を効率的に探索し、文脈記憶を構築します。このフレームワークは、情報に基づいた探索をLLMベースの計画プロセスに統合することで、複数のタスクを継続的かつ同時に処理し、タ
+
+【2】Co-Investigator AI: The Rise of Agentic AI for Smarter, Trustworthy AML Compliance Narratives (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2509.08380
+📅 2025年09月11日
+💡 この論文は、AML（アンチマネーロンダリング）コンプライアンスにおけるSAR（疑わしい活動報告）作成を効率化するAIエージェントフレームワーク「Co-Investigator AI」を紹介しています。従来のLLM（大規模言語モデル）の課題である事実誤認や説明性の欠如を克服するため、計画、犯罪類型検出、情報収集、コンプライアンス検証などの専門エージェントを統合し、人間とAIの協働
+
+【3】No-Knowledge Alarms for Misaligned LLMs-as-Judges (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2509.08593
+📅 2025年09月11日
+💡 この論文は、LLM（大規模言語モデル）を他のLLMの評価者として使用する際の課題に対処しています。特に、評価者の判断の正確性を監視する方法がないという問題に着目し、複数のLLM評価者の意見の矛盾を利用して、評価者の能力に関するアラームを生成する手法を提案しています。この手法は、評価者の判断の整合性を分析し、ユーザーが指定した能力要件を満たしていない評価者を確実に特定することができます。これにより、
+
+【4】One Model, Two Minds: A Context-Gated Graph Learner that Recreates Human Biases (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2509.08705
+📅 2025年09月11日
+💡 この論文は、人間の認知バイアスを再現するAIモデルを開発しました。このモデルは、直感的な「システム1」と、より思慮深い「システム2」の2つの思考プロセスを模倣し、文脈に応じてバランスを取ります。実験結果は、この二重プロセスアプローチが人間の適応行動を正確に再現し、認知バイアスを理解する上で重要な役割を果たすことを示しています。この研究は、AIが人間のように
+
+【5】ToDMA: Large Model-Driven Token-Domain Multiple Access for Semantic Communications (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2505.10946
+📅 2025年09月11日
+💡 この論文は、大規模言語モデル（LLM）を活用した新しい通信方式「ToDMA」を提案しています。ToDMAは、トークンを介して情報を伝達する「トークン通信」の概念に基づき、複数のデバイスがトークンコードブックと変調コードブックを共有することで、効率的な多重アクセスを実現します。受信側では、圧縮センシングとLLMを用いてトークンを再構築し、衝突を軽減します。シミュレーション結果は、
+
+【6】Evaluating and comparing gender bias across four text-to-image models (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2509.08004
+📅 2025年09月11日
+💡 この研究は、4つのテキストから画像生成AIモデル（Stable Diffusion XL、Stable Diffusion Cascade、DALL-E、Emu）における性別バイアスを評価・比較しました。その結果、古いモデルであるStable Diffusionは男性に偏ったバイアスを示し、Meta AIのEmuはよりバランスの取れた結果を示しました。一方、OpenAIのDALL-Eは女性に偏ったバイアスを示し、これはOpenAIがバックエンドでプロ
+
+【7】Measuring and mitigating overreliance is necessary for building human-compatible AI (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2509.08010
+📅 2025年09月11日
+💡 この論文は、人間と協調するAIの過度の依存を測定し、軽減することの重要性を強調しています。LLMが医療や個人的なアドバイスなど、重要な意思決定に影響を与えるにつれて、過度の依存のリスクが高まっています。論文は、過度の依存が個人と社会の両方に及ぼすリスクを分析し、その測定と軽減のための戦略を提案しています。これにより、AIが人間の能力を補完し、損なわないように
+
+【8】MVPBench: A Benchmark and Fine-Tuning Framework for Aligning Large Language Models with Diverse Human Values (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2509.08022
+📅 2025年09月11日
+💡 この論文は、大規模言語モデル（LLM）を多様な人間の価値観に合わせるための新しいベンチマーク「MVPBench」を紹介しています。MVPBenchは、75カ国にわたる多次元の価値観を評価し、地理的および人口統計的な違いによるLLMの性能格差を明らかにしています。研究者たちは、LoRAやDPOなどの軽量なファインチューニング手法が、価値観の調整を大幅に改善できることを示
+
+【9】NOWJ@COLIEE 2025: A Multi-stage Framework Integrating Embedding Models and Large Language Models for Legal Retrieval and Entailment (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2509.08025
+📅 2025年09月11日
+💡 この論文は、COLIEE 2025コンペティションにおけるNOWJチームの取り組みを報告しており、特に法的ケースの含意タスク（Task 2）での成果に焦点を当てています。彼らは、埋め込みモデルと大規模言語モデル（LLM）を統合した多段階フレームワークを開発し、法的検索と含意において優れた結果を達成しました。Task 2では、2段階の検索システムを採用し、F1スコ
+
+【10】LALM-Eval: An Open-Source Toolkit for Holistic Evaluation of Large Audio Language Models (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2509.08031
+📅 2025年09月11日
+💡 LALM-Evalは、大規模音声言語モデル（LALM）の評価を効率化するオープンソースツールキットです。既存のツールキットよりも最大127%高速化を実現し、大規模な評価を可能にします。LALM-Evalは、標準化されたプロンプトと新しい評価カテゴリを提供し、LALMの性能評価を向上させます。これにより、LALMの弱点（特に時間的理解と複雑な言語推論
+
+---
+合計 62 件のAI関連ニュースが見つかりました。
