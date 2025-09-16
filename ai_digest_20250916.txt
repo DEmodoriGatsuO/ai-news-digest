@@ -1,0 +1,55 @@
+🤖 AI最新ニュースダイジェスト 🤖
+2025年09月16日 12:55
+
+【1】ZapGPT: Free-form Language Prompting for Simulated Cellular Control (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2509.10660
+📅 2025年09月16日
+💡 この論文は、AIモデルを用いて、自由形式の自然言語プロンプトでシミュレーションされた細胞の行動を制御できることを初めて示しました。具体的には、AIが言語プロンプトを細胞への介入に変換し、別のAIがその結果を評価し、最初のAIが評価に基づいて進化します。この手法は、特定のタスクに合わせた調整や厳密な評価基準を必要とせず、未見のプロンプトにも対応できるため、言語を
+
+【2】Maestro: Self-Improving Text-to-Image Generation via Agent Orchestration (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2509.10704
+📅 2025年09月16日
+💡 この論文は、テキストから画像を生成するAIモデルを、人間の介入なしに自己改善させるシステム「Maestro」を紹介しています。Maestroは、マルチモーダルLLM（MLLM）エージェントを用いて、生成された画像を批評し、解釈可能な編集指示を生成することで、初期のプロンプトから画像の品質を向上させます。さらに、MLLMを「審査員」として使用し、生成された画像を比較することで、ユーザーの意図に沿った
+
+【3】Understanding AI Evaluation Patterns: How Different GPT Models Assess Vision-Language Descriptions (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2509.10707
+📅 2025年09月16日
+💡 この研究は、異なるGPTモデル（GPT-4o、GPT-4o-mini、GPT-5）が、NVIDIAの画像-言語モデルの出力をどのように評価するかを分析しています。各GPTモデルは、評価戦略とバイアスにおいて異なる「評価パーソナリティ」を示し、GPT-4o-miniは一貫性、GPT-4oはエラー検出、GPT-5は保守性を示しました。これらのモデルは、否定的な評価
+
+【4】LLM Enhancement with Domain Expert Mental Model to Reduce LLM Hallucination with Causal Prompt Engineering (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2509.10818
+📅 2025年09月16日
+💡 この論文は、大規模言語モデル（LLM）における「ハルシネーション」（事実誤認）を軽減するために、専門家の思考モデルを取り入れた新しいプロンプトエンジニアリング技術を提案しています。具体的には、専門家の思考プロセスをモデル化し、それをLLMのプロンプトに組み込むことで、LLMがより正確な意思決定を支援できるようにすることを目指しています。この技術は、特に情報が不足しがちな複雑な問題において
+
+【5】Is the `Agent' Paradigm a Limiting Framework for Next-Generation Intelligent Systems? (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2509.10875
+📅 2025年09月16日
+💡 この論文は、AI研究における「エージェント」という概念が、次世代のインテリジェントシステム開発を制限する可能性があると主張しています。著者は、エージェント中心のパラダイムが概念的な曖昧さと人間中心的なバイアスを抱えており、LLMのようなシステムの本質を隠してしまう可能性があると指摘しています。代わりに、システムレベルのダイナミクス、世界モデリング、そして非人間的な知能に焦点を当て
+
+【6】Harmful Prompt Laundering: Jailbreaking LLMs with Abductive Styles and Symbolic Encoding (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2509.10931
+📅 2025年09月16日
+💡 この論文は、大規模言語モデル（LLM）を悪用するための新しい攻撃手法「HaPLa」を提案しています。HaPLaは、推論を促す「誘拐的フレーミング」と、有害な内容を隠蔽する「記号エンコーディング」を組み合わせることで、ブラックボックスアクセスのみでLLMを突破します。実験結果は、GPTシリーズで95%以上の成功率を示し、LLMの安全な調整が、
+
+【7】Public Data Assisted Differentially Private In-Context Learning (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2509.10932
+📅 2025年09月16日
+💡 この論文は、大規模言語モデル（LLM）におけるインコンテキスト学習（ICL）のプライバシー保護に関する研究です。悪意のある攻撃からプライベートデータを保護するため、差分プライバシー（DP）をICLに適用し、タスクに関連する公開データを活用することで、プライバシー保護とモデルの有用性のバランスを実現しています。実験結果から、提案手法はプライベートICLの有用性を向上させ、メンバーシップ推論攻撃に対しても高い耐
+
+【8】Enhancing Computational Cognitive Architectures with LLMs: A Case Study (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2509.10972
+📅 2025年09月16日
+💡 この論文は、大規模言語モデル（LLM）を計算認知アーキテクチャに統合することで、人間の認知をより現実的にシミュレーションすることを目指しています。具体的には、Clarion認知アーキテクチャとLLMを組み合わせ、Clarionの心理的妥当性とLLMの計算能力を融合させています。この統合により、複雑な現実世界の問題を扱いながら、人間の認知をより正確にモデル化できるようになり、認知科学研究とAI開発の両
+
+【9】Rethinking Human Preference Evaluation of LLM Rationales (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2509.11026
+📅 2025年09月16日
+💡 この論文は、大規模言語モデル（LLM）が生成する説明（ラショナル）の評価方法を再考しています。従来の二者択一的な評価では、ラショナルの質を詳細に把握できないため、論文ではラショナルの重要な属性を特定し、それらに対する評価を行うことで、より詳細な分析を試みています。属性ベースの評価は、人間の選好をより良く説明し、モデルの比較をより明確にすることで、
+
+【10】Free-MAD: Consensus-Free Multi-Agent Debate (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2509.11035
+📅 2025年09月16日
+💡 この論文は、大規模言語モデル（LLM）の推論能力を向上させるための新しいマルチエージェントディベートフレームワーク「Free-MAD」を提案しています。従来の合意形成型MADとは異なり、Free-MADはエージェント間の合意を必要とせず、単一ラウンドのディベートで、スコアベースの決定メカニズムと反同調性メカニズムを用いて、より正確で公平な結果を導きます。これにより、
+
+---
+合計 169 件のAI関連ニュースが見つかりました。
