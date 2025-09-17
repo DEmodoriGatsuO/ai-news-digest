@@ -1,0 +1,55 @@
+🤖 AI最新ニュースダイジェスト 🤖
+2025年09月17日 12:53
+
+【1】LLMAP: LLM-Assisted Multi-Objective Route Planning with User Preferences (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2509.12273
+📅 2025年09月17日
+💡 この論文は、大規模言語モデル（LLM）を活用した、ユーザーの好みに合わせた多目的ルート計画システム「LLMAP」を提案しています。LLMAPは、LLMをパーサーとして使用し、自然言語による指示を理解し、タスクの依存関係を特定します。その後、多段階グラフ構築と反復検索アルゴリズムを用いて、POIの品質、タスク完了率を最大化し、移動距離を最小化する最適なルートを生成
+
+【2】AIssistant: An Agentic Approach for Human--AI Collaborative Scientific Work on Reviews and Perspectives in Machine Learning (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2509.12282
+📅 2025年09月17日
+💡 この論文は、機械学習研究におけるレビューと考察論文の作成を支援する、人間とAIの協働型フレームワーク「AIssistant」を紹介しています。AIssistantは、文献検索、仮説生成、実験、論文作成といったプロセスを統合し、人間の監督を重視することで、効率性とテーマの一貫性を向上させます。評価の結果、AIssistantは有効性を示しましたが、幻覚的な引用や動的な論文構造への適応の難しさ
+
+【3】Small Models, Big Results: Achieving Superior Intent Extraction through Decomposition (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2509.12423
+📅 2025年09月17日
+💡 この論文は、UIインタラクションからユーザーの意図を理解するための新しいアプローチを提案しています。大規模言語モデル（LLM）に匹敵する精度を、よりリソースに制約された小型モデルで実現することを目指しています。具体的には、インタラクションの要約と、要約に基づいた意図抽出という分解された手法を採用しています。この手法により、プライバシー保護、低コスト、低遅延を実現しつつ、小型モデルでも優れた意
+
+【4】Building Coding Agents via Entropy-Enhanced Multi-Turn Preference Optimization (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2509.12434
+📅 2025年09月17日
+💡 この論文は、大規模言語モデル（LLM）を用いたコーディングエージェントの性能向上を目指し、多段階の課題に対応するための新しいフレームワーク「\sys」を提案しています。 \sys は、既存の選好最適化アルゴリズムを多段階の対話とツール利用に適合させ、モデルの多様性を維持しながら性能を向上させることを目指しています。 このフレームワークは、エントロピーを重視することで、テスト時のスケーリング（
+
+【5】Reasoning Models Can be Accurately Pruned Via Chain-of-Thought Reconstruction (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2509.12464
+📅 2025年09月17日
+💡 この論文は、推論能力を持つ大規模言語モデル（LLM）の圧縮における課題を解決しています。従来の圧縮手法は、推論タスクにおいて性能低下を引き起こし、場合によっては処理速度を遅くしてしまうことが判明しました。そこで、論文では、モデルの推論過程である「連鎖思考」を考慮した新しい圧縮手法「Reasoning-Aware Compression (RAC)」を提案し、既存の圧縮手法の性能を大幅に向上させることに成功
+
+【6】Empowering Clinical Trial Design through AI: A Randomized Evaluation of PowerGPT (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2509.12471
+📅 2025年09月17日
+💡 この論文は、臨床試験設計におけるサンプルサイズ計算を支援するAIシステム「PowerGPT」を紹介しています。PowerGPTは、大規模言語モデルと統計エンジンを統合し、試験の選択とサンプルサイズ推定を自動化することで、タスク完了率、精度、および時間を大幅に改善しました。ランダム化試験の結果、PowerGPTは統計専門家と非専門家の両方にとって、臨床研究における統計的パワー分析のアクセシビリティ、効率性、精度
+
+【7】Analogy-Driven Financial Chain-of-Thought (AD-FCoT): A Prompting Approach for Financial Sentiment Analysis (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2509.12611
+📅 2025年09月17日
+💡 この論文は、金融ニュースのセンチメント分析を改善するために、類推推論と連鎖思考（CoT）プロンプティングを組み合わせた新しい手法「Analogy-Driven Financial Chain-of-Thought (AD-FCoT)」を提案しています。AD-FCoTは、過去の事例との類似性を利用してLLMに段階的な推論を促し、市場の動きを予測します。この手法は、追加のトレーニングや微調整を
+
+【8】ECG-aBcDe: Overcoming Model Dependence, Encoding ECG into a Universal Language for Any LLM (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2509.12625
+📅 2025年09月17日
+💡 この論文は、心電図（ECG）データをあらゆる大規模言語モデル（LLM）で利用可能にする新しいエンコーディング手法「ECG-aBcDe」を紹介しています。ECG-aBcDeは、ECG信号をLLMが理解できる普遍的な言語に変換し、モデル依存性を克服し、時間スケール情報を効果的に捉え、解釈可能性を向上させます。このアプローチにより、既存のLLMを直接ファインチ
+
+【9】Learn to Relax with Large Language Models: Solving Nonlinear Combinatorial Optimization Problems via Bidirectional Coevolution (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2509.12643
+📅 2025年09月17日
+💡 この論文は、大規模言語モデル（LLM）を活用して、非線形組み合わせ最適化問題（NCOP）を解決する新しい手法「AutoCO」を提案しています。AutoCOは、LLMによる制約緩和戦略の生成と、進化アルゴリズムとモンテカルロ木探索を組み合わせた双方向共進化メカニズムにより、NCOPの複雑な問題空間を効率的に探索します。これにより、従来の専門家主導のアプローチよりも優れた
+
+【10】Large Language Models Imitate Logical Reasoning, but at what Cost? (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2509.12645
+📅 2025年09月17日
+💡 この論文は、大規模言語モデル (LLM) の推論能力を18ヶ月にわたって評価した縦断的研究を報告しています。研究者たちは、LLMがChain of ThoughtやThinking Modelsなどの手法を通じて推論能力を向上させていることを発見しました。さらに、ニューロシンボリックアーキテクチャを提案し、LLMとSMTソルバーを組み合わせることで、計算コストを大幅に削減しながら、ほぼ完璧なパフォーマンスを達成できる
+
+---
+合計 98 件のAI関連ニュースが見つかりました。
