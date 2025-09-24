@@ -1,0 +1,55 @@
+🤖 AI最新ニュースダイジェスト 🤖
+2025年09月24日 12:58
+
+【1】Generalizability of Large Language Model-Based Agents: A Comprehensive Survey (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2509.16330
+📅 2025年09月24日
+💡 この論文は、大規模言語モデル（LLM）ベースのエージェントの汎化能力に焦点を当てた包括的な調査です。LLMエージェントは、多様な環境でのタスク実行能力を持つ一方で、指示、タスク、環境、ドメインを超えて一貫したパフォーマンスを維持する汎化能力の向上が課題となっています。この調査では、汎化能力を定義し、評価方法、改善手法を整理し、今後の研究の方向性を示
+
+【2】Psychometric Personality Shaping Modulates Capabilities and Safety in Language Models (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2509.16332
+📅 2025年09月24日
+💡 この論文は、大規模言語モデル（LLM）の性格特性を調整することが、その能力と安全性に大きな影響を与えることを明らかにしています。具体的には、誠実性を低下させると、安全性関連の指標が低下し、一般的な能力も低下することが判明しました。この研究は、性格特性の調整がモデルの行動を制御する強力な手段となり、安全性の評価、モデルの行動制御、および潜在的なリスクに影響を与えることを示唆しています。この知
+
+【3】Evaluation of Causal Reasoning for Large Language Models in Contextualized Clinical Scenarios of Laboratory Test Interpretation (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2509.16372
+📅 2025年09月24日
+💡 この研究は、大規模言語モデル（LLM）が臨床検査結果の解釈において因果推論をどの程度行えるかを評価しました。GPT-o1とLlama-3.2-8b-instructという2つのLLMを、年齢、性別、肥満、喫煙などの因果関係のある要素と組み合わせた99の臨床シナリオでテストしました。GPT-o1はLlama-3.2-8b-instruct
+
+【4】VORTEX: Aligning Task Utility and Human Preferences through LLM-Guided Reward Shaping (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2509.16399
+📅 2025年09月24日
+💡 この論文は、LLM（大規模言語モデル）を活用して、AIシステムが人間の好みをより良く反映できるようにする新しいフレームワーク「VORTEX」を提案しています。VORTEXは、既存のタスクの目標を維持しつつ、自然言語によるフィードバックに基づいて報酬を調整することで、人間の好みを組み込むことを可能にします。これにより、人間は数式的な制約ではなく、自然言語でAIの行動を制御でき、理論的な保証も提供
+
+【5】Domain-Specific Constitutional AI: Enhancing Safety in LLM-Powered Mental Health Chatbots (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2509.16444
+📅 2025年09月24日
+💡 この論文は、大規模言語モデル（LLM）を活用したメンタルヘルスチャットボットの安全性を高めるための新しいアプローチを提案しています。具体的には、一般的なAIの安全対策だけでは不十分な、感情的な脆弱性や誤診のリスクといったメンタルヘルス特有の課題に対応するため、憲法AI（Constitutional AI）トレーニングに、メンタルヘルス分野に特化した原則を組み込むことを提案しています。この手法により、
+
+【6】GPO: Learning from Critical Steps to Improve LLM Reasoning (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2509.16456
+📅 2025年09月24日
+💡 この論文は、大規模言語モデル（LLM）の推論能力を向上させるための新しいファインチューニング戦略である「Guided Pivotal Optimization (GPO)」を紹介しています。GPOは、推論プロセス内の「クリティカルステップ」を特定し、そのステップに焦点を当てて学習を優先することで、LLMがより効果的に学習できるようにします。このアプローチにより、既存の最適化手法の性能を大幅に向上させることができ、LLM
+
+【7】SalaMAnder: Shapley-based Mathematical Expression Attribution and Metric for Chain-of-Thought Reasoning (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2509.16561
+📅 2025年09月24日
+💡 この論文は、大規模言語モデル（LLM）におけるChain-of-Thought（CoT）推論のメカニズムを解明する「SalaMAnder」という新しい手法を提案しています。SalaMAnderは、Shapley値を活用して数式表現の貢献度を評価し、CoSPという新しい評価指標を開発することで、CoTの成功を理論的に説明し、プロンプト構築の最適化を可能にします。この研究は、既存
+
+【8】Zero-Shot Human Mobility Forecasting via Large Language Model with Hierarchical Reasoning (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2509.16578
+📅 2025年09月24日
+💡 この論文は、大規模言語モデル（LLM）を活用して、未見のユーザーや場所に対するゼロショットでの人間の移動予測を実現するフレームワーク「ZHMF」を提案しています。ZHMFは、LLMのセマンティック理解と階層的な推論システムを組み合わせ、移動予測を自然言語の質問応答問題として再構築しています。これにより、長期的なユーザーの意図と短期的な状況的嗜好を協調的にモデル化し、既存のモデル
+
+【9】Question Answering with LLMs and Learning from Answer Sets (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2509.16590
+📅 2025年09月24日
+💡 この論文は、大規模言語モデル（LLM）と、解集合からの学習（LAS）システムを組み合わせたハイブリッドシステム「LLM2LAS」を紹介しています。LLMはテキストから意味構造を抽出し、ILASPはそれを解釈可能な論理規則に変換します。これらの規則は、ASPソルバーによる正確な推論を可能にし、物語ベースの質問応答タスクで高い精度を実現します。この自動化されたアプローチは、LLM
+
+【10】FESTA: Functionally Equivalent Sampling for Trust Assessment of Multimodal LLMs (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2509.16648
+📅 2025年09月24日
+💡 この論文は、マルチモーダルLLM（MLLM）の信頼性を評価するための新しい手法「FESTA」を提案しています。FESTAは、等価および補完的な入力サンプリングを用いて、MLLMの予測における不確実性を測定します。この手法は、MLLMの入力と出力のみを利用し、教師データも必要としません。実験結果では、FESTAが誤った予測を検出する能力を大幅に向上させ、
+
+---
+合計 224 件のAI関連ニュースが見つかりました。
