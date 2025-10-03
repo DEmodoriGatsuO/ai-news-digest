@@ -1,0 +1,55 @@
+🤖 AI最新ニュースダイジェスト 🤖
+2025年10月03日 12:53
+
+【1】OR-Toolformer: Modeling and Solving Operations Research Problems with Tool Augmented Large Language Models (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.01253
+📅 2025年10月03日
+💡 この論文は、大規模言語モデル（LLM）をツールで拡張し、OR（オペレーションズリサーチ）問題を解決する新しいアプローチ「OR-Toolformer」を紹介しています。OR-Toolformerは、Llama-3.1-8B-Instructをファインチューニングし、外部ソルバーを呼び出すことで、プライバシーを保護しつつ、オープンソースモデルでOR問題を効率的に解決します。その結果、標準的なベンチマークで高い
+
+【2】Modeling Others' Minds as Code (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.01272
+📅 2025年10月03日
+💡 この論文は、人間とAIの安全な協働のために、人間の行動を効率的に予測する新しいアプローチを提案しています。著者は、人間の行動を、信念や欲求に基づいたポリシーではなく、コンピューターコードで表現された「行動プログラム」としてモデル化することを提案しています。彼らは、大規模言語モデルと確率的推論を組み合わせたROTEアルゴリズムを開発し、グリッドワールドタスクと家庭用シミュレーターで既存の手法よりも
+
+【3】The Social Laboratory: A Psychometric Framework for Multi-Agent LLM Evaluation (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.01295
+📅 2025年10月03日
+💡 この論文は、大規模言語モデル（LLM）が自律エージェントへと進化する中で、従来の評価方法の限界を克服するために、多エージェントの議論を「社会実験室」として活用する新しい評価フレームワークを提案しています。このフレームワークは、異なるペルソナとインセンティブを持つLLMエージェントが議論を行い、心理測定と意味論的指標を用いて、エージェント間の合意形成傾向やペルソナ
+
+【4】MEMTRACK: Evaluating Long-Term Memory and State Tracking in Multi-Platform Dynamic Agent Environments (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.01353
+📅 2025年10月03日
+💡 この論文は、マルチプラットフォームの動的エージェント環境における長期記憶と状態追跡を評価するための新しいベンチマーク「MEMTRACK」を紹介しています。MEMTRACKは、Slack、Linear、Gitなどのプラットフォームを統合し、現実的な組織のワークフローを模倣することで、記憶の獲得、選択、矛盾解決能力をテストします。実験結果は、最先端のLLMでさえ、MEMTRACKで60%の正解率しか達成でき
+
+【5】Retrieval-Augmented Framework for LLM-Based Clinical Decision Support (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.01363
+📅 2025年10月03日
+💡 この論文は、大規模言語モデル（LLM）を活用して、処方医を支援する臨床意思決定支援システムを提案しています。このシステムは、患者の電子カルテ（EHR）データを分析し、類似の症例を検索してLLMが治療提案を生成します。Retrieval-Augmented Generation（RAG）パイプラインを使用し、非構造化データと構造化データを統合することで、LLMの推論をサポートします。初期評価
+
+【6】Fine-tuning with RAG for Improving LLM Learning of New Skills (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.01375
+📅 2025年10月03日
+💡 この論文は、検索拡張生成（RAG）を活用してLLMの新しいスキル学習を向上させるための新しい手法を提案しています。具体的には、失敗から得られたヒントを使い、教師モデルの軌跡を生成し、それらを基に学生モデルを微調整することで、RAGの利点を内部化し、実行時の依存関係をなくします。実験結果では、この手法は、ALFWorldとWebShopのベンチマークで、ベースライン
+
+【7】Automating Data-Driven Modeling and Analysis for Engineering Applications using Large Language Model Agents (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.01398
+📅 2025年10月03日
+💡 この論文は、大規模言語モデル（LLM）エージェントを用いて、工学におけるデータ駆動型モデリングと分析を自動化する革新的なパイプラインを提案しています。特に回帰タスクに焦点を当て、データの前処理からニューラルネットワークの開発、ハイパーパラメータの最適化、不確実性評価までを自動化することを目指しています。OECD/NEAの臨界熱流束（CHF）予測ベンチマークで検証した結果、
+
+【8】OntoLogX: Ontology-Guided Knowledge Graph Extraction from Cybersecurity Logs with Large Language Models (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.01409
+📅 2025年10月03日
+💡 この論文は、大規模言語モデル（LLM）を活用して、サイバーセキュリティログからオントロジーに基づいた知識グラフを抽出するAIエージェント「OntoLogX」を紹介しています。OntoLogXは、ログを構造化し、意味的な一貫性を高めることで、攻撃者の行動や脆弱性に関するインテリジェンスを抽出します。このシステムは、検索拡張生成（RAG）と反復的な修正ステップを統合し、
+
+【9】A Tale of LLMs and Induced Small Proxies: Scalable Agents for Knowledge Mining (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.01427
+📅 2025年10月03日
+💡 この論文は、大規模言語モデル（LLM）の高度な指示理解能力と、軽量なプロキシモデルの効率性を組み合わせた、スケーラブルな知識マイニングフレームワーク「Falconer」を紹介しています。Falconerは、LLMをプランナーとアノテーターとして活用し、ユーザーの指示を分解して実行可能なパイプラインを生成し、プロキシモデルの学習に利用します。これにより、LLMと同等の精度を維持しながら、
+
+【10】VOGUE: Guiding Exploration with Visual Uncertainty Improves Multimodal Reasoning (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.01444
+📅 2025年10月03日
+💡 この論文は、視覚的曖昧さを考慮することで、マルチモーダルLLM（MLLM）の推論能力を向上させる新しい手法「VOGUE」を紹介しています。VOGUEは、画像を確率的なコンテキストとして扱い、視覚的な摂動に対するポリシーの感度を測定することで、不確実性に基づいた探索を促します。その結果、VOGUEは、視覚的な数学ベンチマークと一般的な推論ベンチマークの両
+
+---
+合計 165 件のAI関連ニュースが見つかりました。
