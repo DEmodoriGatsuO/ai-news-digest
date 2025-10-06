@@ -1,0 +1,55 @@
+🤖 AI最新ニュースダイジェスト 🤖
+2025年10月06日 12:55
+
+【1】BrowserArena: Evaluating LLM Agents on Real-World Web Navigation Tasks (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.02418
+📅 2025年10月06日
+💡 この論文は、LLM（大規模言語モデル）エージェントの現実世界のウェブナビゲーション能力を評価するプラットフォーム「BrowserArena」を紹介しています。BrowserArenaは、ユーザーが提出したタスクを実行し、エージェント同士を競わせ、人間のフィードバックを収集することで、エージェントの失敗パターンを特定します。研究の結果、キャプチャ解決、ポップアップバナーの除去、URLへの直接ナビゲーションといった主要な失敗モードが
+
+【2】Safe and Efficient In-Context Learning via Risk Control (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.02480
+📅 2025年10月06日
+💡 この論文は、大規模言語モデル（LLM）におけるインコンテキスト学習の安全性を向上させる新しいアプローチを提案しています。具体的には、悪意のある例がモデルのパフォーマンスを低下させるリスクを制御するために、分布フリーリスク制御（DFRC）を適用しています。この手法は、有害な入力に最も注意を払う注意ヘッドを無視することで、安全性を確保しつつ、有用な例では効率性を向上させます。これにより、LLMの信頼
+
+【3】Orchestrating Human-AI Teams: The Manager Agent as a Unifying Research Challenge (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.02557
+📅 2025年10月06日
+💡 この論文は、人間とAIのチームを効果的に管理するための自律型マネージャーエージェントの開発という研究ビジョンを提示しています。このエージェントは、複雑なタスクを分解し、人間とAIに割り当て、進捗を監視し、変化に対応し、透明性のあるコミュニケーションを維持することを目指します。研究では、ワークフロー管理を部分観測可能な確率ゲームとして定式化し、階層的分解、多目的最適化
+
+【4】Agentic Additive Manufacturing Alloy Discovery (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.02567
+📅 2025年10月06日
+💡 この論文は、大規模言語モデル（LLM）を活用したエージェントシステムが、積層造形（AM）における合金発見を加速させる可能性を示唆しています。これらのエージェントは、熱力学シミュレーションやプロセスマップ生成などのツールを呼び出し、材料科学の専門知識を駆使して、提案された合金の印刷可能性を分析します。これにより、研究者は複雑な問題に対する新しい解決策をより効率的に見つけられるようになり、
+
+【5】Multimodal Large Language Model Framework for Safe and Interpretable Grid-Integrated EVs (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.02592
+📅 2025年10月06日
+💡 この論文は、電気自動車（EV）とスマートグリッドの安全で解釈可能な統合を目指し、マルチモーダルLLM（大規模言語モデル）フレームワークを提案しています。このフレームワークは、オブジェクト検出、セマンティックセグメンテーション、車両テレメトリなどのマルチモーダルセンサーデータを処理し、ドライバーに自然言語アラートを生成します。実世界のデータを用いた検証により、歩行者や自転車などの危険な状況に対するコンテキストに応じたアラ
+
+【6】On the Role of Temperature Sampling in Test-Time Scaling (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.02611
+📅 2025年10月06日
+💡 この論文は、大規模言語モデル (LLM) の推論能力を向上させるためのテスト時スケーリング (TTS) における温度サンプリングの役割を調査しています。研究の結果、単一温度でのTTSは限界があり、異なる温度が異なる問題のサブセットを解決することを発見しました。そこで、温度次元に沿ったスケーリングを提案し、Qwen3モデルと複数のベンチマークで、単一温度TTSよりも7.3ポイント
+
+【7】Geolog-IA: Conversational System for Academic Theses (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.02653
+📅 2025年10月06日
+💡 この論文は、エクアドル中央大学の地質学論文に関する質問に自然言語で応答するAI会話システム「Geolog-IA」を紹介しています。Llama 3.1とGemini 2.5の言語モデル、RAGアーキテクチャ、SQLiteデータベースを組み合わせることで、ハルシネーションや知識の陳腐化といった問題を克服し、高い精度を実現しています。BLEUスコア0.87という評価結果は、その
+
+【8】AutoMaAS: Self-Evolving Multi-Agent Architecture Search for Large Language Models (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.02669
+📅 2025年10月06日
+💡 この論文は、大規模言語モデル（LLM）を活用したマルチエージェントシステムの設計を自動化する「AutoMaAS」という新しいフレームワークを紹介しています。AutoMaASは、ニューラルアーキテクチャサーチの原理を用いて、動的なオペレーター管理と自動機械学習技術を通じて最適なエージェント構成を自動的に発見します。その結果、既存手法と比較して、1.0〜7.1％の性能向上と3〜5％の推論
+
+【9】ARMs: Adaptive Red-Teaming Agent against Multimodal Models with Plug-and-Play Attacks (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.02677
+📅 2025年10月06日
+💡 この論文は、ARMsと呼ばれる、マルチモーダルモデル（VLM）に対する適応型レッドチームエージェントを提案しています。ARMsは、多様な攻撃戦略を自動的に最適化し、VLMの潜在的な脆弱性を効率的に特定します。11の新しい攻撃戦略と17のレッドチームアルゴリズムを統合し、既存の手法よりも高い攻撃成功率を達成しました。ARMsによって生成された大規模なデータセット（ARMs-
+
+【10】Automated Constraint Specification for Job Scheduling by Regulating Generative Model with Domain-Specific Representation (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.02679
+📅 2025年10月06日
+💡 この論文は、製造スケジューリングにおける制約条件の自動生成を目的とした新しいアーキテクチャを提案しています。大規模言語モデル（LLM）を活用しつつ、ドメイン固有の表現を用いてLLMの出力を制御することで、曖昧性や非決定性を克服し、信頼性の高い制約条件の生成を実現しています。このアプローチは、製造システムの要件とLLMの生成能力を両立させ、従来のLLMベースの手法
+
+---
+合計 126 件のAI関連ニュースが見つかりました。
