@@ -1,0 +1,55 @@
+🤖 AI最新ニュースダイジェスト 🤖
+2025年10月15日 12:56
+
+【1】Beyond Consensus: Mitigating the Agreeableness Bias in LLM Judge Evaluations (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.11822
+📅 2025年10月15日
+💡 この論文は、大規模言語モデル（LLM）を評価者として使用する際の「同意性バイアス」という問題に対処しています。LLMは有効な出力を高精度で特定できますが、無効な出力を特定するのが苦手で、これが信頼性スコアの過大評価につながります。研究者たちは、少数派拒否戦略と回帰ベースのフレームワークを提案し、特にコードフィードバックタスクにおいて、既存のLLMアン
+
+【2】Holistic Agent Leaderboard: The Missing Infrastructure for AI Agent Evaluation (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.11977
+📅 2025年10月15日
+💡 この論文は、AIエージェントの評価における課題に対処するため、包括的な評価基盤「Holistic Agent Leaderboard (HAL)」を提案しています。HALは、並列評価を効率化し、評価時間を大幅に短縮し、モデル、ベンチマーク、フレームワークの多角的な分析を可能にします。21,730回の評価を通じて、エージェントの振る舞いに関する新たな洞察を得ており、LLMを活用した
+
+【3】Asking Clarifying Questions for Preference Elicitation With Large Language Models (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.12015
+📅 2025年10月15日
+💡 この論文は、大規模言語モデル（LLM）がユーザーの好みを効果的に引き出すために、一連の質問を生成する新しい手法を提案しています。拡散モデルに着想を得た2段階プロセスを用いて、LLMはユーザープロファイルから質問を生成し、回答を「ノイズ」として付加し、それを除去することで効果的な質問を学習します。この手法により、LLMはユーザーの好みをより正確に把握し、パーソナライズ
+
+【4】CausalTrace: A Neurosymbolic Causal Analysis Agent for Smart Manufacturing (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.12033
+📅 2025年10月15日
+💡 この論文は、スマート製造における異常の根本原因を特定するための、解釈可能なAIシステム「CausalTrace」を紹介しています。CausalTraceは、ニューロシンボリックアプローチを用いて、データ駆動型の因果分析、反事実的推論、根本原因分析を実行し、製造プロセスにおける意思決定を支援します。評価の結果、CausalTraceは専門家との高い合意率を示し、信頼性と実用性を証明しました。これにより、製造現場での
+
+【5】Do Large Language Models Respect Contracts? Evaluating and Enforcing Contract-Adherence in Code Generation (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.12047
+📅 2025年10月15日
+💡 この論文は、大規模言語モデル（LLM）が契約（コードの前提条件と制約）をどの程度遵守できるかを評価する新しいフレームワークPACTを提案しています。従来のコード生成ベンチマークは機能的な正確さに焦点を当てていましたが、PACTは契約違反に焦点を当てたテストスイートと新しいメトリクスを提供し、LLMが契約を遵守する能力を評価します。研究結果は、契約違反のテストケースをプロンプト
+
+【6】Empowering LLM Agents with Geospatial Awareness: Toward Grounded Reasoning for Wildfire Response (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.12061
+📅 2025年10月15日
+💡 この論文は、大規模言語モデル（LLM）エージェントに地理空間認識能力を付与し、山火事対応における根拠に基づいた推論を可能にする新しいフレームワークを提案しています。このフレームワークは、地理空間認識レイヤー（GAL）を通じて、LLMがインフラ、人口統計、地形、気象データなどの地理空間データを統合し、より正確なリソース配分（人員配置、予算配分など）の推奨を
+
+【7】HiCoTraj:Zero-Shot Demographic Reasoning via Hierarchical Chain-of-Thought Prompting from Trajectory (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.12067
+📅 2025年10月15日
+💡 この論文は、移動パターンから年齢、性別、収入などの人口統計属性を推測する新しいAIフレームワーク「HiCoTraj」を紹介しています。HiCoTrajは、大規模言語モデル（LLM）のゼロショット学習能力を活用し、ラベル付きデータなしで、移動データを自然言語に変換し、階層的な思考連鎖を通じて人口統計的推論を行います。これにより、解釈可能性と異なるデータセットへの汎用性が向上し、ターゲット
+
+【8】EmboMatrix: A Scalable Training-Ground for Embodied Decision-Making (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.12072
+📅 2025年10月15日
+💡 この論文は、大規模言語モデル（LLM）が現実世界での行動を学習するための新しいトレーニング環境「EmboMatrix」を紹介しています。EmboMatrixは、タスクとシーンのシミュレーション、環境とのインタラクション、フィードバックを提供し、LLMが真の「embodied decision-making」スキルを習得できるように設計されています。この環境を利用して訓練されたLLM「EmboBrain」は、既存のモデルを大幅に上回り、
+
+【9】Evaluating the Quality of Randomness and Entropy in Tasks Supported by Large Language Models (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.12080
+📅 2025年10月15日
+💡 この論文は、大規模言語モデル（LLM）がランダム性を必要とするタスクをどの程度うまく処理できるかを評価しています。実験を通して、LLMがランダムな数字の生成、パスワードの作成、シャッフルなどのタスクで、一貫性に欠け、期待される挙動から逸脱することが明らかになりました。この研究は、LLMがランダム性を扱う能力には限界があり、特に確率的決定、ゲーム、暗号化などの分野
+
+【10】ToPolyAgent: AI Agents for Coarse-Grained Topological Polymer Simulations (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.12091
+📅 2025年10月15日
+💡 この論文では、自然言語指示でトポロジカルポリマーの粗視化分子動力学シミュレーションを行うための、マルチエージェントAIフレームワーク「ToPolyAgent」を紹介しています。ToPolyAgentは、LLMを活用して、線形、リング、ブラシ、スターポリマーなど、様々なポリマー構造のシミュレーションを可能にします。4つのLLM駆動エージェント（設定、シミュレーション、レポート、ワークフロー）で構成され
+
+---
+合計 121 件のAI関連ニュースが見つかりました。
