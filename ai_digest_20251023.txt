@@ -1,0 +1,55 @@
+🤖 AI最新ニュースダイジェスト 🤖
+2025年10月23日 12:57
+
+【1】Test-time Verification via Optimal Transport: Coverage, ROC, & Sub-optimality (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.18982
+📅 2025年10月23日
+💡 この論文は、大規模言語モデル（LLM）のテスト時検証における、検証者の役割と不完全性に焦点を当てています。検証者の性能は、生成器のカバレッジ、検証者のROC（収束領域）、サンプリングアルゴリズムのサブ最適性の相互作用によって決定されることを、最適な輸送問題としてモデル化することで明らかにしました。研究結果は、サブ最適性とカバレッジの関係が3つの異なる領域に分かれることを示し、Qwen
+
+【2】Timely Clinical Diagnosis through Active Test Selection (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.18988
+📅 2025年10月23日
+💡 この論文は、臨床診断を支援するために、ベイジアン実験計画法と大規模言語モデル（LLM）を統合したACTMEDという新しいフレームワークを提案しています。ACTMEDは、診断の不確実性を最も低減する検査を段階的に選択し、LLMを柔軟なシミュレーターとして活用することで、臨床医の現実的な思考プロセスを模倣します。これにより、診断精度、解釈可能性、リソース利用の最適化を目指し、
+
+【3】The MUSE Benchmark: Probing Music Perception and Auditory Relational Reasoning in Audio LLMS (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.19055
+📅 2025年10月23日
+💡 この論文は、音楽理解能力を評価するための新しいベンチマーク「MUSE」を提案しています。MUSEは、最先端のオーディオLLMの音楽知覚と関係推論能力をテストし、人間との比較を行います。結果は、モデル間で能力に大きな差があり、特にQwenとAudio Flamingo 3は基本的な知覚能力に欠けていることを示しました。この研究は、より堅牢なAIシステム開発のための重要なツールを提供し、
+
+【4】A Multi-faceted Analysis of Cognitive Abilities: Evaluating Prompt Methods with Large Language Models on the CONSORT Checklist (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.19139
+📅 2025年10月23日
+💡 この論文は、大規模言語モデル（LLM）が臨床試験報告の評価において、CONSORT基準にどの程度対応できるかを分析しています。研究では、異なるプロンプト条件の下で2つのLLMの認知能力を比較し、モデルの推論スタイルや不確実性の表現に違いがあることを発見しました。この結果は、医療分野におけるLLMの臨床コンプライアンス自動化における限界を示唆し、説明可能で信頼性の高い医療
+
+【5】ChatGPT Unveils Its Limits: Principles of Law Deliver Checkmate (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.19261
+📅 2025年10月23日
+💡 この研究は、ChatGPTが法的領域における複雑な問題を解決する能力に限界があることを明らかにしました。ChatGPTは必要な知識を持っていても、法原則（PoLs）を網羅的に理解し、統合的に推論することができません。これは、AIが複雑な問題を分解し、複数の能力を駆使して包括的な解決策を提示する能力に欠けていることを示唆しています。特に、法的判断や弁護活動におけるPoLsの抽出において、AIは人間の
+
+【6】Learning to Make Friends: Coaching LLM Agents toward Emergent Social Ties (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.19299
+📅 2025年10月23日
+💡 この論文は、大規模言語モデル（LLM）エージェントが、人間のような複雑な社会関係を再現できるかを研究しています。研究者たちは、エージェントが相互作用し、評価し合い、コーチング信号によって行動を適応させるマルチエージェントシミュレーションフレームワークを開発しました。実験の結果、コーチングされたLLMエージェントは安定した相互作用パターンを形成し、現実のオンラインコミュニティに似たネットワーク構造を生成
+
+【7】MSC-Bench: A Rigorous Benchmark for Multi-Server Tool Orchestration (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.19423
+📅 2025年10月23日
+💡 MSC-Benchは、LLMエージェントによる複数サーバーを跨いだツール連携能力を評価するための大規模ベンチマークです。従来のベンチマークが抱える機能の重複やサーバー間の連携といった課題を克服し、客観的な評価指標と5段階のカリキュラムを通じてエージェントの能力を体系的にテストします。実験結果から、階層構造がパフォーマンスを阻害する場合があることや、最先端のエージェントでさえも堅牢性に
+
+【8】HSCodeComp: A Realistic and Expert-level Benchmark for Deep Search Agents in Hierarchical Rule Application (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.19631
+📅 2025年10月23日
+💡 この論文は、深層検索エージェントが階層的なルールを適用する能力を評価するための、現実的で専門家レベルのベンチマーク「HSCodeComp」を提案しています。HSCodeCompは、eコマース製品の説明から10桁のHSコードを予測するタスクで、複雑なルール適用能力を試します。実験結果は、最先端のLLMでさえ、人間の専門家と比較して大幅に低いパフォーマンスを示し、階
+
+【9】AgentSense: LLMs Empower Generalizable and Explainable Web-Based Participatory Urban Sensing (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.19661
+📅 2025年10月23日
+💡 AgentSenseは、大規模言語モデル（LLM）を組み込んだ、ウェブベースの参加型都市センシングのための新しいフレームワークです。このフレームワークは、マルチエージェント進化システムを通じて、多様な都市環境への適応性と意思決定の透明性を向上させます。AgentSenseは、従来のセンシングシステムよりも優れた適応性と説明能力を示し、単一エージェントLLMベースラインよりも高いパフォーマンスと堅牢性を実現しました。これにより、AgentSense
+
+【10】RLIE: Rule Generation with Logistic Regression, Iterative Refinement, and Evaluation for Large Language Models (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.19698
+📅 2025年10月23日
+💡 この論文は、大規模言語モデル（LLM）と確率的モデリングを統合した新しいフレームワーク「RLIE」を紹介しています。RLIEは、LLMが生成したルールにロジスティック回帰で重みを付与し、反復的な洗練を通じてルールセットを改善します。実験結果から、ルールを直接適用する方が、LLMにルールを組み込むよりも優れたパフォーマンスを示し、LLMの確率的推論における限界を
+
+---
+合計 116 件のAI関連ニュースが見つかりました。
