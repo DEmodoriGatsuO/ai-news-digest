@@ -1,0 +1,55 @@
+🤖 AI最新ニュースダイジェスト 🤖
+2025年10月27日 12:57
+
+【1】Sketch2BIM: A Multi-Agent Human-AI Collaborative Pipeline to Convert Hand-Drawn Floor Plans to 3D BIM (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.20838
+📅 2025年10月27日
+💡 この研究は、手描きの平面図を3D BIMモデルに変換する、人間とAIが協働するパイプライン「Sketch2BIM」を紹介しています。マルチモーダル大規模言語モデル（MLLM）を活用したマルチエージェントフレームワークにより、スケッチから構造化されたJSONレイアウトを生成し、それを3D BIMモデルを生成するスクリプトに変換します。実験結果では、高い精度で開口部を検出し、壁
+
+【2】Cultural Alien Sampler: Open-ended art generation balancing originality and coherence (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.20849
+📅 2025年10月27日
+💡 この論文は、AIが芸術作品を生成する際に、斬新さと整合性のバランスを取るための新しい手法「Cultural Alien Sampler (CAS)」を提案しています。CASは、既存の文化的なパターンに偏ることなく、一貫性を保ちながら独創的なアイデアを生み出すことを目指しています。人間による評価では、CASは既存のAIモデルや人間の芸術学生に匹敵する成果を上げ、多様性と創造性の向上を示しました。この技術
+
+【3】Customizing Open Source LLMs for Quantitative Medication Attribute Extraction across Heterogeneous EHR Systems (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.21027
+📅 2025年10月27日
+💡 この論文は、オープンソースのLLMをカスタマイズして、異なる電子医療記録（EHR）システムからオピオイド使用障害（OUD）治療薬の処方属性を抽出するフレームワークを提案しています。Llama、Qwen、Gemma、MedGemmaなどのLLMを使用し、処方日、薬名、期間などの情報を抽出し、患者ごとの治療薬の適用範囲を計算します。このフレームワークは、異なるEHR
+
+【4】From Questions to Queries: An AI-powered Multi-Agent Framework for Spatial Text-to-SQL (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.21045
+📅 2025年10月27日
+💡 この論文は、自然言語での質問を空間SQLクエリに変換するAIを活用したマルチエージェントフレームワークを提案しています。複雑な空間データ分析を容易にするため、専門知識のないユーザーでも利用できるように設計されています。このフレームワークは、知識ベース、埋め込み、およびエンティティ抽出、メタデータ取得、クエリロジックの構築、SQL生成、検証を行う複数のエージェントで構成され、高い精度を達成しています。その結果
+
+【5】PanicToCalm: A Proactive Counseling Agent for Panic Attacks (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.21143
+📅 2025年10月27日
+💡 この論文は、パニック発作に対するカウンセリングエージェント「PACER」を開発しました。PACERは、心理的応急処置（PFA）の原則に基づいたデータセット「PACE」を使用して訓練され、共感的かつ指示的なサポートを提供します。PACERは、従来のカウンセリングモデルやGPT-4よりも、パニック発作の状況において効果的であることが実験と人間評価によって示されました。この研究は、AIを活用したメンタル
+
+【6】NeuroGenPoisoning: Neuron-Guided Attacks on Retrieval-Augmented Generation of LLM via Genetic Optimization of External Knowledge (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.21144
+📅 2025年10月27日
+💡 この論文は、大規模言語モデル（LLM）の検索拡張生成（RAG）システムに対する新たな攻撃手法「NeuroGenPoisoning」を提案しています。この手法は、LLMの内部ニューロンの活動を分析し、遺伝的最適化を用いて、モデルを誤った情報で汚染するような外部知識を生成します。NeuroGenPoisoningは、従来の攻撃手法よりも効果的にモデルの知識を上書きし、90%以上の成功率
+
+【7】How to Auto-optimize Prompts for Domain Tasks? Adaptive Prompting and Reasoning through Evolutionary Domain Knowledge Adaptation (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.21148
+📅 2025年10月27日
+💡 この論文は、大規模言語モデル（LLM）のドメイン特化タスク向けに、プロンプトと推論プロセスを自動的に最適化する「EGO-Prompt」というフレームワークを提案しています。EGO-Promptは、専門家が作成した初期の知識グラフを基に、テキスト勾配を用いて反復的にプロンプトと推論メカニズムを洗練させます。その結果、既存手法よりも高い精度を達成し、
+
+【8】String Seed of Thought: Prompting LLMs for Distribution-Faithful and Diverse Generation (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.21150
+📅 2025年10月27日
+💡 この論文は、大規模言語モデル（LLM）の確率的命令追従（PIF）能力を向上させる新しいプロンプティング手法「String Seed of Thought (SSoT)」を提案しています。PIFは、LLMが事前に定義された選択肢から、指定された確率で回答を選択するタスクであり、SSoTはLLMに最初にランダムな文字列を出力させ、それを操作して最終的な回答を生成することで、多様性を維持しながら制
+
+【9】OutboundEval: A Dual-Dimensional Benchmark for Expert-Level Intelligent Outbound Evaluation of Xbench's Professional-Aligned Series (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.21244
+📅 2025年10月27日
+💡 この論文は、専門家レベルのインテリジェントアウトバウンドコールを評価するための包括的なベンチマーク「OutboundEval」を提案しています。OutboundEvalは、データセットの多様性、非現実的なユーザーシミュレーション、不正確な評価指標といった既存の課題を解決し、6つの主要なビジネスドメインと30のサブシナリオをカバーしています。大規模言語モデル（LLM）を活用したユーザーシミュレーターと、タ
+
+【10】Towards Reliable Code-as-Policies: A Neuro-Symbolic Framework for Embodied Task Planning (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.21302
+📅 2025年10月27日
+💡 この論文は、ロボットなどの具現化されたエージェントのタスク計画における、LLM（大規模言語モデル）ベースのコード生成の信頼性を向上させる新しいフレームワークを提案しています。このフレームワークは、記号検証と対話的な検証プロセスを組み込むことで、環境とのより深い連携を実現し、動的または部分的に観測可能な環境でのタスク成功率を大幅に向上させます。実験結果は、従来のコードベースのアプローチ
+
+---
+合計 138 件のAI関連ニュースが見つかりました。
