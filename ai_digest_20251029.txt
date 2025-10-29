@@ -1,0 +1,55 @@
+🤖 AI最新ニュースダイジェスト 🤖
+2025年10月29日 12:58
+
+【1】Game-TARS: Pretrained Foundation Models for Scalable Generalist Multimodal Game Agents (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.23691
+📅 2025年10月29日
+💡 この論文では、Game-TARSという、人間が使うキーボードとマウス入力を模倣した統一されたアクション空間を持つ、汎用的なゲームエージェントを紹介しています。5000億以上のトークンで事前学習されており、Minecraftなどのオープンワールドゲームで既存のモデルを大幅に上回り、ウェブ3Dゲームでも人間と同等の性能を発揮します。Game-TARSは、GPT-5、Gemini-2.5-Pro、Claude-
+
+【2】ReCAP: Recursive Context-Aware Reasoning and Planning for Large Language Model Agents (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.23822
+📅 2025年10月29日
+💡 この論文は、大規模言語モデル（LLM）エージェントが長期間のタスクを効率的に実行するための新しいフレームワーク、ReCAP（Recursive Context-Aware Reasoning and Planning）を紹介しています。ReCAPは、計画の事前分解、親計画の構造化された再注入、メモリ効率の良い実行という3つの主要なメカニズムを組み合わせることで、LLMがマルチステップの推論と動的な再計画をより効果的に行えるようにします。
+
+【3】Decentralized Multi-Agent Goal Assignment for Path Planning using Large Language Models (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.23824
+📅 2025年10月29日
+💡 この論文は、大規模言語モデル（LLM）を用いて、複数の自律エージェントが分散環境で目標を割り当てる問題を解決しています。エージェントは環境情報を基に目標の優先順位を決定し、それを交換した後、固定ルールで割り当てを行います。実験の結果、LLMベースのエージェントは、適切な情報とプロンプトを与えれば、従来のヒューリスティック手法よりも優れたパフォーマンスを発揮し、ほぼ最適な目標割り当てを実現
+
+【4】Hybrid Modeling, Sim-to-Real Reinforcement Learning, and Large Language Model Driven Control for Digital Twins (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.23882
+📅 2025年10月29日
+💡 この論文は、デジタルツイン技術における動的システムモデリングと制御への取り組みを報告しています。物理ベース、データ駆動型、ハイブリッドアプローチを組み合わせ、線形モデル、LSTM、ハイブリッド分析モデルを比較し、モデル予測制御、強化学習、大規模言語モデル（LLM）ベースの制御戦略を評価しています。実験結果は、ハイブリッドモデリングがバランスの取れた性能を示し、LLMベースの制御が柔軟な
+
+【5】Agentic AI Security: Threats, Defenses, Evaluation, and Open Challenges (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.23883
+📅 2025年10月29日
+💡 この論文は、大規模言語モデル（LLM）を基盤とし、計画、ツール利用、記憶、自律性を備えた「Agentic AI」システムのセキュリティリスクに焦点を当てています。Agentic AIは、従来のAI安全やソフトウェアセキュリティとは異なる新たな脅威を生み出し、Web、ソフトウェア、物理環境での自律的なタスク実行能力がリスクを増幅させます。論文は、Agentic AI特有の脅威の分類、評価方法
+
+【6】The Sign Estimator: LLM Alignment in the Face of Choice Heterogeneity (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.23965
+📅 2025年10月29日
+💡 この論文は、大規模言語モデル (LLM) のアライメントにおける新たな手法「サイン推定器」を提案しています。従来のモデルは、人間の好みの多様性に対応できず、不正確な評価につながる問題がありました。サイン推定器は、シンプルなバイナリ分類損失を用いることで、一貫性のある評価を実現し、LLMの社会的な有用性を向上させます。シミュレーションでは、従来のRLHF手法と比較して、好みの歪みを大幅に
+
+【7】Discovering Heuristics with Large Language Models (LLMs) for Mixed-Integer Programs: Single-Machine Scheduling (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.24013
+📅 2025年10月29日
+💡 この研究は、大規模言語モデル（LLM）を活用して、混合整数計画問題（MIP）のヒューリスティックを発見し、シングルマシン総遅延問題（SMTT）に適用しました。LLMによって開発されたEDDCとMDDCという2つの新しいヒューリスティックは、既存のヒューリスティックよりも優れたパフォーマンスを示し、特に大規模な問題において、正確な解法に匹敵する結果を出しました。この研究は、人間
+
+【8】LLMLogAnalyzer: A Clustering-Based Log Analysis Chatbot using Large Language Models (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.24031
+📅 2025年10月29日
+💡 この論文は、大規模言語モデル（LLM）と機械学習を組み合わせた、クラスタリングベースのログ分析チャットボット「LLMLogAnalyzer」を紹介しています。LLMLogAnalyzerは、ログ分析の課題を解決するために設計されており、要約、パターン抽出、異常検知などのタスクにおいて、ChatGPTなどの既存のLLMベースのチャットボットよりも大幅な性能向上を示しています。このシステムは、ログの構造化されたテキスト処理能力
+
+【9】BLM$_1$: A Boundless Large Model for Cross-Space, Cross-Task, and Cross-Embodiment Learning (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.24161
+📅 2025年10月29日
+💡 この論文は、デジタル空間と物理空間、異なるタスク、異なるロボットの身体（embodiment）を横断して学習できる、新しいマルチモーダル大規模言語モデル「BLM$_1$」を紹介しています。BLM$_1$は、デジタル空間での知識を組み込み、高レベルの指示理解と制御を可能にすることで、従来のモデルよりも優れた性能を発揮します。特に、複数のロボットプラットフォームと様々なタスクを対象とした評価において、
+
+【10】MGA: Memory-Driven GUI Agent for Observation-Centric Interaction (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.24168
+📅 2025年10月29日
+💡 この論文は、GUI（グラフィカルユーザーインターフェース）操作に特化した新しいAIエージェント「MGA」を紹介しています。MGAは、従来の履歴に依存するアプローチではなく、「観察第一」の原則に基づき、現在のスクリーンショット、空間情報、動的に更新される構造化メモリを組み合わせた環境状態をモデル化しています。これにより、OSworldベンチマークや実際のデスクトップアプリケーションにおいて、既存の最先端技術と比較して、堅牢
+
+---
+合計 137 件のAI関連ニュースが見つかりました。
