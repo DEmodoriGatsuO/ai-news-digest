@@ -1,0 +1,56 @@
+🤖 AI最新ニュースダイジェスト 🤖
+2025年10月31日 12:55
+
+【1】Symbolically Scaffolded Play: Designing Role-Sensitive Prompts for Generative NPC Dialogue (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.25820
+📅 2025年10月31日
+💡 この論文は、大規模言語モデル（LLM）を活用したゲームにおけるNPC（ノンプレイヤーキャラクター）の対話設計について研究しています。実験の結果、制約の強いプロンプトは、技術的な問題への対応を除いて、プレイヤー体験に大きな違いをもたらさないことが判明しました。研究チームは、役割によって効果が異なることを発見し、安定性を高める役割と、即興性を維持する役割があることを示唆しました。この知見に基づき、
+
+【2】Through the Judge's Eyes: Inferred Thinking Traces Improve Reliability of LLM Raters (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.25860
+📅 2025年10月31日
+💡 この論文は、大規模言語モデル（LLM）を評価者として使用する際の信頼性を向上させるための新しいフレームワークを提案しています。このフレームワークは、人間の判断の背後にある思考過程（思考トレース）を、ラベルのみの注釈から推論し、LLMの微調整や注釈ガイドラインの改善に利用します。その結果、LLMと人間の合意率が大幅に向上し、異なるLLMモデル間の合意率
+
+【3】Approximating Human Preferences Using a Multi-Judge Learned System (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.25884
+📅 2025年10月31日
+💡 この論文は、大規模言語モデル（LLM）ベースの評価者（judge）を人間の好みに合わせるための新しいフレームワークを提案しています。LLM評価者は、校正の難しさ、バイアス、不安定さといった課題を抱えていますが、この研究では、複数の評価者の出力を統合することで、多様な好みをモデル化することを目指しています。具体的には、人間の好みから合成したラベルを用いて、Generalized Additive Model (GAM)とMulti-Layer Per
+
+【4】SciTrust 2.0: A Comprehensive Framework for Evaluating Trustworthiness of Large Language Models in Scientific Applications (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.25908
+📅 2025年10月31日
+💡 この論文は、科学研究における大規模言語モデル（LLM）の信頼性を評価するための包括的なフレームワーク「SciTrust 2.0」を提案しています。SciTrust 2.0は、真実性、敵対的堅牢性、科学的安全性、倫理性の4つの側面からLLMを評価し、特に科学専門モデルの弱点を明らかにしました。評価の結果、汎用モデルが科学専門モデルよりも優れており、科学専門モデルは
+
+【5】Humains-Junior: A 3.8B Language Model Achieving GPT-4o-Level Factual Accuracy by Directed Exoskeleton Reasoning (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.25933
+📅 2025年10月31日
+💡 Humans-Juniorは、3.8Bパラメータの言語モデルであり、FACTS GroundingデータセットにおいてGPT-4oと同等の精度を達成しました。特筆すべきは、GPT-4oと比較して約19倍の低コストで利用できる点です。この成果は、"Exoskeleton Reasoning"と呼ばれる手法と行動的ファインチューニングを組み合わせることで実現され、低コストで高性能なAIモデルの可能性を示唆しています。
+
+
+【6】From Queries to Insights: Agentic LLM Pipelines for Spatio-Temporal Text-to-SQL (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.25997
+📅 2025年10月31日
+💡 この論文は、自然言語からSQLへの変換システムを改善するために、MistralベースのReActエージェントによるオーケストレーションを用いた新しいパイプラインを提案しています。このエージェントは、空間的および時間的クエリを含む複雑なクエリを処理し、SQL生成、実行、および可視化ツールを通じて、より高い精度と使いやすさを実現しています。NYCと東京のチェックインデータセットを用いた評価では、従来のシステムよりも大幅に高い
+
+【7】AutoSurvey2: Empowering Researchers with Next Level Automated Literature Surveys (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.26012
+📅 2025年10月31日
+💡 この論文は、研究論文の急増に対応するため、自動文献調査ツール「AutoSurvey2」を紹介しています。AutoSurvey2は、検索拡張合成と構造化評価を組み合わせた多段階パイプラインを用いて、網羅的で最新の調査論文を自動生成します。複数のLLMを用いた評価フレームワークにより、構造的整合性とトピックの関連性で既存のツールを上回り、引用の忠実性も維持しています。このツールは、学術
+
+【8】Large Language Model-assisted Autonomous Vehicle Recovery from Immobilization (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.26023
+📅 2025年10月31日
+💡 この論文は、大規模言語モデル（LLM）を活用して、自律走行車（AV）が立ち往生した場合に自律的に復帰を試みる新しいフレームワーク「StuckSolver」を提案しています。StuckSolverは、既存のAVシステムにプラグインとして追加でき、周囲の状況を解釈し、高レベルの復帰コマンドを生成します。評価結果は、StuckSolverが単独で高い性能を発揮し、乗客
+
+【9】Lean4Physics: Comprehensive Reasoning Framework for College-level Physics in Lean4 (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.26094
+📅 2025年10月31日
+💡 この論文は、大学レベルの物理問題をLean4で解くための包括的な推論フレームワーク「Lean4PHYS」を紹介しています。Lean4PHYSは、200の物理問題を含むベンチマーク「LeanPhysBench」と、物理推論に必要な基本要素をまとめた「PhysLib」で構成されています。実験結果では、最先端のAIモデルでもLeanPhysBenchの正答率は低く、PhysLibの利用によってパフォーマンスが向上することが示されました。
+
+【10】Beyond Benchmarks: The Economics of AI Inference (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.26136
+📅 2025年10月31日
+💡 この論文は、大規模言語モデル（LLM）の推論コストを経済学的な視点から分析し、その商業的実現可能性に焦点を当てています。推論プロセスを計算主導の生産活動として扱い、限界費用、規模の経済性、出力の質を評価するフレームワークを提案しています。WiNEval-3.0のデータに基づき、推論の生産フロンティアを構築し、費用対効果の高い最適なゾーンを明らかに
+
+---
+合計 113 件のAI関連ニュースが見つかりました。
