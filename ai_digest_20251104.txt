@@ -1,0 +1,55 @@
+🤖 AI最新ニュースダイジェスト 🤖
+2025年11月04日 12:57
+
+【1】CATArena: Evaluation of LLM Agents through Iterative Tournament Competitions (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.26852
+📅 2025年11月04日
+💡 この論文は、大規模言語モデル（LLM）エージェントの評価方法として、反復的なトーナメント形式の競争プラットフォーム「CATArena」を提案しています。従来のベンチマークが抱えるスコア飽和や専門家による注釈への依存といった問題を解決するため、CATArenaは、自己改善とピアラーニング能力に焦点を当て、多様なゲームを通じてエージェントの学習能力を評価します。これにより、LLMエージェ
+
+【2】Inverse Knowledge Search over Verifiable Reasoning: Synthesizing a Scientific Encyclopedia from a Long Chains-of-Thought Knowledge Base (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.26854
+📅 2025年11月04日
+💡 この論文は、科学的推論を解き明かし、検証可能な「Long Chain-of-Thought (LCoT)」知識ベースを構築し、そこから百科事典「SciencePedia」を生成するフレームワークを提案しています。このフレームワークは、複数のモデルによる推論の検証と、逆知識検索エンジンを活用して、多様な第一原理からの導出を検索し、信頼性の高い記事を合成します。SciencePediaは、従来の知識
+
+【3】Cognition Envelopes for Bounded AI Reasoning in Autonomous UAS Operations (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.26905
+📅 2025年11月04日
+💡 この論文は、自律型UAS（無人航空システム）の運用におけるAIの推論を制限するための「Cognition Envelopes（認知エンベロープ）」という概念を提案しています。大規模言語モデル（LLM）やVision-Languageモデル（VLM）などのAIモデルがもたらす誤り（幻覚、過剰な一般化など）に対処し、AIの意思決定を安全に制御することを目的としています。Cognition En
+
+【4】Causal Masking on Spatial Data: An Information-Theoretic Case for Learning Spatial Datasets with Unimodal Language Models (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.27009
+📅 2025年11月04日
+💡 この論文は、空間データに対する因果マスキングの有効性を探求しています。チェスの盤面データを用いて、因果マスキングを適用した空間データに基づく言語モデルが、従来のシーケンシャルデータに基づくモデルよりも高い性能を発揮することを示しました。この結果は、空間データに対する単一モードLLMの訓練において、因果マスキングが有効であり、場合によってはシーケンシャル化よりも優れている可能性を示唆しています。この研究は、空間データを持つ
+
+【5】CombiGraph-Vis: A Curated Multimodal Olympiad Benchmark for Discrete Mathematical Reasoning (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.27094
+📅 2025年11月04日
+💡 この論文は、離散数学的推論能力を評価するための新しいベンチマーク「CombiGraph-Vis」を紹介しています。最先端のLLMが証明問題の解決能力を向上させている一方で、この研究は、モデルが証明の誤りを検出し、部分的なクレジットを適切に割り当てる能力を評価することに焦点を当てています。研究者たちは、人間の採点との整合性を高めるために、エージェントワークフローを導入し、
+
+【6】Glia: A Human-Inspired AI for Automated Systems Design and Optimization (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.27176
+📅 2025年11月04日
+💡 この論文は、人間のような創造性と推論能力を持つAI「Glia」を紹介しています。Gliaは、大規模言語モデル（LLM）を活用したマルチエージェントワークフローを用いて、コンピュータシステムの設計を自動化します。各エージェントは、推論、実験、分析を専門とし、評価フレームワークを通じて協調します。Gliaは、ブラックボックスの最適化ではなく、解釈可能な設計を生成し、その推論プロセスを明らかにします。
+
+【7】Fints: Efficient Inference-Time Personalization for LLMs with Fine-Grained Instance-Tailored Steering (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.27206
+📅 2025年11月04日
+💡 この論文は、大規模言語モデル（LLM）の効率的なパーソナライゼーション手法「Fints」を提案しています。Fintsは、ユーザーデータから動的に生成された干渉ベクトルをモデルの順方向パスに注入することで、きめ細かくインスタンスに合わせた適応を実現します。この手法は、変化の速い状況やデータスパースな状況において高い柔軟性とデータ効率を示し、既存のパーソナライゼーション技術とも
+
+【8】GUI-Rise: Structured Reasoning and History Summarization for GUI Navigation (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.27210
+📅 2025年11月04日
+💡 この論文は、GUIナビゲーションにおけるマルチモーダル大規模言語モデルの課題を解決するため、構造化推論、行動予測、履歴要約を統合した新しいフレームワーク「GUI-Rise」を提案しています。GUI-Riseは、進捗評価と意思決定推論を組み合わせたChain-of-Thought分析を行い、行動予測と履歴要約を両立させることで、ドメインを超えた汎化性能と履歴の有効活用を実現しています。擬似
+
+【9】An In-depth Study of LLM Contributions to the Bin Packing Problem (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.27353
+📅 2025年11月04日
+💡 この論文は、大規模言語モデル（LLM）がビンパッキング問題への貢献を示唆した初期の研究を再評価しています。LLMが生成したヒューリスティックを詳細に分析した結果、その解釈可能性が低く、問題に対する真の貢献は限定的であることが判明しました。研究者は、よりシンプルで効率的、かつ解釈可能なアルゴリズムを開発し、LLMの貢献に関する主張の限界を指摘しました。この研究は
+
+【10】ToolScope: An Agentic Framework for Vision-Guided and Long-Horizon Tool Use (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2510.27363
+📅 2025年11月04日
+💡 この論文は、視覚情報に基づいた長期間のツール利用を可能にするエージェントフレームワーク「ToolScope」を紹介しています。ToolScopeは、グローバルな計画とローカルなマルチモーダル知覚を統合し、視覚的なコンテキストの劣化を軽減する「Perceive」ツールを活用します。評価の結果、ToolScopeは様々なVQAベンチマークで最大+6.69%の性能向上を達成し、マルチモーダルLL
+
+---
+合計 90 件のAI関連ニュースが見つかりました。
