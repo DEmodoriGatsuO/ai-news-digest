@@ -1,0 +1,55 @@
+🤖 AI最新ニュースダイジェスト 🤖
+2025年11月07日 12:54
+
+【1】PublicAgent: Multi-Agent Design Principles From an LLM-Based Open Data Analysis Framework (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.03023
+📅 2025年11月07日
+💡 この論文は、大規模言語モデル（LLM）を活用したオープンデータ分析フレームワーク「PublicAgent」を紹介しています。PublicAgentは、タスクを専門化されたエージェントに分割することで、LLMの限界を克服し、非専門家でもデータ分析を可能にします。評価結果から、専門化の重要性、エージェントの役割分担、エラーの軽減、タスクの複雑さへの対応、モデル選択の重要性など、マルチエージェ
+
+【2】No-Human in the Loop: Agentic Evaluation at Scale for Recommendation (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.03051
+📅 2025年11月07日
+💡 この論文は、大規模言語モデル（LLM）を評価者として使用する際の、スケーラブルで信頼性の高い評価パイプライン構築に焦点を当てています。ScalingEvalと呼ばれるベンチマーク研究では、GPT、Gemini、Claude、Llamaなど36のLLMを比較し、多エージェントフレームワークを用いて人間によるアノテーションなしで評価を行いました。その結果、Anthropic Claude 3.5 Sonnetが最高の決定信頼
+
+【3】Epidemiology of Large Language Models: A Benchmark for Observational Distribution Knowledge (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.03070
+📅 2025年11月07日
+💡 この論文は、大規模言語モデル（LLM）が現実世界の確率分布に関する知識をどの程度持っているかを評価するベンチマークを開発しました。研究の結果、LLMは現実世界の統計を自然に内面化しておらず、観察分布に関する知識が低いことが示されました。このことは、LLMが因果関係の階層におけるより高度なレベルの知識、つまり介入的および反事実的な知識も制限されていることを意味します。この研究は、
+
+【4】SnapStream: Efficient Long Sequence Decoding on Dataflow Accelerators (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.03092
+📅 2025年11月07日
+💡 この論文は、データフローアクセラレータ上で効率的な長文シーケンスデコーディングを実現する「SnapStream」という新しいKVキャッシュ圧縮手法を提案しています。SnapStreamは、大規模言語モデル（LLM）の推論におけるオンチップメモリの使用量を最大4倍削減し、精度への影響を最小限に抑えることを目指しています。DeepSeek-671Bモデルを用いた実運用環境での検証により、128kコンテキスト長
+
+【5】Large language models require a new form of oversight: capability-based monitoring (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.03106
+📅 2025年11月07日
+💡 この論文は、大規模言語モデル（LLM）の監視に新たなアプローチ「能力ベースモニタリング」を提案しています。従来のタスクベースの監視では、LLMの汎用性に対応できず、潜在的な弱点や新たな振る舞いを見逃す可能性があるためです。能力ベースモニタリングは、LLMの共通能力（要約、推論など）に焦点を当て、複数のタスクにわたる問題点を効率的に検出します
+
+【6】Using Multi-modal Large Language Model to Boost Fireworks Algorithm's Ability in Settling Challenging Optimization Tasks (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.03137
+📅 2025年11月07日
+💡 この研究は、マルチモーダル大規模言語モデル（MLLM）を活用して、花火アルゴリズム（FWA）の最適化能力を向上させる新しいアプローチを提案しています。特に、複雑な最適化タスクに対応するため、MLLMの情報をFWAに統合し、重要な部分（CP）の概念を導入しています。この手法は、旅行セールスマン問題（TSP）や電子設計自動化問題（EDA）などの課題において、最先端の結果
+
+【7】A Proprietary Model-Based Safety Response Framework for AI Agents (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.03138
+📅 2025年11月07日
+💡 この論文は、大規模言語モデル（LLM）の安全性を高めるための独自の安全応答フレームワークを提案しています。入力レベルでは、安全分類モデルを用いてリスクを詳細に識別し、99.3%のリスクリコール率を達成しています。出力レベルでは、検索拡張生成（RAG）と解釈モデルを統合し、情報捏造を排除し、結果の追跡可能性を確保しています。実験結果は、既存のモデルと比較して高い
+
+【8】Toward Autonomous Engineering Design: A Knowledge-Guided Multi-Agent Framework (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.03179
+📅 2025年11月07日
+💡 この論文は、工学設計プロセスを効率化するために、知識に基づいたマルチエージェントAIフレームワークを提案しています。このフレームワークは、専門知識を持つ複数のAIエージェント（Graph Ontologist、Design Engineer、Systems Engineer）が協力し、設計候補の生成と洗練を行います。具体的には、大規模言語モデル（LLM）を活用して知識グラフを構築し、設計要件の策定、設計候補の提案、評価とフィードバックの
+
+【9】From Five Dimensions to Many: Large Language Models as Precise and Interpretable Psychological Profilers (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.03235
+📅 2025年11月07日
+💡 この論文は、大規模言語モデル（LLM）が、わずかな情報から人間の心理的特性の相関関係を正確にモデル化できることを示しています。LLMは、ビッグファイブ性格尺度の回答を基に、他の心理尺度の回答を生成し、人間のデータとの相関パターンを高い精度で再現しました。LLMは、情報を選択し圧縮して性格の要約を作成し、そこから推論を行う二段階のプロセスを用いており、
+
+【10】Towards Scalable Web Accessibility Audit with MLLMs as Copilots (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.03471
+📅 2025年11月07日
+💡 この論文は、ウェブアクセシビリティ監査を効率化するために、大規模言語モデル（MLLM）をコパイロットとして活用する新しいフレームワーク「AAA」を提案しています。AAAは、視覚、テキスト、関係性に関する情報を組み合わせたグラフベースのサンプリング手法と、クロスモーダル推論を行うMLLMを活用し、監査プロセスを支援します。これにより、ウェブアクセシビリティ監査の規模を拡大し、人間の監査者の負担を軽減すること
+
+---
+合計 91 件のAI関連ニュースが見つかりました。
