@@ -1,0 +1,55 @@
+🤖 AI最新ニュースダイジェスト 🤖
+2025年11月12日 12:59
+
+【1】Analysing Environmental Efficiency in AI for X-Ray Diagnosis (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.07436
+📅 2025年11月12日
+💡 この論文は、AIによるX線診断における環境効率を分析しています。研究では、ChatGPTやClaudeのような大規模言語モデル（LLM）と、より小型の識別モデルを比較し、COVID-19検出における精度とカーボンフットプリントを評価しています。結果として、小型モデルは環境負荷を軽減するものの、精度や信頼性に課題があり、LLMの利用は環境負荷が高いことが示されました。最も効率的なのは、高い精度を維持しつつ
+
+【2】Beyond Correctness: Confidence-Aware Reward Modeling for Enhancing Large Language Model Reasoning (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.07483
+📅 2025年11月12日
+💡 この論文は、大規模言語モデル（LLM）の推論能力を向上させるために、従来の正解/不正解だけでなく、自信度も考慮した新しい報酬モデルを提案しています。従来のルールベースの報酬モデルでは、低品質な推論や偶然の正解が問題でしたが、このモデルは低自信度の正解にもペナルティを与えることで、より堅牢で論理的に一貫性のある推論を促進します。STEM分野のベンチマーク
+
+【3】Procedural Knowledge Improves Agentic LLM Workflows (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.07568
+📅 2025年11月12日
+💡 この論文は、エージェント型LLMのタスク遂行能力を向上させるために、手続き的知識を活用する新しいワークフローを提案しています。具体的には、階層的タスクネットワーク（HTN）の形で手続き的知識を組み込むことで、LLMの計画効率を大幅に向上させ、より小さなモデルでも大規模モデルを上回る性能を発揮できることを実証しています。この研究は、人間やLLMから得られた専門知識を活用
+
+【4】Think Before You Retrieve: Learning Test-Time Adaptive Search with Small Language Models (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.07581
+📅 2025年11月12日
+💡 この論文は、小規模言語モデル（SLM）が、検索戦略を学習することで、大規模モデルに匹敵する情報検索能力を獲得できることを示しています。Orionと呼ばれる新しいトレーニングフレームワークは、SLMに反復的な検索、自己反省、修正を促すことで、検索性能を向上させます。その結果、Orionは、より少ないパラメータ数で、既存の検索システムを上回り、検索性能はモデルの規模だけでなく、学習された
+
+【5】Beyond Fact Retrieval: Episodic Memory for RAG with Generative Semantic Workspaces (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.07587
+📅 2025年11月12日
+💡 この論文は、大規模言語モデル（LLM）の長文推論能力を向上させるために、人間のようなエピソード記憶を模倣した「Generative Semantic Workspace（GSW）」という新しいフレームワークを提案しています。GSWは、状況の変化を構造化し、解釈可能な表現を生成することで、LLMが時間的、空間的、論理的な整合性を考慮した推論を可能にします。Episodic Memory Benchmark（EpBench）での実験
+
+【6】AI-Driven Contribution Evaluation and Conflict Resolution: A Framework & Design for Group Workload Investigation (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.07667
+📅 2025年11月12日
+💡 この論文は、AIを活用してチームワークにおける貢献度評価と対立解決を支援するフレームワークを提案しています。このフレームワークは、様々なデータ（提出物、コミュニケーション、記録など）を分析し、貢献度、相互作用、役割の3つの側面から評価を行います。AI、特に大規模言語モデル（LLM）を用いて、対立の兆候を特定し、解釈可能なアドバイスを提供することで、公平な評価と紛争解決を促進すること
+
+【7】Making LLMs Reliable When It Matters Most: A Five-Layer Architecture for High-Stakes Decisions (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.07669
+📅 2025年11月12日
+💡 この論文は、LLMが重要な意思決定において信頼性を高めるための5層アーキテクチャを提案しています。現在のLLMは、結果を検証できる分野では優れていますが、不確実な結果を伴う高リスクの戦略的意思決定では信頼性が低いという課題に対応しています。このアーキテクチャは、バイアスを自己監視し、人間とAIの対立的な挑戦を可能にし、パートナーシップの状態を検証することで、LLM
+
+【8】AIA Forecaster: Technical Report (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.07678
+📅 2025年11月12日
+💡 この技術レポートは、大規模言語モデル（LLM）を活用した判断的予測システム「AIA Forecaster」について説明しています。AIA Forecasterは、質の高いニュースソースからの情報収集、異なる予測の調整、LLMの行動バイアスを抑制する統計的キャリブレーションを組み合わせ、ForecastBenchベンチマークで人間のスーパーフォアキャスターと同等の性能を達成しました。さらに、予測市場からのより困難なベンチマークで、市場コンセン
+
+【9】ResearchRubrics: A Benchmark of Prompts and Rubrics For Evaluating Deep Research Agents (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.07685
+📅 2025年11月12日
+💡 この論文は、深層研究エージェント（DR）の評価を目的とした新しいベンチマーク「ResearchRubrics」を紹介しています。2,800時間以上の人手で構築されたこのベンチマークは、現実的なプロンプトと専門家が作成した詳細なルーブリックを組み合わせ、事実の根拠、推論の妥当性、明瞭さを評価します。評価の結果、最先端のDRシステムでさえ、ルーブリックへの
+
+【10】Towards AI-Assisted Generation of Military Training Scenarios (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.07690
+📅 2025年11月12日
+💡 この論文は、大規模言語モデル（LLM）を活用したAIによる軍事訓練シナリオ生成の新しいフレームワークを提案しています。従来のシナリオ作成の複雑さとリソース消費の問題を解決するため、マルチエージェント、マルチモーダルな推論フレームワークを構築し、作戦命令（OPORDs）などの訓練アーティファクトを生成します。このフレームワークは、LLMベースのエージェントを階層的に配置し、テキストと視
+
+---
+合計 150 件のAI関連ニュースが見つかりました。
