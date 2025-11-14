@@ -1,0 +1,55 @@
+🤖 AI最新ニュースダイジェスト 🤖
+2025年11月14日 12:55
+
+【1】Proceedings of the Second International Workshop on Next-Generation Language Models for Knowledge Representation and Reasoning (NeLaMKRR 2025) (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.09575
+📅 2025年11月14日
+💡 この論文は、次世代言語モデルにおける知識表現と推論に関する国際ワークショップの発表をまとめたものです。Transformerベースの言語モデルが推論能力を持つ可能性を探求し、従来の論理ベースの知識表現との統合を目指しています。ワークショップでは、言語モデルの推論能力の分析、KR手法の導入、推論形式の明確化などを通して、言語モデルの精度と信頼性を高めることを目指しています。これにより、言語モデルの応用
+
+【2】Echoing: Identity Failures when LLM Agents Talk to Each Other (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.09710
+📅 2025年11月14日
+💡 この論文は、大規模言語モデル（LLM）エージェント同士が自律的に対話する際に発生する新たな問題「エコー現象」を報告しています。エージェントが自身の役割を放棄し、対話相手を模倣することで、意図した目的が損なわれる現象です。実験の結果、様々なLLMモデルでエコー現象が確認され、高度な推論能力を持つモデルでも高い発生率を示しました。対話の長さが影響
+
+【3】AI Annotation Orchestration: Evaluating LLM verifiers to Improve the Quality of LLM Annotations in Learning Analytics (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.09785
+📅 2025年11月14日
+💡 この研究は、学習分析における大規模言語モデル（LLM）による注釈の質を向上させるために、自己検証や相互検証などの検証手法を評価しています。3つのLLMを用いて、チューターの会話の質的コーディングを検証した結果、検証手法を用いることで、注釈の一致度が最大58%向上することが示されました。特に、自己検証は、困難なチューターの行動に対する合意を大幅に改善しました。この研究は、
+
+【4】SlideBot: A Multi-Agent Framework for Generating Informative, Reliable, Multi-Modal Presentations (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.09804
+📅 2025年11月14日
+💡 この論文は、教育現場におけるプレゼンテーション作成を支援する多エージェントフレームワーク「SlideBot」を紹介しています。SlideBotは、LLMを活用し、情報量、信頼性、実用性を重視したスライド生成を目指しています。外部情報源の活用、構造化された計画、LaTeXによるフォーマットにより、専門家や学生からの評価で、SlideBotは概念の正確性、明瞭さ、教育的価値を向上させることが示されました。
+
+【5】OIDA-QA: A Multimodal Benchmark for Analyzing the Opioid Industry Documents Archive (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.09914
+📅 2025年11月14日
+💡 この論文は、オピオイド危機に関する膨大な文書を分析するための新しいマルチモーダルベンチマーク「OIDA-QA」を提案しています。このベンチマークは、テキスト、画像、レイアウト構造などの多様な情報を統合し、専門的な大規模言語モデル（LLM）を構築して、文書からの情報抽出と質問応答の精度を向上させることを目指しています。OIDA-QAは、歴史的な質問応答ペアやページ参照を組み込む
+
+【6】SPAN: Benchmarking and Improving Cross-Calendar Temporal Reasoning of Large Language Models (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.09993
+📅 2025年11月14日
+💡 この論文は、大規模言語モデル（LLM）の暦をまたいだ時間推論能力を評価するための新しいベンチマーク「SPAN」を提案しています。SPANは、様々な暦と時間形式に対応し、LLMの精度が平均34.5%と低いことを示し、未来の日付に関する推論の難しさや暦の非対称性によるバイアスを明らかにしました。さらに、ツールを活用したコード生成を行うTime Agentを開発し、95
+
+【7】ChEmREF: Evaluating Language Model Readiness for Chemical Emergency Response (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.10027
+📅 2025年11月14日
+💡 この論文は、化学物質事故対応における言語モデルの能力を評価する新しいベンチマーク「ChEmREF」を紹介しています。ChEmREFは、化学物質の表現変換、緊急対応の推奨、専門知識の質問応答といったタスクで構成され、現在の言語モデルはこれらのタスクの一部で一定の成果を上げていますが、まだ人間の監督が必要なレベルです。この研究は、言語モデルが緊急対応を支援する可能性を示唆しつつも、その
+
+【8】Beyond ReAct: A Planner-Centric Framework for Complex Tool-Augmented LLM Reasoning (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.10037
+📅 2025年11月14日
+💡 この論文は、複雑なクエリ処理における大規模言語モデル（LLM）の課題を解決するため、新しい「Planner-centric Plan-Execute」フレームワークを提案しています。従来のReActのようなフレームワークが陥りやすい局所最適化の問題を、グローバルなDirected Acyclic Graph (DAG)計画を立てるPlannerモデルによって克服します。さらに、複雑なクエリに対応する大規模ベンチマークデータセット「ComplexTool-Plan」と、Plannerの精度
+
+【9】Efficient Thought Space Exploration through Strategic Intervention (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.10038
+📅 2025年11月14日
+💡 この論文は、大規模言語モデル（LLM）の推論能力を効率的に活用するための新しいフレームワーク「Hint-Practice Reasoning (HPR)」を提案しています。HPRは、強力なLLM（hinter）が重要な決定ポイントでガイダンスを提供し、より効率的な小型モデル（practitioner）が主要な推論ステップを実行することで、計算コストを削減します。革新的な「Distributional Inconsistency Reduction (DIR)」という指標を用いて、推論
+
+【10】Enhancing the Medical Context-Awareness Ability of LLMs via Multifaceted Self-Refinement Learning (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.10067
+📅 2025年11月14日
+💡 この論文は、医療分野における大規模言語モデル（LLM）のコンテキスト認識能力を向上させるための新しい手法「Multifaceted Self-Refinement (MuSeR)」を提案しています。MuSeRは、自己評価と洗練を通じて、意思決定、コミュニケーション、安全性の3つの側面でLLMのコンテキスト認識能力を高めます。この手法により、特にHealthBenchデータセットにおいて、LLMのパフォーマンスが大幅に向上し、さらに、知識蒸
+
+---
+合計 103 件のAI関連ニュースが見つかりました。
