@@ -1,0 +1,55 @@
+🤖 AI最新ニュースダイジェスト 🤖
+2025年11月18日 12:56
+
+【1】From Efficiency to Adaptivity: A Deeper Look at Adaptive Reasoning in Large Language Models (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.10788
+📅 2025年11月18日
+💡 この論文は、大規模言語モデル（LLM）における適応的推論に焦点を当てています。従来の効率性重視の視点から脱却し、タスクの難易度に応じて推論の労力を調整する能力、つまり適応性を重視しています。論文では、適応的推論を制御付きのポリシー最適化問題として定式化し、学習ベースと学習不要のアプローチを分類しています。これにより、LLMがより複雑なタ
+
+【2】HARNESS: Human-Agent Risk Navigation and Event Safety System for Proactive Hazard Forecasting in High-Risk DOE Environments (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.10810
+📅 2025年11月18日
+💡 この論文は、DOE（米国エネルギー省）の高リスク環境における危険予測を目的としたAIフレームワーク「HARNESS」を紹介しています。HARNESSは、大規模言語モデル（LLM）と作業データ、過去のイベント情報を統合し、潜在的な危険を事前に特定します。専門家（SME）によるフィードバックを取り入れることで、予測精度を向上させる適応学習ループを構築しています。HARNESSは、安全性の向上と効率的なリスク管理に貢献
+
+【3】LLM enhanced graph inference for long-term disease progression modelling (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.10890
+📅 2025年11月18日
+💡 この論文は、大規模言語モデル（LLM）を活用して、神経変性疾患の長期的な進行をより正確に予測する新しいフレームワークを提案しています。 LLMは、脳領域間の複雑な相互作用に関する専門知識を提供し、不規則な患者データから病気の進行を学習する際に、より生物学的に制約されたグラフ構造の構築を支援します。 このアプローチは、従来のモデルよりも優れた予測精度と解釈可能性を示し、アル
+
+【4】AI Agent-Driven Framework for Automated Product Knowledge Graph Construction in E-Commerce (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.11017
+📅 2025年11月18日
+💡 この論文は、eコマースにおける製品知識グラフを自動構築するためのAIエージェント駆動型フレームワークを提案しています。大規模言語モデル（LLM）を活用し、オントロジーの作成と拡張、洗練、知識グラフの構築という3つの段階で、非構造化製品データから直接知識グラフを生成します。このアプローチは、手動での作業や事前定義されたスキーマを必要とせず、高い精度とスケーラビリティを実現
+
+【5】Key Decision-Makers in Multi-Agent Debates: Who Holds the Power? (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.11040
+📅 2025年11月18日
+💡 この論文は、大規模言語モデル（LLM）エージェントのスケーリングにおけるマルチエージェントディベート（MAD）の役割割り当て戦略に焦点を当てています。研究では、異なる視点を持つ役割を特定のポジションに割り当てることで、推論タスクにおけるMADのパフォーマンスが向上することを示しました。特に、「Truth Last」戦略は最大22%の改善をもたらし、実用的な課題に対応するため、一貫性を評価する「Multi
+
+【6】ARCTraj: A Dataset and Benchmark of Human Reasoning Trajectories for Abstract Problem Solving (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.11079
+📅 2025年11月18日
+💡 この論文は、抽象的な問題解決における人間の推論過程をモデル化するためのデータセット「ARCTraj」を紹介しています。ARCTrajは、ARC（Abstraction and Reasoning Corpus）のタスクにおける人間の行動を時間的に記録し、中間的な推論ステップを明らかにします。このデータセットは、強化学習、生成モデリング、シーケンスモデリングなどの手法と統合できる統一された推論パイプラインを提供し、人間の推論の構造
+
+【7】Multi-agent Undercover Gaming: Hallucination Removal via Counterfactual Test for Multimodal Reasoning (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.11182
+📅 2025年11月18日
+💡 この論文は、大規模言語モデル（LLM）におけるハルシネーション（誤った情報生成）問題を解決するために、マルチエージェント型ゲーム「Multi-agent Undercover Gaming (MUG)」を提案しています。MUGは、複数のエージェントが「アンダーカバー」なエージェント（ハルシネーションを起こすエージェント）を特定するために、反事実的なテストを用いて、マルチモーダルな推論能力を向上させます。
+
+【8】STaR: Towards Cognitive Table Reasoning via Slow-Thinking Large Language Models (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.11233
+📅 2025年11月18日
+💡 この論文は、大規模言語モデル（LLM）を用いた表形式データ推論における課題を解決する新しいフレームワーク「STaR」を提案しています。STaRは、人間の認知プロセスを模倣し、段階的な思考と不確実性認識を組み込むことで、推論の深さと安定性を向上させています。2段階の強化学習を用いたトレーニングと、推論パスの信頼性を高める不確実性評価により、STaR
+
+【9】UAVBench: An Open Benchmark Dataset for Autonomous and Agentic AI UAV Systems via LLM-Generated Flight Scenarios (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.11252
+📅 2025年11月18日
+💡 この論文は、自律型AI UAV（無人航空機）システムの評価を目的とした、LLM（大規模言語モデル）によって生成された飛行シナリオを含むオープンベンチマークデータセット「UAVBench」を紹介しています。UAVBenchは、ミッション目標、環境条件、リスク評価などを含む50,000の検証済みシナリオを提供し、多様な領域におけるUAVの運用を統一的に表現します。さらに、UAVBench_MC
+
+【10】AIonopedia: an LLM agent orchestrating multimodal learning for ionic liquid discovery (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.11257
+📅 2025年11月18日
+💡 この論文は、イオン液体（IL）の発見を加速させるために、大規模言語モデル（LLM）を活用したAIエージェント「AIonopedia」を提案しています。AIonopediaは、マルチモーダル学習と階層的な検索アーキテクチャを組み合わせ、ILの特性を正確に予測し、分子スクリーニングと設計を可能にします。新しいILデータセットで訓練され、実世界の実験でも優れた性能を示し、IL発見のプロセスを
+
+---
+合計 102 件のAI関連ニュースが見つかりました。
