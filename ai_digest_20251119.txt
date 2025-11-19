@@ -1,0 +1,55 @@
+🤖 AI最新ニュースダイジェスト 🤖
+2025年11月19日 12:57
+
+【1】Imagine in Space: Exploring the Frontier of Spatial Intelligence and Reasoning Efficiency in Vision Language Models (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.13782
+📅 2025年11月19日
+💡 この論文は、ビジョン言語モデル（VLM）の空間推論能力を評価し、その限界を明らかにしています。研究では、VLMが主に言語表現に依存し、視覚的な空間関係や3D変換に苦労することが判明しました。また、空間推論の効率性も低く、複雑さが増すとトークン使用量が増加することも示されました。この研究は、空間推論能力を向上させるためのImagery Driven Framework (IDF
+
+【2】Jailbreaking Large Vision Language Models in Intelligent Transportation Systems (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.13892
+📅 2025年11月19日
+💡 この論文は、インテリジェント交通システム（ITS）に統合された大規模ビジョン言語モデル（LVLM）が、画像タイポグラフィ操作と複数ターンプロンプトを用いた巧妙な「jailbreaking」攻撃に対して脆弱であることを明らかにしています。研究者は、交通関連の有害なクエリを含むデータセットを作成し、最先端のLVLMに対して攻撃を試みました。その結果、LVLMが不適切な応答を生成する可能性が示され、ITSにおける
+
+【3】Scene Graph-Guided Generative AI Framework for Synthesizing and Evaluating Industrial Hazard Scenarios (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.13970
+📅 2025年11月19日
+💡 この研究は、産業現場の危険な状況をシミュレーションするための、シーングラフを活用した生成AIフレームワークを開発しました。過去の事故報告書から得られた情報を基に、GPT-4oで分析された構造化データからシーングラフを生成し、それを基に画像生成モデルが現実的な危険シーンを合成します。生成された画像の評価には、視覚質問応答（VQA）フレームワークが用いられ、既存の評価指標よりも高い精度で
+
+【4】ALEX:A Light Editing-knowledge Extractor (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.14018
+📅 2025年11月19日
+💡 この論文は、大規模言語モデル (LLM) の知識編集を効率化する新しいフレームワーク「ALEX」を紹介しています。ALEXは、知識更新を階層的に整理する革新的なメモリ構造を採用し、検索の複雑さを大幅に軽減します。実験結果は、ALEXが多段階推論の精度と信頼性を向上させ、検索空間を大幅に削減することを示しており、LLMの知識編集システムの拡張性と効率性を高める可能性を示
+
+【5】Syn-STARTS: Synthesized START Triage Scenario Generation Framework for Scalable LLM Evaluation (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.14023
+📅 2025年11月19日
+💡 この論文は、大規模言語モデル（LLM）の評価を目的とした、トリアージシナリオを合成生成するフレームワーク「Syn-STARTS」を提案しています。Syn-STARTSは、LLMを用いて大量のトリアージケースを生成し、その質が既存のデータセットと同等であることを実証しました。これにより、稀にしか発生しない大量の医療事故におけるAIモデル開発に必要な、高品質なデータセットを効率的に生成できる可能性を示唆
+
+【6】Collaborative QA using Interacting LLMs. Impact of Network Structure, Node Capability and Distributed Data (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.14098
+📅 2025年11月19日
+💡 この論文は、大規模言語モデル（LLM）のネットワークが、分散したデータから真実を推定する協調的な質問応答（CQA）を行う際のパフォーマンスを分析しています。LLM間の相互作用が幻覚（事実誤認）を広げる問題に着目し、ネットワーク科学の平均場力学（MFD）と経済学のランダム化効用モデルを組み合わせたモデルを提案しています。研究では、データ分散、ノードの能力
+
+【7】APD-Agents: A Large Language Model-Driven Multi-Agents Collaborative Framework for Automated Page Design (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.14101
+📅 2025年11月19日
+💡 この論文は、大規模言語モデル（LLM）を活用したマルチエージェントフレームワーク「APD-agents」を提案し、モバイルアプリのページデザインを自動化します。APD-agentsは、ユーザーのページ説明に基づいて、レイアウト生成、コンテンツ解析、テンプレート検索、要素の再帰的生成など、複数のエージェントが連携してデザインを生成します。RICOデータセットでの実験結果は、APD-agentsが最先端のパフォーマンスを達成することを示
+
+【8】PRISM: Prompt-Refined In-Context System Modelling for Financial Retrieval (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.14130
+📅 2025年11月19日
+💡 この論文は、金融情報検索における大規模言語モデル（LLM）の活用に焦点を当てています。PRISMと呼ばれる、訓練不要のフレームワークを提案し、洗練されたプロンプト、インコンテキスト学習、軽量マルチエージェントシステムを組み合わせることで、FinAgentBenchデータセットにおいて高い性能を達成しました。PRISMは、金融関連の長文ドキュメントから関連情報を効率的に抽出することを可能にし、実用的な設計により、実際の
+
+【9】Run, Ruminate, and Regulate: A Dual-process Thinking System for Vision-and-Language Navigation (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.14131
+📅 2025年11月19日
+💡 この論文は、視覚と言語によるナビゲーション（VLN）タスクにおけるAIエージェントの性能向上を目指し、LLMの汎化能力と専門知識を統合した新しいデュアルプロセス思考フレームワーク「R3」を提案しています。R3は、効率的なナビゲーションを行う軽量モデル「Runner」、LLMを活用した推論モジュール「Ruminator」、そして両者を統合する「Regulator」から構成されています。実験結果は
+
+【10】HFL-FlowLLM: Large Language Models for Network Traffic Flow Classification in Heterogeneous Federated Learning (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.14199
+📅 2025年11月19日
+💡 この論文は、異種フェデレーテッドラーニング環境におけるネットワークトラフィックフロー分類に大規模言語モデル（LLM）を初めて適用した「HFL-FlowLLM」を提案しています。HFL-FlowLLMは、既存のフェデレーテッドラーニング手法と比較して、F1スコアを最大13%向上させ、トレーニングコストを大幅に削減しました。この革新的なアプローチは、5GやIoT環境におけるQoS管理
+
+---
+合計 116 件のAI関連ニュースが見つかりました。
