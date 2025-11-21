@@ -1,0 +1,55 @@
+🤖 AI最新ニュースダイジェスト 🤖
+2025年11月21日 12:54
+
+【1】The Illusion of Procedural Reasoning: Measuring Long-Horizon FSM Execution in LLMs (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.14777
+📅 2025年11月21日
+💡 この論文は、大規模言語モデル（LLM）の多段階的な手続き型推論能力を評価するための新しいベンチマーク、有限状態機械（FSM）実行を提案しています。LLMは複雑な推論タスクで成果を上げていますが、長期間にわたる手続きの実行能力は不明確であり、このベンチマークは、モデルが状態を維持しながら、与えられたFSM定義に従ってステップごとに実行できるかを評価します。実験結果
+
+【2】Learning Interestingness in Automated Mathematical Theory Formation (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.14778
+📅 2025年11月21日
+💡 この論文は、数学的理論の自動生成における重要な進歩を報告しています。研究では、概念発見と定理証明をモデル化する強化学習環境「FERMAT」を開発し、興味深い数学的オブジェクトを自動的に評価する問題を解決しています。特に、大規模言語モデル（LLM）を活用した進化アルゴリズムを導入し、初等整数論や有限体における興味深いオブジェクトの発見を大幅に改善しました。この研究は、AIによる
+
+【3】Ask WhAI:Probing Belief Formation in Role-Primed LLM Agents (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.14780
+📅 2025年11月21日
+💡 この論文は、マルチエージェント環境における信念形成を調査・操作するためのフレームワーク「Ask WhAI」を紹介しています。このフレームワークは、エージェントの相互作用を記録し、信念や根拠を調査し、反事実的な証拠を注入して信念構造への影響をテストします。医療ケースシミュレーターに適用し、LLMエージェントが役割固有の事前知識に基づいて行動する様子を分析した結果、エージェントの信念
+
+【4】Subnational Geocoding of Global Disasters Using Large Language Models (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.14788
+📅 2025年11月21日
+💡 この論文は、大規模言語モデル（LLM）を活用して、災害発生場所のサブナショナルレベルの地理情報を自動的に特定する新しいワークフローを提案しています。GPT-4oを用いてテキストデータを処理し、複数の地理情報リポジトリを照合することで、信頼性の高い地理情報を生成します。この手法は、手動介入を必要とせず、様々な災害タイプに対応し、地理空間データの統合を容易にすることで、リスク評価と防災対策に貢献します
+
+【5】Beyond GeneGPT: A Multi-Agent Architecture with Open-Source LLMs for Enhanced Genomic Question Answering (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.15061
+📅 2025年11月21日
+💡 この論文は、ゲノムに関する質問応答を改善するために、オープンソースのLLM（Llama 3.1、Qwen2.5など）を活用した新しいマルチエージェントフレームワーク「OpenBioLLM」を提案しています。OpenBioLLMは、従来のGeneGPTの課題であった、高コスト、スケーラビリティの制限、データプライバシーの問題を解決し、ツールルーティング、クエリ生成、応答検証などの役割を持つエージェ
+
+【6】ProRAC: A Neuro-symbolic Method for Reasoning about Actions with LLM-based Progression (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.15069
+📅 2025年11月21日
+💡 この論文は、大規模言語モデル（LLM）を活用して行動推論問題を解決する新しい神経記号フレームワーク「ProRAC」を提案しています。ProRACは、行動と質問を抽出し、各行動を段階的に実行して最終的な状態を導き出し、その状態に基づいて質問に答えます。様々なベンチマークでの評価結果は、ProRACが異なるLLM、ドメイン、およびタスクタイプで高い性能を発揮することを示しており、LL
+
+【7】Knowledge-Informed Automatic Feature Extraction via Collaborative Large Language Model Agents (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.15074
+📅 2025年11月21日
+💡 この論文は、知識を活用した自動特徴抽出を行うLLMベースの新しいマルチエージェントフレームワーク「Rogue One」を紹介しています。3つの専門エージェントが協調して特徴を発見、生成、検証し、質的フィードバックと「フラッディング-プルーニング」戦略により、探索と活用のバランスを取ります。RAGシステムを通じて外部知識を統合することで、統計的に強力かつ意味のある解釈可能な特徴を生成し、1
+
+【8】SafeRBench: A Comprehensive Benchmark for Safety Assessment in Large Reasoning Models (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.15169
+📅 2025年11月21日
+💡 この論文は、大規模推論モデル（LRM）の安全性を評価するための包括的なベンチマーク「SafeRBench」を提案しています。SafeRBenchは、入力から中間推論、最終出力まで、推論プロセス全体を通して安全性を評価し、有害なコンテンツの注入や誤った正当化などのリスクを特定します。SafeRBenchは、リスクカテゴリとレベルを考慮した入力設計、微細な出力分析、人間の安全評価との整合性
+
+【9】HISE-KT: Synergizing Heterogeneous Information Networks and LLMs for Explainable Knowledge Tracing with Meta-Path Optimization (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.15191
+📅 2025年11月21日
+💡 この論文は、学生の知識状態を追跡し、将来の質問応答パフォーマンスを予測する新しいフレームワーク「HISE-KT」を提案しています。HISE-KTは、異種情報ネットワーク（HIN）と大規模言語モデル（LLM）を統合し、メタパスの品質を自動的に評価することで、ノイズを軽減し、より正確な予測と説明可能な分析を実現します。教育心理学の原則に基づいた類似学生検索メカニズム
+
+【10】As If We've Met Before: LLMs Exhibit Certainty in Recognizing Seen Files (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.15192
+📅 2025年11月21日
+💡 この論文は、大規模言語モデル（LLM）が学習データに含まれる著作権保護されたコンテンツを認識する能力を評価する新しいフレームワーク「COPYCHECK」を提案しています。COPYCHECKは、LLMの過信を逆手に取り、不確実性シグナルを利用して「既知」と「未知」のコンテンツを区別することで、著作権侵害の検出を可能にします。実験結果では、既存の手法を大幅に上回る精度
+
+---
+合計 97 件のAI関連ニュースが見つかりました。
