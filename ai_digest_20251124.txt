@@ -1,0 +1,55 @@
+🤖 AI最新ニュースダイジェスト 🤖
+2025年11月24日 12:56
+
+【1】Stable diffusion models reveal a persisting human and AI gap in visual creativity (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.16814
+📅 2025年11月24日
+💡 この研究は、画像生成AIモデルの視覚的創造性と人間の創造性を比較し、大きなギャップがあることを明らかにしました。視覚芸術家が最も創造的で、次に非芸術家、人間がインスピレーションを与えたAI、そして自己誘導型AIの順でした。人間による指示が増えるとAIの創造性は向上しましたが、人間の評価者とAI評価者では創造性の判断基準が大きく異なりました。この結果は、言語中心のタスク
+
+【2】Cognitive BASIC: An In-Model Interpreted Reasoning Language for LLMs (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.16837
+📅 2025年11月24日
+💡 この論文は、大規模言語モデル（LLM）の推論を明確なステップに構造化する、BASIC風のプロンプト言語「Cognitive BASIC」を紹介しています。Cognitive BASICは、LLM内で解釈されることで、透明性の高い多段階推論を可能にします。実験結果から、複数のLLMがCognitive BASICプログラムを実行でき、知識抽出、矛盾検出、推論タスクにおいて一定の性能を発揮することが示されました。このアプローチ
+
+【3】Fantastic Bugs and Where to Find Them in AI Benchmarks (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.16842
+📅 2025年11月24日
+💡 この論文は、AIベンチマークの信頼性を向上させるための新しいフレームワークを提案しています。統計分析を用いて、回答パターンから問題のある質問を特定し、専門家によるレビューを効率化します。この手法により、最大84%の精度で問題のある質問を特定し、LLMによる一次審査も導入することで、人間の労力を削減します。この研究は、AIの進歩を支えるベンチマークの質を向上させ、より信頼性の
+
+【4】MirrorMind: Empowering OmniScientist with the Expert Perspectives and Collective Knowledge of Human Scientists (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.16997
+📅 2025年11月24日
+💡 MirrorMindは、AI科学者が科学研究を行う際に、人間の科学者の専門知識と集団的知識を統合する新しいAIアーキテクチャです。このアーキテクチャは、個々の研究者の思考パターンを模倣する「個人レベル」、学問分野の知識を構造化する「ドメインレベル」、そしてそれらを統合する「学際レベル」の3つの階層で構成されています。MirrorMindは、従来のAIが苦手としていた、個々の
+
+【5】Budget-Aware Tool-Use Enables Effective Agent Scaling (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.17006
+📅 2025年11月24日
+💡 この論文は、大規模言語モデル（LLM）を活用したツール利用エージェントの性能を、予算制約下で効果的にスケールさせる方法を提案しています。従来の単純な予算増加では性能向上に限界があることが判明し、予算を意識した「Budget Tracker」や「BATS」というフレームワークを開発しました。これらの手法は、トークンとツール利用の両方を考慮したコスト指標を用いて、より効率的なスケールを実現し、コストパフォーマンス
+
+【6】The Belief-Desire-Intention Ontology for modelling mental reality and agency (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.17162
+📅 2025年11月24日
+💡 この論文は、AIにおける合理的なエージェントをモデル化するための重要な枠組みである「信念-欲求-意図（BDI）」モデルを、構造化された知識表現に統合するための新しいオントロジーを提案しています。このオントロジーは、LLMとの連携や、RDFトリプルとエージェントの精神状態間の双方向フローを可能にするプラットフォームへの統合を通じて、推論の一貫性と説明可能性を向上させることを目指しています。
+
+【7】Designing Domain-Specific Agents via Hierarchical Task Abstraction Mechanism (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.17198
+📅 2025年11月24日
+💡 この論文は、大規模言語モデル（LLM）を活用したエージェントが、専門的な分野で直面する課題を解決するために、階層的なタスク抽象化メカニズム（HTAM）に基づく新しいエージェント設計フレームワークを提案しています。HTAMは、タスク間の依存関係を反映した階層構造を構築し、複雑な問題を段階的に解決することで、専門分野特有のワークフローを効率的に実行します。このフレームワークを
+
+【8】That's not natural: The Impact of Off-Policy Training Data on Probe Performance (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.17408
+📅 2025年11月24日
+💡 この論文は、大規模言語モデル（LLM）の行動を監視するためのプローブの性能に、トレーニングデータの種類が与える影響を調査しています。研究の結果、合成データやオフポリシーデータを使用すると、プローブの汎化性能が大きく左右されることが判明しました。特に、オフポリシーデータからの汎化成功は、オンポリシーデータでの汎化成功を予測し、ドメインシフトは性能を大きく低下させることが示唆されました。この結果は、
+
+【9】Towards Hyper-Efficient RAG Systems in VecDBs: Distributed Parallel Multi-Resolution Vector Search (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.16681
+📅 2025年11月24日
+💡 この論文は、検索拡張生成（RAG）システムにおけるベクトルデータベース（VecDB）の効率を向上させる新しい手法「Semantic Pyramid Indexing (SPI)」を提案しています。SPIは、クエリの要求に応じて最適な解像度レベルを動的に選択することで、検索速度を最大5.7倍、メモリ効率を1.8倍向上させ、質問応答（QA）の精度も向上させます。この手法は、既存のVecDBインフラストラク
+
+【10】Bench360: Benchmarking Local LLM Inference from 360{\deg} (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.16682
+📅 2025年11月24日
+💡 Bench360は、ローカルLLM推論のベンチマークツールで、ユーザーが最適な設定を見つけるための包括的な評価を提供します。既存のベンチマークが狭い範囲に限定されているのに対し、Bench360は、複数の推論エンジン、利用シナリオ、量子化レベルをサポートし、システムとタスク固有のメトリクスを統合します。これにより、ユーザーはカスタムタスクとデータセットを定義し、LLMのパフォーマンス
+
+---
+合計 76 件のAI関連ニュースが見つかりました。
