@@ -1,0 +1,55 @@
+🤖 AI最新ニュースダイジェスト 🤖
+2025年11月27日 12:57
+
+【1】Minimizing Hyperbolic Embedding Distortion with LLM-Guided Hierarchy Restructuring (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.20679
+📅 2025年11月27日
+💡 この論文は、大規模言語モデル（LLM）を活用して、階層データの双曲埋め込みの品質を向上させる新しい手法を提案しています。LLMを用いて階層構造を再構築し、双曲埋め込みに適した高い分岐数と単一継承を実現することで、埋め込みの品質を向上させることに成功しました。この手法は、推薦システムやコンピュータビジョンなど、階層的なデータ構造を持つ様々な分野における機械学習の精度向上
+
+【2】AssurAI: Experience with Constructing Korean Socio-cultural Datasets to Discover Potential Risks of Generative AI (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.20686
+📅 2025年11月27日
+💡 この論文は、韓国語の生成AIの安全性を評価するための、高品質なマルチモーダルデータセット「AssurAI」を構築したことを発表しています。既存の安全評価データセットが英語中心であること、韓国の社会文化的なリスクをカバーしていないことに対応するため、35種類のAIリスク要因の分類に基づき、テキスト、画像、動画、音声を含む11,480件のデータセットを構築しました。AssurAIは、韓国の生成
+
+【3】$A^2Flow:$ Automating Agentic Workflow Generation via Self-Adaptive Abstraction Operators (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.20693
+📅 2025年11月27日
+💡 この論文は、LLMを活用したエージェントワークフローの自動生成フレームワーク$A^2Flow$を提案しています。$A^2Flow$は、自己適応型抽象演算子を用いて、手動での事前定義なしにワークフローを構築します。具体的には、ケースベースの初期演算子生成、演算子のクラスタリングと予備的な抽象化、そして深層抽出による抽象実行演算子の導出という3段階のプロセスを採用しています。
+
+【4】Representation Interventions Enable Lifelong Unstructured Knowledge Control (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.20892
+📅 2025年11月27日
+💡 この論文は、大規模言語モデル（LLM）の知識を効率的かつ正確に更新するための新しい手法「RILKE」を紹介しています。RILKEは、モデルの表現空間内での介入として知識制御を扱い、複雑で非構造化な知識の微細な制御を可能にします。この手法は、編集の干渉を最小限に抑えつつ、高い編集成功率、言い換えへの一般化、および一般的な有用性を維持しながら、大規模
+
+【5】Improving Procedural Skill Explanations via Constrained Generation: A Symbolic-LLM Hybrid Architecture (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.20942
+📅 2025年11月27日
+💡 この論文は、手続き的なスキル学習における説明を改善するために、記号的なTask-Method-Knowledge (TMK)モデルと生成的なLLMを組み合わせたハイブリッドアーキテクチャ「Ivy」を提案しています。Ivyは、TMKモデルによって構造化された制約の下でLLMが説明を生成することで、手順だけでなく、その背後にある因果関係や目標指向のロジックをより深く理解できる説明を提供します。評価の結果、Ivy
+
+【6】ICPO: Intrinsic Confidence-Driven Group Relative Preference Optimization for Efficient Reinforcement Learning (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.21005
+📅 2025年11月27日
+💡 この論文は、大規模言語モデル（LLM）の推論能力を向上させるための新しい強化学習手法「ICPO」を提案しています。ICPOは、LLMが生成する様々な応答の確率を比較し、自己評価を反映した「選好優位スコア」を計算することで、報酬の粗さやノイズ、探索の非効率性といった既存手法の問題を解決します。このスコアは、より徹底的な探索を促進し、
+
+【7】Towards Trustworthy Legal AI through LLM Agents and Formal Reasoning (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.21033
+📅 2025年11月27日
+💡 この論文は、大規模言語モデル（LLM）エージェントと形式的推論を組み合わせることで、信頼性の高い法的AIシステムを開発する新しいフレームワーク「L4M」を提案しています。L4Mは、LLMの解釈能力と記号的検証の厳密さを統合し、法的な判断の透明性と説明可能性を向上させます。実験結果は、L4Mが既存のLLMや最先端の法的AIを
+
+【8】OVOD-Agent: A Markov-Bandit Framework for Proactive Visual Reasoning and Self-Evolving Detection (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.21064
+📅 2025年11月27日
+💡 この論文は、オープンボキャブラリーオブジェクト検出 (OVOD) を改善するために、能動的な視覚的推論と自己進化的な検出を導入した「OVOD-Agent」という新しいフレームワークを提案しています。 OVOD-Agentは、視覚的コンテキストの遷移を弱マルコフ決定過程としてモデル化し、バンディットモジュールを使用して不確実な領域に焦点を当て、検出ポリシーを適応させます。実験結果
+
+【9】Prune4Web: DOM Tree Pruning Programming for Web Agent (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.21398
+📅 2025年11月27日
+💡 この論文では、ウェブエージェントが複雑なウェブページを効率的に操作するための新しい手法「Prune4Web」を紹介しています。Prune4Webは、大規模言語モデル（LLM）が巨大なDOM構造を直接処理するのではなく、LLMが生成したPythonスクリプトでDOM要素を動的にフィルタリングする「DOM Tree Pruning Programming」を採用しています。これにより、処理対象の要素数を大幅に削減し、アクションの正確な特定を可能
+
+【10】MADRA: Multi-Agent Debate for Risk-Aware Embodied Planning (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2511.21460
+📅 2025年11月27日
+💡 この論文は、危険な指示に対する安全性を高めるために、複数のLLMエージェントが議論する「MADRA」という新しいフレームワークを提案しています。MADRAは、安全なタスクの拒否を最小限に抑えつつ、危険なタスクを高い精度で拒否することを目指し、既存の安全対策の課題を解決します。さらに、安全、記憶、計画、自己進化を統合した階層的な計画フレームワークと、新しい
+
+---
+合計 105 件のAI関連ニュースが見つかりました。
