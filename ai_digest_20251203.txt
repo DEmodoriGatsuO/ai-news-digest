@@ -1,0 +1,55 @@
+🤖 AI最新ニュースダイジェスト 🤖
+2025年12月03日 13:00
+
+【1】The 4/$\delta$ Bound: Designing Predictable LLM-Verifier Systems for Formal Method Guarantee (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2512.02080
+📅 2025年12月03日
+💡 この論文は、大規模言語モデル（LLM）と形式検証ツールを組み合わせたソフトウェア検証システムに、終端と収束を保証する初の理論的枠組みを提供します。LLMと検証者の相互作用をマルコフ連鎖としてモデル化し、エラー削減確率（δ）に基づいて、検証状態に到達するまでの反復回数の期待値を4/δで制限します。9万回以上の実験で理論を検証し、高い精度で予測が
+
+【2】STRIDE: A Systematic Framework for Selecting AI Modalities - Agentic AI, AI Assistants, or LLM Calls (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2512.02228
+📅 2025年12月03日
+💡 この論文は、AIの利用方法を最適化するためのフレームワーク「STRIDE」を提案しています。STRIDEは、LLMの直接利用、AIアシスタント、自律型AIエージェントの3つの選択肢の中から、タスクの特性に応じて最適なものを選択するためのガイドラインを提供します。評価の結果、STRIDEは高い精度で適切なAIモダリティを選択し、コスト削減と不要なエージェントの展開を抑制することに成功しました。これにより
+
+【3】Benchmarking LLM Agents for Wealth-Management Workflows (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2512.02230
+📅 2025年12月03日
+💡 この論文は、大規模言語モデル（LLM）エージェントが富裕層向け資産管理タスクをどの程度正確かつ効率的に実行できるかを評価するためのベンチマークを開発しています。研究では、合成データとシミュレーションを用いて、12種類のタスクペアからなる評価セットを構築し、エージェントのパフォーマンスを検証しました。結果として、エージェントは数学的推論よりもワークフロー全体の信頼性に課題があり、自律性のレベル
+
+【4】TradeTrap: Are LLM-based Trading Agents Truly Reliable and Faithful? (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2512.02261
+📅 2025年12月03日
+💡 この論文は、大規模言語モデル（LLM）を基盤とした自動取引エージェントの信頼性と堅牢性を評価する「TradeTrap」という新しいフレームワークを提案しています。TradeTrapは、市場分析、戦略立案、ポートフォリオ管理、取引実行といったエージェントの主要コンポーネントをテストし、システムレベルの摂動に対する脆弱性を明らかにします。実験結果は、わずかな変化がエージェントの意思決定プロセス全体に
+
+【5】DialogGuard: Multi-Agent Psychosocial Safety Evaluation of Sensitive LLM Responses (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2512.02282
+📅 2025年12月03日
+💡 この論文は、大規模言語モデル（LLM）が生成する応答の心理社会的リスクを評価するためのフレームワーク「DialogGuard」を提案しています。DialogGuardは、プライバシー侵害、差別的行動、精神的操作など、5つのリスク次元に沿って、複数のLLMエージェントを用いて評価を行います。研究結果は、複数エージェントによる評価が、単一エージェントや非LLMベースラインよりも正確にリスクを検出することを示し、
+
+【6】OmniGuard: Unified Omni-Modal Guardrails with Deliberate Reasoning (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2512.02306
+📅 2025年12月03日
+💡 この論文は、テキスト、画像、動画、音声など、あらゆる種類の情報を処理するOmni-modal Large Language Models (OLLMs)の安全性を高めるための新しいガードレールシステム「OmniGuard」を提案しています。OmniGuardは、多様な入力形式に対応し、詳細な推論能力を備えた初のオムニモーダルガードレールであり、21万以上のサンプルを含む大規模な安全データセットを用いて訓練されています。これにより、OmniGuardは様々な
+
+【7】Reasoning Path and Latent State Analysis for Multi-view Visual Spatial Reasoning: A Cognitive Science Perspective (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2512.02340
+📅 2025年12月03日
+💡 この論文は、マルチビューの視覚的空間推論におけるAIモデルの課題を分析しています。研究者たちは、人間の認知科学に基づいて設計された新しいベンチマーク「ReMindView-Bench」を開発し、現在のビジョン言語モデル（VLM）が異なる視点からの情報を統合する際に苦労していることを明らかにしました。評価結果は、VLMが視点間の整合性を維持することに失敗し、推論プロセス中に重要な情報を失うことを示
+
+【8】Beyond Playtesting: A Generative Multi-Agent Simulation System for Massively Multiplayer Online Games (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2512.02358
+📅 2025年12月03日
+💡 この論文は、大規模マルチプレイヤーオンラインゲーム（MMO）のプレイヤー体験を向上させるための、大規模言語モデル（LLM）を活用した新しいシミュレーションシステムを提案しています。従来の実験やシミュレーションの限界を克服するため、LLMを実際のプレイヤー行動データで学習させ、ゲーム内の環境モデルと組み合わせることで、より現実的で解釈可能なプレイヤーの意思決定を再現します。このシステムは、ゲーム開発者がデータに基づいた数値設計の最適
+
+【9】Guided Self-Evolving LLMs with Minimal Human Supervision (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2512.02472
+📅 2025年12月03日
+💡 この論文は、人間の監督を最小限に抑えながら、大規模言語モデル（LLM）が自己進化するための新しいフレームワーク「R-Few」を提案しています。R-Fewは、軽量な人間の監督と自己対戦を通じて、モデルが安定的に学習し、性能を向上させることを目指しています。実験結果は、R-Fewが数学や一般的な推論タスクにおいて、既存の手法よりも優れた性能を発揮し、モデルのバイアスを
+
+【10】COPE: Chain-Of-Thought Prediction Engine for Open-Source Large Language Model Based Stroke Outcome Prediction from Clinical Notes (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2512.02499
+📅 2025年12月03日
+💡 この論文は、臨床ノートから脳卒中後の90日間の機能的転帰を予測する、オープンソースの大規模言語モデル（LLM）フレームワーク「COPE」を開発しました。COPEは、思考の連鎖（CoT）推論を用いて、臨床ノートから患者の転帰を予測し、GPT-4.1と同等の精度を示しました。COPEは、従来のモデルよりも優れており、軽量で解釈可能、かつプライ
+
+---
+合計 114 件のAI関連ニュースが見つかりました。
