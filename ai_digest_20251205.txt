@@ -1,0 +1,55 @@
+🤖 AI最新ニュースダイジェスト 🤖
+2025年12月05日 12:56
+
+【1】When Do Symbolic Solvers Enhance Reasoning in Large Language Models? (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2512.03272
+📅 2025年12月05日
+💡 この論文は、大規模言語モデル（LLM）における推論を強化する上で、記号ソルバーがいつ役立つのかを調査しています。研究結果によると、記号ソルバーは、暗黙的な推論は少ないものの、広範な探索空間を必要とする問題で特に有効です。具体的には、制約充足問題や、宣言的な例が提供された場合に、LLMのパフォーマンスを大幅に向上させることが示されました。この研究は、LL
+
+【2】Evaluating Generalization Capabilities of LLM-Based Agents in Mixed-Motive Scenarios Using Concordia (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2512.03318
+📅 2025年12月05日
+💡 この論文は、大規模言語モデル（LLM）を基盤としたエージェントが、人間や他のエージェントとの複雑な社会的な相互作用でどのように振る舞うかを評価する新しい方法「Concordia」を紹介しています。Concordiaは、多様なパートナーや状況下で、エージェントが協力して利益を得る能力を評価し、特に交渉や集団行動といったシナリオでその能力を測ります。NeurIPS 20
+
+【3】EnCompass: Enhancing Agent Programming with Search Over Program Execution Paths (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2512.03571
+📅 2025年12月05日
+💡 この論文は、大規模言語モデル（LLM）ベースのエージェントプログラミングにおける新しいアプローチ「EnCompass」を紹介しています。EnCompassは、エージェントのワークフローロジックと推論時の戦略を分離する「probabilistic angelic nondeterminism (PAN)」というプログラミングモデルを採用しています。これにより、開発者はワークフローを記述し、わずかな変更で様々な推論戦略を試すことができます。EnCompassフレームワークは、Pythonで実装
+
+【4】DeepRule: An Integrated Framework for Automated Business Rule Generation via Deep Predictive Modeling and Hybrid Search Optimization (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2512.03607
+📅 2025年12月05日
+💡 この論文は、小売りの品揃えと価格最適化のための自動ビジネスルール生成フレームワーク「DeepRule」を提案しています。DeepRuleは、LLMを活用して非構造化データを構造化し、ゲーム理論に基づく最適化でサプライチェーンの利益を調整し、解釈可能な戦略を生成します。このフレームワークは、従来のモデルが抱えるデータ形式の不一致、動的な特徴の複雑さ、運用上の課題を解決し、実際の小売環境で
+
+【5】RoCo: Role-Based LLMs Collaboration for Automatic Heuristic Design (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2512.03762
+📅 2025年12月05日
+💡 この論文は、組み合わせ最適化問題（COP）を解決するための自動ヒューリスティック設計（AHD）を改善するために、役割ベースのLLMコラボレーションシステム「RoCo」を提案しています。RoCoは、探検家、搾取者、批評家、統合者の4つの専門LLMエージェントを連携させ、多様性と品質を向上させたヒューリスティックを生成します。実験結果は、RoCoが既存のAHD手法を
+
+【6】A Hierarchical Tree-based approach for creating Configurable and Static Deep Research Agent (Static-DRA) (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2512.03887
+📅 2025年12月05日
+💡 この論文は、大規模言語モデル（LLM）を活用した深層研究エージェント（DRA）の新しいアプローチ、Static-DRAを紹介しています。Static-DRAは、ユーザーが研究の深さと幅を調整できる階層的なツリー構造のワークフローを採用し、LLMの計算コストを考慮しながら研究の質と網羅性を制御できます。実験結果は、DepthとBreadthパラメータを増やすことで研究の質が向上することを示し、
+
+【7】Benchmark for Planning and Control with Large Language Model Agents: Blocksworld with Model Context Protocol (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2512.03955
+📅 2025年12月05日
+💡 この論文は、大規模言語モデル（LLM）エージェントを用いた計画と制御の性能を評価するための新しいベンチマークを提案しています。ブロックワールド問題を模倣した実行可能なシミュレーション環境を提供し、Model Context Protocol (MCP)を標準的なインターフェースとして統合することで、様々なエージェントアーキテクチャの比較を容易にしています。これにより、LLMベースの計画と実行アプローチの定量的な評価が可能になり、産業オートメーションにおける
+
+【8】Mitigating hallucinations and omissions in LLMs for invertible problems: An application to hardware logic design automation (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2512.03053
+📅 2025年12月05日
+💡 この論文は、大規模言語モデル（LLM）が生成する誤り（幻覚や省略）を、可逆的な問題（ロジック条件表からハードウェア記述言語への変換など）において軽減する新しいアプローチを提案しています。具体的には、LLMを「ロスレスエンコーダー/デコーダー」として使用し、元のデータと再構築されたデータを比較することで、LLMの出力を検証し、設計エラーの発見を支援します。
+
+【9】Echoes of AI Harms: A Human-LLM Synergistic Framework for Bias-Driven Harm Anticipation (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2512.03068
+📅 2025年12月05日
+💡 この論文は、AIのバイアスが引き起こす害を事前に予測するための新しいフレームワーク「ECHO」を提案しています。ECHOは、人間と大規模言語モデル（LLM）を組み合わせ、バイアスと害の関係を体系的にマッピングすることで、AI開発の初期段階から害の可能性を特定します。このフレームワークは、病気診断や採用などの重要な分野でバイアスによる害のパターンを明らかにし、AIの設計とガバナ
+
+【10】Economies of Open Intelligence: Tracing Power & Participation in the Model Ecosystem (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2512.03073
+📅 2025年12月05日
+💡 この論文は、2020年から2025年までのHugging Face Model Hubのモデルダウンロード履歴を分析し、オープンAIモデルのエコシステムにおける力関係の変化を調査しています。分析の結果、Google、Meta、OpenAIといった米国の企業による支配が弱まり、独立系開発者や中国企業が台頭していることが明らかになりました。モデルのサイズ、マルチモーダル生成、量子化技術の進化が見られる一方で、データの透明性の低下も指摘
+
+---
+合計 83 件のAI関連ニュースが見つかりました。
