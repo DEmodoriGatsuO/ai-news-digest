@@ -1,0 +1,55 @@
+🤖 AI最新ニュースダイジェスト 🤖
+2025年12月11日 13:01
+
+【1】Calibrated Trust in Dealing with LLM Hallucinations: A Qualitative Study (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2512.09088
+📅 2025年12月11日
+💡 この論文は、大規模言語モデル（LLM）のハルシネーション（事実誤認）がユーザーのLLMに対する信頼に与える影響を質的に調査しています。研究の結果、ハルシネーションは一律の不信感を引き起こすのではなく、状況に応じた信頼の調整につながることが判明しました。ユーザーの経験、専門知識、直感などの要因が信頼に影響を与え、リスクや意思決定の重要性といった状況的要因
+
+【2】A Categorical Analysis of Large Language Models and Why LLMs Circumvent the Symbol Grounding Problem (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2512.09117
+📅 2025年12月11日
+💡 この論文は、大規模言語モデル（LLM）がどのようにしてコンテンツを真偽評価された命題に変換するかを、圏論的枠組みを用いて分析しています。重要な点は、LLMが記号接地問題を「解決」するのではなく、「回避」していると主張していることです。これは、LLMが現実世界との直接的なつながりを持たずに、言語的なパターンに基づいて動作していることを示唆しており、LLMの限界と今後の研究の方向性を示唆しています
+
+【3】SDialog: A Python Toolkit for End-to-End Agent Building, User Simulation, Dialog Generation, and Evaluation (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2512.09142
+📅 2025年12月11日
+💡 この論文は、LLM（大規模言語モデル）ベースの会話エージェントの構築、評価、解釈を統合したPythonツールキット「SDialog」を紹介しています。SDialogは、合成対話生成のためのマルチエージェントシミュレーション、言語的指標、LLMベースの評価、機能的検証を組み合わせた包括的な評価、活性化検査と特徴除去による解釈可能性ツールを提供します。このツールキットは、主要なLLMバックエンドと
+
+【4】An End-to-end Planning Framework with Agentic LLMs and PDDL (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2512.09629
+📅 2025年12月11日
+💡 この論文は、大規模言語モデル（LLM）を活用した、人間による介入を必要としないエンドツーエンドの計画フレームワークを提案しています。このフレームワークは、自然言語の指示をPDDLモデルに変換し、複数のエージェントが協力して計画の最適化と検証を行い、最終的に計画エンジンで実行可能な計画を生成します。Google NaturalPlanやPlanBenchなどの様々なタスクでその有効性が示されており、LLM単体では困難な
+
+【5】RIFT: A Scalable Methodology for LLM Accelerator Fault Assessment using Reinforcement Learning (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2512.09829
+📅 2025年12月11日
+💡 この論文は、大規模言語モデル（LLM）アクセラレータの故障評価を効率化する新しい手法RIFTを紹介しています。RIFTは、強化学習を用いて最小限の故障シナリオを特定し、従来の評価方法よりも2.2倍の速度向上と99%以上のテストベクトルの削減を実現しました。さらに、RIFTは、より費用対効果の高いハードウェア保護戦略を可能にし、商用検証ワークフローへの統合も容易にします
+
+【6】SCOPE: Language Models as One-Time Teacher for Hierarchical Planning in Text Environments (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2512.09897
+📅 2025年12月11日
+💡 この論文は、テキスト環境における階層的計画のための効率的な手法SCOPEを提案しています。SCOPEは、大規模言語モデル（LLM）が生成したサブゴールを初期化時にのみ利用し、軽量な学生モデルを事前学習します。これにより、LLMへの繰り返し問い合わせを回避し、推論時間を大幅に短縮しながらも、テキストベースの計画タスクで高い成功率を達成します。SCOPEは、LLMの知識を効率的に活用し、
+
+【7】Motion2Meaning: A Clinician-Centered Framework for Contestable LLM in Parkinson's Disease Gait Interpretation (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2512.08934
+📅 2025年12月11日
+💡 この論文は、パーキンソン病（PD）患者の歩行分析を支援するAIシステム「Motion2Meaning」を紹介しています。このシステムは、ウェアラブルセンサーからのデータを活用し、解釈可能性と臨床医による監督を重視したフレームワークを採用しています。Motion2Meaningは、AIの決定を検証し、異議を唱えるためのインターフェースを提供し、臨床医がAIの解釈を理解し、必要に応じて修正できるように設計されています。
+
+【8】A Principle-based Framework for the Development and Evaluation of Large Language Models for Health and Wellness (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2512.08936
+📅 2025年12月11日
+💡 この論文は、健康とウェルネス分野における大規模言語モデル（LLM）の開発と評価のための原則に基づいたフレームワークを提案しています。このフレームワークは、安全性、有用性、正確性、関連性、パーソナライゼーション（SHARP）の原則に基づいており、Fitbit Insights Explorerの開発に適用され、13,000人以上のユーザーを対象とした段階的な展開を通じて評価されました。このフレームワークは、技術的な評価と実際の
+
+【9】When AI Gives Advice: Evaluating AI and Human Responses to Online Advice-Seeking for Well-Being (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2512.08937
+📅 2025年12月11日
+💡 この論文は、AIが提供するアドバイスの質を、人間のアドバイスと比較評価しています。研究では、LLM（GPT-4oなど）がRedditのトップ評価のアドバイスよりも、全体的な有効性、温かさ、そして再びアドバイスを求める意欲において高い評価を得ました。また、人間のアドバイスをAIで洗練させることで、AI生成のアドバイスに匹敵する可能性も示唆されました。この研究は、AIアド
+
+【10】Assessing the Human-Likeness of LLM-Driven Digital Twins in Simulating Health Care System Trust (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2512.08939
+📅 2025年12月11日
+💡 この研究は、大規模言語モデル（LLM）を活用したデジタルツインが、医療システムへの不信感といった複雑な人間の心理的特性をどの程度正確にシミュレーションできるかを評価しています。結果は、デジタルツインが全体的な傾向は捉えるものの、人間の微妙な違いや極端な回答を再現することには限界があることを示しました。この研究は、医療分野におけるLLMの利用には、特に信頼性や政策シミュレーションにおいて
+
+---
+合計 68 件のAI関連ニュースが見つかりました。
