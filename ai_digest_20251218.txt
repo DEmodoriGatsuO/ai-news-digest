@@ -1,0 +1,55 @@
+🤖 AI最新ニュースダイジェスト 🤖
+2025年12月18日 12:59
+
+【1】Leveraging LLMs for Structured Data Extraction from Unstructured Patient Records (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2512.13700
+📅 2025年12月18日
+💡 この論文は、大規模言語モデル（LLM）を活用して、非構造化の患者記録から構造化データを自動抽出する安全なフレームワークを提案しています。このフレームワークは、RAGと構造化応答を統合し、HIPAA準拠のインフラ上でローカルに展開可能で、臨床研究における手作業によるデータ抽出の負担を軽減します。評価では、専門家が注釈を付与したデータセットと比較して高い精度を達成し
+
+【2】Adjudicator: Correcting Noisy Labels with a KG-Informed Council of LLM Agents (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2512.13704
+📅 2025年12月18日
+💡 この論文は、大規模言語モデル（LLM）エージェントの評議会を活用して、ノイズの多いラベルを修正する「Adjudicator」システムを紹介しています。Adjudicatorは、知識グラフ（KG）を構築してアイテムのコンテキストを統合し、専門エージェントがラベルの妥当性について議論し投票する多エージェントLLMアーキテクチャを使用します。AlleNoiseベンチマークでのテストでは、Adjudicatorは
+
+【3】LoopBench: Discovering Emergent Symmetry Breaking Strategies with LLM Swarms (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2512.13713
+📅 2025年12月18日
+💡 この論文は、LLM（大規模言語モデル）の群れがどのようにして分散システム内で協調し、問題解決能力を発揮するかを評価する新しいベンチマーク「LoopBench」を紹介しています。LoopBenchは、奇数サイクルグラフの彩色問題を通じて、LLMが対称性の破壊とメタ認知能力をどのように活用するかを検証します。研究結果は、高度なLLMがデッドロックを回避する戦略を考案し、言語ベースの推
+
+【4】AI-Powered Annotation Pipelines for Stabilizing Large Language Models: A Human-AI Synergy Approach (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2512.13714
+📅 2025年12月18日
+💡 この論文は、大規模言語モデル（LLM）の不安定性、特に規制の厳しい業界での問題に対処するため、AIを活用したアノテーションパイプラインを提案しています。従来の人間によるアノテーションに代わり、AIによる弱教師あり学習と信頼度ベースのアノテーションを組み合わせることで、コストを抑えつつ、LLMの安定性を向上させることを目指しています。このアプローチは、LLMの信頼性と倫理的な整合性を
+
+【5】ValuePilot: A Two-Phase Framework for Value-Driven Decision-Making (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2512.13716
+📅 2025年12月18日
+💡 この論文は、人間の価値観に沿ったAIの意思決定を可能にする「ValuePilot」という2段階のフレームワークを提案しています。ValuePilotは、多様な価値観が注釈されたシナリオを生成し、個人の価値観に基づいて行動を評価する意思決定モジュールで構成されています。評価の結果、ValuePilotはGPT-5などの強力なLLMを上回り、人間の行動選択との整合性を示しました。この研究は、解釈可能
+
+【6】State-Dependent Refusal and Learned Incapacity in RLHF-Aligned Language Models (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2512.13762
+📅 2025年12月18日
+💡 この論文は、RLHF（強化学習による人間のフィードバック）で調整された大規模言語モデル（LLM）が、特定の状況下で意図的に拒否反応を示す「状態依存拒否」という行動パターンを報告しています。研究では、モデルが非機密的な領域では正常に機能する一方で、プロバイダーやポリシーに敏感な領域では拒否反応を繰り返すことが観察されました。この行動は「学習性無力感」に
+
+【7】EvoLattice: Persistent Internal-Population Evolution through Multi-Alternative Quality-Diversity Graph Representations for LLM-Guided Program Discovery (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2512.13857
+📅 2025年12月18日
+💡 この論文は、大規模言語モデル（LLM）を活用したプログラム開発における新しいフレームワーク「EvoLattice」を紹介しています。 EvoLatticeは、プログラムの候補を単一の有向非巡回グラフで表現し、各ノードに複数の代替案を保存することで、より多様で堅牢な探索空間を実現します。 このアプローチにより、LLMによるミューテーション、再結合、および剪定が効率的に行われ、構造的なエラーを
+
+【8】Evaluating Frontier LLMs on PhD-Level Mathematical Reasoning: A Benchmark on a Textbook in Theoretical Computer Science about Randomized Algorithms (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2512.13978
+📅 2025年12月18日
+💡 この論文は、最先端のLLM（GPT-5、Gemini、Claude、Grok）の博士レベルの数学的推論能力を評価しています。研究者らは、確率的アルゴリズムに関する教科書の問題に対するLaTeX形式の証明生成をモデルに課し、GeminiとClaudeが約66%の精度を達成した一方、他のモデルは一貫性に欠けることを発見しました。この結果は、LLMが大学院レベルの教育
+
+【9】ReflCtrl: Controlling LLM Reflection via Representation Engineering (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2512.13979
+📅 2025年12月18日
+💡 この論文は、大規模言語モデル (LLM) の自己反省を制御する新しい手法「ReflCtrl」を提案しています。ReflCtrlは、モデルの潜在空間における「反省方向」を特定し、それを利用して反省の頻度を調整することで、推論コストを削減しながらパフォーマンスを維持することを目指しています。実験結果から、ReflCtrlは推論トークンを最大33.6%削減しつつ、モデルの内部的な
+
+【10】Sparsity-Controllable Dynamic Top-p MoE for Large Foundation Model Pre-training (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2512.13996
+📅 2025年12月18日
+💡 この論文は、大規模基盤モデルの事前学習における、スパースMixture-of-Experts (MoE)アーキテクチャの効率性を向上させる新しいルーティングメカニズム「DTop-p MoE」を提案しています。DTop-pは、トークンの難易度に応じて動的に専門家を割り当てるTop-pルーティングを採用し、PIコントローラーを用いて活性化専門家のスパース性を制御することで、計算コストを最適化します
+
+---
+合計 107 件のAI関連ニュースが見つかりました。
