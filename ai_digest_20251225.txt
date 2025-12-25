@@ -1,0 +1,55 @@
+🤖 AI最新ニュースダイジェスト 🤖
+2025年12月25日 12:56
+
+【1】PhysMaster: Building an Autonomous AI Physicist for Theoretical and Computational Physics Research (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2512.19799
+📅 2025年12月25日
+💡 この論文は、大規模言語モデル（LLM）を基盤とした自律型AI物理学者「PhysMaster」を提案しています。PhysMasterは、抽象的な推論と数値計算を組み合わせ、文献検索、知識の活用、検証済みの方法論を統合することで、物理学の研究における問題解決能力を向上させています。PhysMasterは、高エネルギー理論、凝縮系理論、天体物理学などの分野で、研究の加速、自動化、そして
+
+【2】Interpolative Decoding: Exploring the Spectrum of Personality Traits in LLMs (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2512.19937
+📅 2025年12月25日
+💡 この論文は、大規模言語モデル（LLM）の性格特性を効率的に操作し、人間の行動を模倣する方法として、補間デコーディングを提案しています。補間デコーディングは、性格特性を対立するプロンプトのペアで表現し、補間パラメータを使用してその特性に沿った行動をシミュレートします。この手法により、LLMは経済ゲームにおける人間の意思決定を再現し、個々の人間の行動を模倣する
+
+【3】S$^3$IT: A Benchmark for Spatially Situated Social Intelligence Test (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2512.19992
+📅 2025年12月25日
+💡 この論文は、現実世界での社会的相互作用を模倣したAIの能力を評価するための新しいベンチマーク「S$^3$IT」を紹介しています。S$^3$ITは、大規模言語モデル（LLM）を搭載したNPC（ノンプレイヤーキャラクター）の多様な好みや人間関係を考慮し、3D環境で座席を配置する課題を提供します。このベンチマークは、AIが物理的制約と社会的規範を統合して判断
+
+【4】Scaling Reinforcement Learning for Content Moderation with Large Language Models (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2512.20061
+📅 2025年12月25日
+💡 この論文は、大規模言語モデル（LLM）を用いたコンテンツモデレーションにおける強化学習（RL）の有効性を検証しています。RLは、ラベルの少ない状況やポリシーが変化する状況下でも、専門家レベルの精度を達成できることが示されました。特に、RLは複雑なポリシーに基づいた推論が必要なタスクで性能を向上させ、教師あり学習よりも最大100倍のデータ効率を実現しました。この研究は、大規模なコンテンツ
+
+【5】Reason2Decide: Rationale-Driven Multi-Task Learning (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2512.20074
+📅 2025年12月25日
+💡 この論文は、臨床意思決定支援システム向けに、予測精度と説明可能性を両立させる新しいAIフレームワーク「Reason2Decide」を提案しています。Reason2Decideは、自己合理化における課題であるバイアスを克服するため、2段階のトレーニングを採用し、予測と説明の整合性を高めています。実験結果では、既存手法や大規模言語モデルを上回り、リソース制約のある環境でも利用可能な、説明可能な意思決定支援を実現
+
+【6】Adaptive Financial Sentiment Analysis for NIFTY 50 via Instruction-Tuned LLMs , RAG and Reinforcement Learning Approaches (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2512.20082
+📅 2025年12月25日
+💡 この論文は、インドの株式市場における投資判断を支援するため、LLM、RAG、強化学習を組み合わせた適応型金融センチメント分析フレームワークを提案しています。LLaMA 3.2 3BモデルをSentiFinデータセットで微調整し、RAGパイプラインで文脈情報を動的に選択し、予測されたセンチメントと翌日の株価リターンを比較することでソースの信頼性を調整します。さらに、P
+
+【7】MolAct: An Agentic RL Framework for Molecular Editing and Property Optimization (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2512.20135
+📅 2025年12月25日
+💡 この論文は、分子編集と特性最適化をエージェント型強化学習（RL）問題として捉えた新しいフレームワーク「MolAct」を紹介しています。MolActは、LLMエージェントがツールを活用して分子の編集と最適化を繰り返し行い、化学的妥当性と構造的類似性を維持しながら特性を向上させます。MolActは、分子編集と最適化の両方のタスクで、既存のモデルを上回るか、
+
+【8】Enhancing Zero-Shot Time Series Forecasting in Off-the-Shelf LLMs via Noise Injection (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2512.20140
+📅 2025年12月25日
+💡 この論文は、大規模言語モデル（LLM）をゼロショット時系列予測に利用する際の課題に取り組み、特に事前学習済みのLLMを微調整なしで活用する方法を提案しています。重要なポイントは、時系列データにノイズを注入することで、LLMがデータの表面的な数値ではなく、より堅牢な時間的パターンに基づいて予測を行うように促すことです。この手法は、新しい時系列データセットを用いて検証され、既存のLLMの予測
+
+【9】Concept Generalization in Humans and Large Language Models: Insights from the Number Game (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2512.20162
+📅 2025年12月25日
+💡 この論文は、人間と大規模言語モデル（LLM）が概念を一般化する能力を、数字ゲームを通して比較しています。研究の結果、人間はルールベースと類似性ベースの概念を柔軟に推測する一方、LLMは数学的ルールに依存する傾向があることが判明しました。さらに、人間は少ないサンプルからでも一般化できるのに対し、LLMはより多くのサンプルを必要としました。この違いは、人間とLLMが数学
+
+【10】Offline Safe Policy Optimization From Heterogeneous Feedback (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2512.20173
+📅 2025年12月25日
+💡 この論文は、オフラインの人間フィードバックから安全な強化学習を行う新しい手法「PreSa」を提案しています。PreSaは、報酬と安全性の両方に関する人間の選好を直接学習し、制約付き最適化問題を通じて安全なポリシーを直接学習します。従来の報酬とコストモデルを介した間接的な学習方法よりも、エラーの蓄積を回避し、より高い報酬と安全性を実現します。実験結果は、PreSa
+
+---
+合計 79 件のAI関連ニュースが見つかりました。
