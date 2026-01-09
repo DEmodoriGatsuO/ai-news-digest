@@ -1,0 +1,56 @@
+🤖 AI最新ニュースダイジェスト 🤖
+2026年01月09日 13:01
+
+【1】Digital Red Queen: Adversarial Program Evolution in Core War with LLMs (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2601.03335
+📅 2026年01月09日
+💡 この論文は、大規模言語モデル（LLM）を用いて、Core Warというゲーム環境でプログラムを進化させる「Digital Red Queen (DRQ)」という自己対戦アルゴリズムを提案しています。DRQは、変化する目標に適応し続けることで、現実世界の進化に見られるような敵対的なダイナミクスを模倣し、より汎用的なプログラムを生み出すことを目指しています。実験の結果、DRQによって生成されたプログラムは、人間が作成
+
+【2】Enhancing LLM Instruction Following: An Evaluation-Driven Multi-Agentic Workflow for Prompt Instructions Optimization (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2601.03359
+📅 2026年01月09日
+💡 この論文は、大規模言語モデル（LLM）が形式的な制約に従うことに苦労する問題を解決するため、評価に基づいたマルチエージェントワークフローを提案しています。このワークフローは、主要タスクの説明と制約を分離し、定量的なスコアをフィードバックとして使用して、それらを反復的に改善します。その結果、Llama 3.1 8BやMixtral-8x 7Bなどのモデルにおいて
+
+【3】CPGPrompt: Translating Clinical Guidelines into LLM-Executable Decision Support (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2601.03475
+📅 2026年01月09日
+💡 この論文は、臨床診療ガイドラインを大規模言語モデル（LLM）で実行可能な意思決定支援に変換する「CPGPrompt」という自動プロンプトシステムを提案しています。CPGPromptは、ガイドラインを構造化された決定木に変換し、LLMが患者の症例評価のために動的にナビゲートできるようにします。テストの結果、専門医への紹介の分類では高い精度を示しましたが、より複雑な経路分類では、ガイドラインの構造によって
+
+【4】STAR-S: Improving Safety Alignment through Self-Taught Reasoning on Safety Rules (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2601.03537
+📅 2026年01月09日
+💡 この論文は、大規模言語モデル（LLM）の安全性を向上させるための新しいフレームワーク「STAR-S」を提案しています。STAR-Sは、自己学習ループを通じて安全規則に関する推論を学習し、LLMが安全規則をより良く理解し、解釈できるようにします。実験結果は、STAR-Sが脱獄攻撃に対する防御において既存の手法よりも優れていることを示しており、LLMの安全な展開に貢献する可能性があります。
+
+
+【5】ReEfBench: Quantifying the Reasoning Efficiency of LLMs (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2601.03550
+📅 2026年01月09日
+💡 この論文は、大規模言語モデル (LLM) の推論能力を評価するための新しいフレームワーク「ReEfBench」を提案しています。ReEfBenchは、推論の効率性を詳細に分析し、推論の向上は必ずしも冗長な出力に依存しないことを明らかにしました。さらに、トレーニング方法やモデルの規模が推論能力に与える影響を調査し、CoTデータの混合や蒸留が推論能力を損なう可能性があることを
+
+【6】SCRIBE: Structured Mid-Level Supervision for Tool-Using Language Models (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2601.03555
+📅 2026年01月09日
+💡 この論文は、ツールを使用する言語モデルの信頼性を高めるための新しいフレームワーク「SCRIBE」を紹介しています。SCRIBEは、中間レベルのスキルを評価することで、報酬モデルのノイズを減らし、より正確なフィードバックを提供します。実験結果は、SCRIBEが様々なベンチマークで既存の手法を上回り、特にQwen3-4Bモデルの精度を大幅に向上させることを示しています。この研究は、より自律
+
+【7】Controllable LLM Reasoning via Sparse Autoencoder-Based Steering (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2601.03595
+📅 2026年01月09日
+💡 この論文は、大規模言語モデル (LLM) の推論戦略を制御するための新しい手法「SAE-Steering」を提案しています。SAE-Steeringは、スパースオートエンコーダーを用いてLLMの隠れ状態を分解し、推論戦略に特化した特徴を特定することで、より効率的かつ正確な推論を可能にします。この手法により、既存の手法よりも15%以上高い制御効果を達成し、誤った推
+
+【8】Interleaved Tool-Call Reasoning for Protein Function Understanding (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2601.03604
+📅 2026年01月09日
+💡 この論文は、タンパク質機能理解における大規模言語モデル（LLM）の課題を解決するため、ツールを活用した新しい推論手法「PFUA」を提案しています。従来のテキストベースの推論では、表面的なパターンに依存し、生物学的な知識の獲得が不十分でしたが、PFUAは問題分解、ツール呼び出し、根拠に基づいた回答生成を統合することで、より正確な予測を実現します。PFUAは、4つのベンチマーク
+
+【9】Architecting Agentic Communities using Design Patterns (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2601.03624
+📅 2026年01月09日
+💡 この論文は、大規模言語モデル（LLM）とエージェントAI技術を活用した、洗練されたシステム構築のための設計パターンを提案しています。特に、AIエージェントと人間が役割、プロトコル、ガバナンス構造を通じて連携する「エージェントコミュニティ」に焦点を当てています。分散システムや形式手法から得られたパターンを活用し、組織、法的、倫理的なルールを表現できるフレームワークを構築することで、運用と検証
+
+【10】Personalized Medication Planning via Direct Domain Modeling and LLM-Generated Heuristics (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2601.03687
+📅 2026年01月09日
+💡 この論文は、個々の患者に合わせた投薬計画を、大規模言語モデル（LLM）が生成したヒューリスティックを用いて効率化することを目指しています。従来の自動プランナーは、最大7種類の薬しか扱えませんでしたが、LLMを活用することで、28種類以上の薬に対応できるようになり、計画時間も大幅に短縮されました。これにより、臨床現場での実用化に向けた大きな一歩を踏み出し、より複雑な投薬計画の実現可能性
+
+---
+合計 122 件のAI関連ニュースが見つかりました。
