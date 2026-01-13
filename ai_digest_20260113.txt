@@ -1,0 +1,56 @@
+🤖 AI最新ニュースダイジェスト 🤖
+2026年01月13日 13:04
+
+【1】Naiad: Novel Agentic Intelligent Autonomous System for Inland Water Monitoring (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2601.05256
+📅 2026年01月13日
+💡 この論文は、内陸水域のモニタリングを目的とした、大規模言語モデル（LLM）を活用したAIアシスタント「NAIAD」を紹介しています。NAIADは、自然言語での質問を分析し、地球観測データと外部ツールを用いて、専門家から非専門家までが利用できる包括的な水質分析レポートを生成します。Retrieval-Augmented Generation (RAG)などの技術により、様々な情報源から知識を統合
+
+【2】Mathematical Knowledge Graph-Driven Framework for Equation-Based Predictive and Reliable Additive Manufacturing (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2601.05298
+📅 2026年01月13日
+💡 この論文は、積層造形（AM）における予測と信頼性を向上させるために、数学的知識グラフ（MKG）と大規模言語モデル（LLM）を統合した新しいフレームワークを提案しています。このフレームワークは、方程式、変数、仮定を形式的なオントロジーにエンコードすることで、知識の抽出と解釈を改善し、MKGから導出されたサブグラフに基づいてLLMによる方程式生成を条件付けすることで、物理的に意味
+
+【3】Effects of personality steering on cooperative behavior in Large Language Model agents (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2601.05302
+📅 2026年01月13日
+💡 この研究は、大規模言語モデル（LLM）エージェントにおける性格特性が協力行動に与える影響を、囚人のジレンマゲームを用いて調査しました。GPT-3.5-turbo、GPT-4o、GPT-5の各モデルの性格特性をビッグファイブモデルで評価し、性格特性を付与した条件とそうでない条件での行動を比較しました。その結果、協調性を高める主な要因は協調性であり、
+
+【4】The Persona Paradox: Medical Personas as Behavioral Priors in Clinical Language Models (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2601.05376
+📅 2026年01月13日
+💡 この論文は、臨床言語モデルにおけるペルソナ（役割や性格）の影響を調査しています。研究の結果、医療ペルソナは、集中治療タスクではパフォーマンスを向上させる一方で、一次診療では低下させるなど、文脈に依存した非単調な影響を与えることが判明しました。また、対話スタイルはリスク傾向に影響しますが、モデルによって大きく異なります。この研究は、ペルソナが安全や専門知識を保証するもので
+
+【5】ART: Adaptive Reasoning Trees for Explainable Claim Verification (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2601.05455
+📅 2026年01月13日
+💡 この論文は、大規模言語モデル（LLM）の解釈可能性を向上させる新しい手法「ART（Adaptive Reasoning Trees）」を提案しています。ARTは、主張を支持または攻撃する議論を階層的に構築し、LLMが判断を下す過程を可視化することで、透明性と信頼性を高めます。実験結果は、ARTが既存の手法よりも優れた性能を示し、説明可能な主張検証の新たな基準を確立することを示唆しており、高リスクな
+
+【6】MMUEChange: A Generalized LLM Agent Framework for Intelligent Multi-Modal Urban Environment Change Analysis (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2601.05483
+📅 2026年01月13日
+💡 この論文は、都市環境の変化を分析するための新しいマルチモーダルエージェントフレームワーク「MMUEChange」を提案しています。MMUEChangeは、様々な都市データを柔軟に統合し、複雑な変化シナリオを分析できます。実験結果では、既存手法と比較してタスク成功率が大幅に向上し、誤った情報（ハルシネーション）を抑制することを示しました。このフレームワークは、持続可能な都市開発のための政策立案に貢献
+
+【7】The Evaluation Gap in Medicine, AI and LLMs: Navigating Elusive Ground Truth & Uncertainty via a Probabilistic Paradigm (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2601.05500
+📅 2026年01月13日
+💡 この論文は、AIシステム、特に大規模言語モデル（LLM）の評価における課題を指摘しています。医学分野など、専門家の判断に不確実性が伴う場合、従来の評価方法では、専門家と非専門家の区別がつかなくなる可能性があります。論文では、不確実性を考慮した確率的パラダイムを提案し、評価結果を専門家の合意率で層別化することで、より信頼性の高い比較が可能になると提唱しています。
+
+【8】Safety Not Found (404): Hidden Risks of LLM-Based Robotics Decision Making (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2601.05529
+📅 2026年01月13日
+💡 この論文は、大規模言語モデル（LLM）を搭載したロボットの意思決定における隠れたリスクを評価しています。火災避難シナリオの質的評価を通じて、LLMベースのロボットが危険な場所に移動するなどの深刻な失敗事例を特定しました。定量的な評価タスクを通じて、LLMは安全性が重要な状況での使用には適していないことが明らかになり、わずかなエラーでも壊滅的な結果を招く可能性があると結論付けています。
+
+【9】WildSci: Advancing Scientific Reasoning from In-the-Wild Literature (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2601.05567
+📅 2026年01月13日
+💡 この論文は、科学的推論における大規模言語モデル（LLM）の進歩を目的とし、特にデータ不足と複雑な問題という課題に対処しています。WildSciと呼ばれる、査読済みの文献から自動的に生成された、複数の科学分野にわたる新しいデータセットを導入しています。このデータセットと強化学習を用いたモデルの微調整により、科学的ベンチマークにおいて改善が見られ、科学的推論研究の促進に貢献しています。
+
+
+【10】Crisis-Bench: Benchmarking Strategic Ambiguity and Reputation Management in Large Language Models (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2601.05570
+📅 2026年01月13日
+💡 この論文は、大規模言語モデル（LLM）における戦略的曖昧性と評判管理能力を評価する新しいベンチマーク「Crisis-Bench」を紹介しています。従来の安全性を重視するアプローチは、公共関係や危機管理などの専門分野で必要な情報隠蔽や戦略的曖昧さを妨げてしまうため、Crisis-Benchは、LLMが企業危機シミュレーションで株価を安定させるために、情報非対称性を維持しながら、どのように対応できるかを
+
+---
+合計 107 件のAI関連ニュースが見つかりました。
