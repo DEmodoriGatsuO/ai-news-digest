@@ -1,0 +1,55 @@
+🤖 AI最新ニュースダイジェスト 🤖
+2026年01月14日 13:04
+
+【1】Executable Ontologies in Game Development: From Algorithmic Control to Semantic World Modeling (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2601.07964
+📅 2026年01月14日
+💡 この論文は、ゲーム開発における実行可能オントロジー（EO）の利用を検討しています。EOは、エージェントの行動を明示的にコーディングするのではなく、宣言的なドメインルールから自然に生み出すことで、アルゴリズム的な行動プログラミングからセマンティックな世界モデリングへのパラダイムシフトを提案しています。サバイバルゲームのシナリオを通じて、EOが優先順位に基づいたタスク中断をどのように実現するか
+
+【2】Reasoning over Precedents Alongside Statutes: Case-Augmented Deliberative Alignment for LLM Safety (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2601.08000
+📅 2026年01月14日
+💡 この論文は、大規模言語モデル（LLM）の安全性を向上させるための新しいアプローチを提案しています。従来の安全規則に頼るのではなく、具体的な事例を参考にLLMを学習させることで、より柔軟で汎用性の高い安全性を実現することを目指しています。研究の結果、事例ベースの学習は、有害な要求への対応を減らしつつ、有用性を維持することに成功しました。この成果は、LLMの安全性を高めつつ、その能力を
+
+【3】MirrorBench: An Extensible Framework to Evaluate User-Proxy Agents for Human-Likeness (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2601.08118
+📅 2026年01月14日
+💡 この論文は、人間らしさを評価するためのユーザープロキシエージェント（LLMなど）を評価するフレームワーク「MIRRORBENCH」を紹介しています。MIRRORBENCHは、多様な会話タスクにおける人間らしい発話の生成能力に焦点を当て、モジュール性と拡張性を備えています。このフレームワークは、様々なメトリクスとデータセットをサポートし、ユーザープロキシと実際の人間との間のギャップを明らかにします。MIRRORBENCH
+
+【4】Embedded AI Companion System on Edge Devices (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2601.08128
+📅 2026年01月14日
+💡 この論文は、エッジデバイス上で動作するAIコンパニオンシステムの開発における課題を解決する新しいアプローチを提案しています。計算リソースの制約を考慮し、ユーザーの活動状況に応じて処理を切り替えるメモリパラダイムを採用することで、低レイテンシと長期的なパーソナライゼーションの両立を目指しています。さらに、AIコンパニオンの性能を評価するための新しいベンチマークを導入し、実験結果から、軽量モデル
+
+【5】Project Synapse: A Hierarchical Multi-Agent Framework with Hybrid Memory for Autonomous Resolution of Last-Mile Delivery Disruptions (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2601.08156
+📅 2026年01月14日
+💡 この論文では、ラストワンマイル配送の混乱を自律的に解決するための、階層的なマルチエージェントフレームワーク「Project Synapse」を紹介しています。Synapseは、戦略的なタスク分解と戦術的な実行を専門とするエージェントにサブタスクを委任する、中央のResolution Supervisorエージェントを使用します。LangGraphを使用して複雑なワークフローを管理し、6,000件以上のユーザーレビューから作成された30の
+
+【6】ZeroDVFS: Zero-Shot LLM-Guided Core and Frequency Allocation for Embedded Platforms (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2601.08166
+📅 2026年01月14日
+💡 この論文は、組み込みシステム向けに、大規模言語モデル（LLM）を活用したゼロショットのコアと周波数割り当て手法「ZeroDVFS」を提案しています。ZeroDVFSは、LLMから抽出したコードレベルの特徴と、環境モデルを組み合わせることで、新しいワークロードに対しても事前のプロファイリングなしで、熱とエネルギー効率を最適化します。この手法は、従来のDVFS手法と比較して、最大7.09倍の
+
+【7】The Agent's First Day: Benchmarking Learning, Exploration, and Scheduling in the Workplace Scenarios (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2601.08173
+📅 2026年01月14日
+💡 この論文は、マルチモーダル大規模言語モデル（MLLM）を用いたエージェントの、現実世界での動的な環境における課題に焦点を当てています。具体的には、タスクスケジューリング、積極的な情報収集、継続的な学習能力を評価する新しい評価環境「\method{}」を提案しています。実験結果から、最先端のエージェントはこれらの能力に課題があることが示され、この研究は、エージェントの信頼性を評価するための枠
+
+【8】Improving LLM Reasoning with Homophily-aware Structural and Semantic Text-Attributed Graph Compression (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2601.08187
+📅 2026年01月14日
+💡 この論文は、大規模言語モデル (LLM) の推論能力を向上させるための新しい手法、Homophily-aware Structural and Semantic Compression (HS2C) を提案しています。HS2Cは、グラフ構造と意味情報を圧縮することで、LLMへの入力ノイズを減らし、推論の安定性を高めます。実験結果は、HS2Cが様々なLLMの性能を向上させ、ノードレベルとグラフレベルの両方のタスクで優れた
+
+【9】The End of Reward Engineering: How LLMs Are Redefining Multi-Agent Coordination (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2601.08237
+📅 2026年01月14日
+💡 この論文は、大規模言語モデル（LLM）の進歩が、マルチエージェント強化学習における従来の報酬設計に取って代わる可能性を示唆しています。LLMは、自然言語の説明から報酬関数を生成し、人間の意図との整合性を高めることで、報酬設計の課題を克服する可能性があります。この変化は、より洗練されたエージェントの協調と、人間とのより良い連携につながる可能性がありますが、計算コスト、幻
+
+【10】Large Artificial Intelligence Model Guided Deep Reinforcement Learning for Resource Allocation in Non Terrestrial Networks (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2601.08254
+📅 2026年01月14日
+💡 この論文は、非地上ネットワークにおける資源配分に、大規模言語モデル（LLM）でガイドされた深層強化学習（DRL）を提案しています。LLMはDRLエージェントの報酬を調整するテキストガイダンスを提供し、学習を促進します。その結果、提案手法は、従来のDRLよりも大幅に性能が向上し、特に悪天候下で顕著な改善を示しました。この研究は、AIモデルを活用することで、
+
+---
+合計 120 件のAI関連ニュースが見つかりました。
