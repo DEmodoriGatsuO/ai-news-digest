@@ -1,0 +1,55 @@
+🤖 AI最新ニュースダイジェスト 🤖
+2026年01月19日 13:05
+
+【1】Do You Trust Me? Cognitive-Affective Signatures of Trustworthiness in Large Language Models (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2601.10719
+📅 2026年01月19日
+💡 この論文は、大規模言語モデル（LLM）が、人間の心理学的な信頼感に関連する情報をどのように内部的に表現しているかを調査しています。研究者たちは、LLMが公平性、確実性、自己責任といった要素を、学習データから無意識的に学習し、信頼できるテキストとそうでないテキストを区別できることを発見しました。この研究結果は、LLMが信頼できるAIシステムを構築するための基盤を提供し、ウェブエコシステムにおける透明
+
+【2】Building AI Agents to Improve Job Referral Requests to Strangers (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2601.10726
+📅 2026年01月19日
+💡 この論文は、AIエージェントが求職者の紹介依頼文を改善し、オンラインコミュニティでの成功率を高めることを目指しています。大規模言語モデル（LLM）を活用し、紹介依頼文を書き換え、評価エージェントがその質を評価します。Retrieval-Augmented Generation（RAG）を導入することで、弱い依頼文の改善を強化しつつ、強い依頼文の質を損なうことを防ぎます。結果として
+
+【3】ORBITFLOW: SLO-Aware Long-Context LLM Serving with Fine-Grained KV Cache Reconfiguration (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2601.10729
+📅 2026年01月19日
+💡 ORBITFLOWは、長いコンテキストのLLM（大規模言語モデル）のサービス提供におけるレイテンシSLO（サービスレベル目標）の達成を目的とした、きめ細かく適応型のKVキャッシュ管理システムです。変動するメモリ需要に対応するため、軽量なILPソルバーを用いてGPU上のKVキャッシュ配置を決定し、実行中に最適でない場合は動的に調整します。さらに、負荷が高い場合は、大きなメモリフットプリントを持つリクエストを一時的に遅
+
+【4】CTHA: Constrained Temporal Hierarchical Architecture for Stable Multi-Agent LLM Systems (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2601.10738
+📅 2026年01月19日
+💡 この論文は、マルチエージェントLLMシステムにおける安定性を向上させるための新しいアーキテクチャ「CTHA (Constrained Temporal Hierarchical Architecture)」を提案しています。CTHAは、異なる時間スケールを持つ層間のコミュニケーションを構造化し、エラーの連鎖やスケーラビリティの問題を解決することで、複雑なタスク実行における性能を向上させます。実験結果は、CTHAが従来の階層型アーキテクチャと比較して、失敗
+
+【5】Explore with Long-term Memory: A Benchmark and Multimodal LLM-based Reinforcement Learning Framework for Embodied Exploration (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2601.10744
+📅 2026年01月19日
+💡 この論文は、長期的な記憶を活用した、環境探索に特化したAIエージェントの研究を発表しています。具体的には、マルチモーダルLLMを強化学習で訓練し、能動的な記憶検索を促す「MemoryExplorer」を提案しています。これにより、エージェントは長期的なタスクを効率的にこなし、探索と意思決定を最適化できます。この研究は、新しいベンチマークとデータセットを提供し、長期的な環境探索におけるAI
+
+【6】ARC Prize 2025: Technical Report (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2601.10904
+📅 2026年01月19日
+💡 この論文は、AIの抽象的推論能力を測るARC-AGIベンチマークシリーズの2025年版の結果を報告しています。ARC-AGI-2データセットを用いたKaggleコンペでは、1,455チームが参加し、トップスコアは24%に達しました。2025年の重要なテーマは、フィードバック信号によってプログラムを反復的に最適化する「リファインメントループ」
+
+【7】AdaMARP: An Adaptive Multi-Agent Interaction Framework for General Immersive Role-Playing (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2601.11007
+📅 2026年01月19日
+💡 この論文は、没入型ロールプレイングゲーム（RPG）におけるAIの課題を解決する「AdaMARP」という適応型マルチエージェントフレームワークを提案しています。AdaMARPは、より動的な環境情報とマルチキャラクターの連携を可能にし、シーンの切り替えやキャラクターの追加をスムーズに行います。実験結果は、AdaMARPがキャラクターの一貫性、環境への適合性、物語の整合性を向上させ、既存の商
+
+【8】BAPO: Boundary-Aware Policy Optimization for Reliable Agentic Search (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2601.11037
+📅 2026年01月19日
+💡 この論文は、大規模言語モデル（LLM）を用いたエージェント型検索の信頼性向上に焦点を当てています。BAPOと呼ばれる新しい強化学習フレームワークを提案し、エージェントが推論の限界を認識し、証拠が不十分な場合に「I DON'T KNOW」と回答するように促します。BAPOは、境界認識報酬と適応型報酬モジュレーターを通じて、精度を損なうことなく信頼性を高
+
+【9】AgencyBench: Benchmarking the Frontiers of Autonomous Agents in 1M-Token Real-World Contexts (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2601.11044
+📅 2026年01月19日
+💡 AgencyBenchは、大規模言語モデル（LLM）を基盤とした自律型エージェントの能力を評価するための新しいベンチマークです。100万トークン規模の現実世界のシナリオで、6つの主要なエージェント能力を32のシナリオ、138のタスクを通じて評価します。自動評価のためにユーザーシミュレーションとDockerサンドボックスを使用し、クローズドソースモデルがオープンソースモデルよりも優れていることを明らかにしました
+
+【10】Beyond Model Scaling: Test-Time Intervention for Efficient Deep Reasoning (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2601.11252
+📅 2026年01月19日
+💡 この論文は、大規模推論モデル（LRM）の効率性を向上させるための新しい手法「Think-with-Me」を提案しています。Think-with-Meは、推論プロセスに外部からのフィードバックを導入し、推論の途中で一時停止して評価に基づいた介入を行うことで、過剰な推論や誤った推論を抑制します。実験結果では、Think-with-Meは精度を維持しつつ推論長を大幅
+
+---
+合計 79 件のAI関連ニュースが見つかりました。
