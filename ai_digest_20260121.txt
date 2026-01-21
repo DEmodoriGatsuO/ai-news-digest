@@ -1,0 +1,55 @@
+🤖 AI最新ニュースダイジェスト 🤖
+2026年01月21日 13:13
+
+【1】MIMIC-RD: Can LLMs differentially diagnose rare diseases in real-world clinical settings? (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2601.11559
+📅 2026年01月21日
+💡 この論文は、大規模言語モデル（LLM）が現実世界の臨床環境で希少疾患の鑑別診断に役立つかを評価しています。研究では、臨床テキストをOrphanetデータベースにマッピングしたMIMIC-RDベンチマークを使用し、LLMの性能を検証しました。結果として、現在の最先端LLMは希少疾患の鑑別診断において性能が低く、既存の能力と臨床ニーズの間には大きなギャップがあることが示されました。
+
+【2】Dynamical Systems Analysis Reveals Functional Regimes in Large Language Models (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2601.11622
+📅 2026年01月21日
+💡 この論文は、大規模言語モデル（LLM）のテキスト生成における内部ダイナミクスを、神経科学の概念を用いて分析しています。研究者たちは、LLMの活性化時系列から計算される動的メトリックを開発し、GPT-2-mediumを用いて、構造化された推論、反復、ノイズサンプリングなどの異なる機能的レジームを区別することに成功しました。この研究は、LLMの計算組織における違いを
+
+【3】A self-evolving multi-role collaborative framework with fine-grained difficulty guidance for innovative mathematical problem generation (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2601.11792
+📅 2026年01月21日
+💡 この論文は、革新的な数学の問題生成（IMPG）のための自己進化型多役割協調フレームワークを提案しています。このフレームワークは、サンプラー、ジェネレーター、評価者、ステートマシン、メモリから構成され、自己評価と外部フィードバックを通じて問題の正確性を確保します。さらに、難易度を細かく調整するための改善された難易度モデルと、データ駆動型パスサンプリングアルゴリズムを導入しています。
+
+【4】POLARIS: Typed Planning and Governed Execution for Agentic AI in Back-Office Automation (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2601.11816
+📅 2026年01月21日
+💡 この論文は、バックオフィス業務の自動化を目的とした、監査可能でポリシーに準拠したエージェント型AIシステム「POLARIS」を紹介しています。POLARISは、LLMエージェント上で型付き計画合成と検証された実行を行うガバナンスされたオーケストレーションフレームワークです。計画、選択、実行の各段階で、構造的な多様性、型チェック、検証ゲートチェック、修復ループ、ポリシーガードレールを活用し
+
+【5】Imandra CodeLogician: Neuro-Symbolic Reasoning for Precise Analysis of Software Logic (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2601.11840
+📅 2026年01月21日
+💡 この論文は、ソフトウェアロジックの正確な分析を目的とした、ニューロシンボリックエージェント「CodeLogician」を紹介しています。CodeLogicianは、大規模言語モデル（LLM）と、金融市場などで使用されている自動推論エンジンImandraXを統合し、LLMが構築した形式モデルを用いて、プログラムの振る舞いに関する詳細な質問に答えます。新しいベンチマーク「code-logic-bench」を用いて評価した結果
+
+【6】Human-AI Collaborative Inductive Thematic Analysis: AI Guided Analysis and Human Interpretive Authority (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2601.11850
+📅 2026年01月21日
+💡 この論文は、質的研究におけるAIの利用に着目し、特に帰納的テーマ分析における人間とAIの協働を探求しています。研究者たちは、ITA-GPTというAIツールを用いて、教育研究のインタビューデータを分析し、AIが分析の構造化と透明性を高める一方、解釈の権限は人間研究者が保持することを示しました。この研究は、AIが分析プロセスを支援しつつ、人間の判断と解釈が不可欠であることを
+
+【7】AEMA: Verifiable Evaluation Framework for Trustworthy and Controlled Agentic LLM Systems (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2601.11903
+📅 2026年01月21日
+💡 この論文は、信頼性と制御性を重視したエージェント型LLMシステムの評価フレームワーク「AEMA」を提案しています。AEMAは、多段階評価を計画、実行、集計し、人間の監督下で多様なワークフローに対応することで、従来の評価方法よりも安定性、人間との整合性、追跡可能性を向上させます。企業規模のシナリオでの実験結果は、AEMAがLLMベースのマルチエージェントシステムの責任ある評価
+
+【8】LIBRA: Language Model Informed Bandit Recourse Algorithm for Personalized Treatment Planning (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2601.11905
+📅 2026年01月21日
+💡 この論文は、パーソナライズ医療などの高リスクな状況における意思決定を支援するため、アルゴリズム的リコース、コンテキストバンディット、大規模言語モデル（LLM）を統合したフレームワーク「LIBRA」を提案しています。LIBRAは、LLMのドメイン知識とバンディット学習の統計的厳密性を組み合わせ、初期の損失を減らし、LLMへの依存を最小限に抑えつつ、LLMが信頼
+
+【9】Learn Like Humans: Use Meta-cognitive Reflection for Efficient Self-Improvement (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2601.11974
+📅 2026年01月21日
+💡 この論文は、大規模言語モデル（LLM）の自己改善を効率化する新しいフレームワーク「Metacognitive Agent Reflective Self-improvement (MARS)」を提案しています。MARSは、人間の学習プロセスを模倣し、原理に基づいた反省と手順に基づいた反省を組み合わせることで、単一の反復サイクル内でエージェントの推論ロジックを洗練させます。これにより、従来の自己改善システムよりも計算コストを
+
+【10】Process In-Context Learning: Enhancing Mathematical Reasoning via Dynamic Demonstration Insertion (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2601.11979
+📅 2026年01月21日
+💡 この論文は、大規模言語モデル（LLM）における数学的推論能力を向上させるための新しい手法「Process In-Context Learning (PICL)」を提案しています。PICLは、推論過程で発生する可能性のある混乱点（曖昧な計算や論理的なギャップなど）を動的に特定し、それに対応する適切なデモンストレーションを挿入することで、推論の精度を高めます。実験結果は、PICLが従来の静的な
+
+---
+合計 305 件のAI関連ニュースが見つかりました。
