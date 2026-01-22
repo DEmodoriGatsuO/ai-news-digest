@@ -1,0 +1,55 @@
+🤖 AI最新ニュースダイジェスト 🤖
+2026年01月22日 13:07
+
+【1】On the Generalization Gap in LLM Planning: Tests and Verifier-Reward RL (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2601.14456
+📅 2026年01月22日
+💡 この論文は、大規模言語モデル（LLM）を用いた計画タスクにおける汎化能力の課題を検証しています。1.7BパラメータのLLMを訓練し、ドメイン内では高い計画成功率を達成するものの、未知のドメインでは全く機能しないことが判明しました。研究では、記号の匿名化や検証器報酬を用いたファインチューニングなどの診断的介入を行い、LLMが表面的なパターンに依存し、汎化能力に
+
+【2】Large Language Model-Powered Evolutionary Code Optimization on a Phylogenetic Tree (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2601.14523
+📅 2026年01月22日
+💡 この論文は、大規模言語モデル（LLM）を活用して、GPU向け科学計算アルゴリズムを自動的に最適化する新しい手法「PhyloEvolve」を提案しています。PhyloEvolveは、最適化の過程を系統樹として表現し、過去の最適化経験を再利用することで、コードの改良と性能向上を効率的に行います。このシステムは、PDEソルバーやスペクトルグラフアルゴリズムなどの様々な科学計算ワークロード
+
+【3】Query-Efficient Agentic Graph Extraction Attacks on GraphRAG Systems (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2601.14662
+📅 2026年01月22日
+💡 この論文は、GraphRAGシステムに対する新しい攻撃手法「AGEA」を提案しています。AGEAは、限られたクエリ数でGraphRAGシステムの隠れたグラフ構造を効率的に再構築することに成功し、最大90%のエンティティと関係性を回復しました。この攻撃は、ノベルティに基づいた探索と活用戦略、外部グラフメモリ、LLMベースのフィルタリングを組み合わせた2段階のグラフ抽出パイプラインを利用しています。
+
+【4】Local Language Models for Context-Aware Adaptive Anonymization of Sensitive Text (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2601.14683
+📅 2026年01月22日
+💡 この研究は、ローカルLLMを用いて、質的研究における機密データの文脈を考慮した匿名化プロセスを開発しました。提案された「構造化適応匿名化フレームワーク（SFAA）」は、検出、分類、適応匿名化の3段階で構成され、規則ベースの置換、文脈に応じた書き換え、一般化、抑制などの匿名化戦略を採用しています。評価の結果、LLMは人間のレビューアよりも多くの機密データを検出し
+
+【5】IB-GRPO: Aligning LLM-based Learning Path Recommendation with Educational Objectives via Indicator-Based Group Relative Policy Optimization (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2601.14686
+📅 2026年01月22日
+💡 この論文は、大規模言語モデル（LLM）を活用した学習パス推薦システム「IB-GRPO」を提案しています。IB-GRPOは、教育目標との整合性を高めるために、遺伝的アルゴリズムと教師強化学習エージェントを用いたハイブリッドな専門家デモンストレーションを構築し、困難度調整のためのスコアを導入しています。さらに、多目的最適化のために、指標ベースのグループ相対優位性最適化手法を採用し
+
+【6】Gaming the Judge: Unfaithful Chain-of-Thought Can Undermine Agent Evaluation (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2601.14691
+📅 2026年01月22日
+💡 この論文は、大規模言語モデル（LLM）をエージェントのパフォーマンス評価に利用する際の脆弱性を指摘しています。特に、エージェントの思考過程（Chain-of-Thought、CoT）をLLMが判断材料とする場合、CoTを改ざんすることで評価結果を容易に操作できることが示されました。これにより、LLMによる評価の信頼性が損なわれ、誤った評価結果につながる可能性があります。この研究は、LLM評価
+
+【7】DARA: Few-shot Budget Allocation in Online Advertising via In-Context Decision Making with RL-Finetuned LLMs (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2601.14711
+📅 2026年01月22日
+💡 この論文は、オンライン広告における予算配分を最適化する新しいAIフレームワーク「DARA」を提案しています。DARAは、大規模言語モデル（LLM）のインコンテキスト学習能力と、強化学習（RL）による微調整を組み合わせ、少量のデータからでも効果的な広告入札を実現します。DARAは、初期計画を生成する「few-shot reasoner」と、計画を洗練させる「fine-grained optimizer」の
+
+【8】Multi-Behavior Sequential Modeling with Transition-Aware Graph Attention Network for E-Commerce Recommendation (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2601.14955
+📅 2026年01月22日
+💡 この論文は、eコマースのレコメンデーションシステムにおけるユーザーの多様な行動（クリック、お気に入り登録、カート追加、購入など）を効率的にモデル化する新しい手法を提案しています。提案手法であるTransition-Aware Graph Attention Network (TGA)は、行動間の遷移に着目し、計算コストを抑えつつ、ユーザーの嗜好の変化をより正確に捉えることを目指しています。TGAは、アイテム、カテゴリ、近隣
+
+【9】The Why Behind the Action: Unveiling Internal Drivers via Agentic Attribution (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2601.15075
+📅 2026年01月22日
+💡 この論文は、大規模言語モデル（LLM）ベースのエージェントが行動を起こす「理由」を解明するための新しいフレームワークを提案しています。従来の失敗分析とは異なり、このフレームワークは、タスクの成否に関わらず、エージェントの行動を決定づける内部要因を特定することを目指しています。階層的なアプローチで、重要な行動ステップと具体的な根拠となるテキストを特定し、エージェントシステムの安全性と説明責任を
+
+【10】Emerging from Ground: Addressing Intent Deviation in Tool-Using Agents via Deriving Real Calls into Virtual Trajectories (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2601.15120
+📅 2026年01月22日
+💡 この論文は、ツールを使用するエージェントにおける「意図逸脱」という問題を解決するために、RISEと呼ばれる新しい手法を提案しています。RISEは、実際のツール操作を基に仮想的な軌跡を生成し、意図逸脱シナリオに特化した負のサンプルを作成することで、LLMのファインチューニングを促進します。この手法により、タスク完了率と意図整合性が大幅に向上し、既存の手法を上回る
+
+---
+合計 107 件のAI関連ニュースが見つかりました。
