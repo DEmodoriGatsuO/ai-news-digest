@@ -1,0 +1,55 @@
+🤖 AI最新ニュースダイジェスト 🤖
+2026年02月02日 13:20
+
+【1】JAF: Judge Agent Forest (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2601.22269
+📅 2026年02月02日
+💡 JAF (Judge Agent Forest) は、AIエージェントの推論プロセスを自己改善させるための新しいフレームワークです。複数の回答を同時に評価することで、相互の関係性や矛盾を検出し、より洗練されたフィードバックを生成します。このアプローチは、大規模言語モデル (LLM) を活用した柔軟なハッシュアルゴリズムを用いて、多様な事例を選択し、クラウド環境における誤設定のトリアージなどの複雑なタスクで有効
+
+【2】The Six Sigma Agent: Achieving Enterprise-Grade Reliability in LLM Systems Through Consensus-Driven Decomposed Execution (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2601.22290
+📅 2026年02月02日
+💡 この論文は、大規模言語モデル（LLM）の企業利用における信頼性の課題を解決するために、Six Sigma Agentという新しいアーキテクチャを提案しています。このアーキテクチャは、タスク分解、マイクロエージェントサンプリング、コンセンサス投票を組み合わせることで、LLMの出力を多重化し、エラー率を劇的に低減します。その結果、単一エージェント実行と比較して14,700
+
+【3】Why Reasoning Fails to Plan: A Planning-Centric Analysis of Long-Horizon Decision Making in LLM Agents (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2601.22311
+📅 2026年02月02日
+💡 この論文は、大規模言語モデル（LLM）エージェントが、短い期間では優れた推論能力を発揮するものの、長期的な計画においては一貫性を欠く原因を分析しています。研究者らは、LLMのステップワイズな推論が、長期的な計画に必要な先を見据えた行動を阻害する「近視眼的」な意思決定を引き起こすためだと主張しています。この問題を解決するために、将来の報酬を考慮した計画手法「
+
+【4】Sparks of Rationality: Do Reasoning LLMs Align with Human Judgment and Choice? (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2601.22329
+📅 2026年02月02日
+💡 この論文は、大規模言語モデル（LLM）が人間の判断や選択にどの程度合致するかを評価しています。研究では、LLMの合理性をテストするベンチマークと、感情が影響する意思決定領域で評価を行い、合理的な思考が合理性を高めることを発見しました。また、感情を操作する手法（ICPとRLS）を試した結果、合理性を高めるメカニズムが感情的な影響も増幅させ、制御性と
+
+【5】Semi-Autonomous Mathematics Discovery with Gemini: A Case Study on the Erd\H{o}s Problems (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2601.22401
+📅 2026年02月02日
+💡 この論文は、GoogleのAIモデルGeminiを用いて、数学の未解決問題であるErdős問題の解決を試みた研究です。Geminiは、700の未解決問題に対して自然言語処理で検証を行い、人間による評価を経て、5つの問題に対して新たな解決策を見つけ、8つの問題については既存の文献を発見しました。この研究は、AIが数学研究を支援できる可能性を示唆する一方で、文献検索の難しさやAIによる「
+
+【6】When LLM meets Fuzzy-TOPSIS for Personnel Selection through Automated Profile Analysis (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2601.22433
+📅 2026年02月02日
+💡 この研究は、大規模言語モデル（LLM）とファジーTOPSISを組み合わせた新しい人事選考システムを提案しています。LinkedInプロファイルから抽出した情報と専門家の評価を基に、DistilRoBERTaモデルをファジーTOPSISと統合し、最大91%の精度で候補者をランキングしました。このシステムは、採用プロセスを効率化し、客観性を高める可能性を示唆しており、今後の研究では、データセットの
+
+【7】Darwinian Memory: A Training-Free Self-Regulating Memory System for GUI Agent Evolution (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2601.22528
+📅 2026年02月02日
+💡 この論文は、GUI操作を自動化するAIエージェント向けに、訓練不要で自己調整するメモリシステム「Darwinian Memory System (DMS)」を提案しています。DMSは、進化論の原理に基づき、最適な行動を生き残らせることで、長期的なタスク遂行能力を向上させます。これにより、既存のシステムが抱えるコンテキストウィンドウの制限や、古い情報による誤動作といった問題を解決し、成功率18%
+
+【8】Enhancing TableQA through Verifiable Reasoning Trace Reward (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2601.22530
+📅 2026年02月02日
+💡 この論文は、TableQA（表形式の質問応答）エージェントの推論能力を向上させるための新しいフレームワーク「RE-Tab」を紹介しています。RE-Tabは、表の変換アクションに対する明示的な検証可能な報酬を提供することで、エージェントが表の状態を効率的にナビゲートできるようにします。その結果、推論コストを大幅に削減しつつ、TableQAの性能を向上させ、様々な大規模言語モデル（LLM）とベンチ
+
+【9】Decoding in Geometry: Alleviating Embedding-Space Crowding for Complex Reasoning (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2601.22536
+📅 2026年02月02日
+💡 この論文は、大規模言語モデル（LLM）における複雑な推論を改善するための新しいデコーディング手法「CraEG」を提案しています。CraEGは、トークン埋め込み空間における「混雑」という現象に着目し、幾何学的な情報を用いてトークン分布を再調整することで、推論の成功率を向上させます。この手法は、既存のサンプリング戦略と互換性があり、訓練不要で、数学問題解決
+
+【10】PerfGuard: A Performance-Aware Agent for Visual Content Generation (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2601.22571
+📅 2026年02月02日
+💡 この論文は、視覚コンテンツ生成におけるツール実行のパフォーマンスを考慮したAIエージェント「PerfGuard」を提案しています。PerfGuardは、ツールのパフォーマンス境界をモデル化し、タスク計画とスケジューリングに統合することで、ツール選択の精度、実行の信頼性、ユーザーの意図との整合性を向上させます。PASM、APU、CAPOという3つの主要なメカニズムを通じて、PerfGuardは既存のフレームワークが
+
+---
+合計 182 件のAI関連ニュースが見つかりました。
