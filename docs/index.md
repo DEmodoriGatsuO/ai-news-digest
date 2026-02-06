@@ -9,10 +9,11 @@ title: AI News Digest
 
 ## 最新のダイジェスト
 
-- [20260205のダイジェスト](./archives/digest_20260205.md)
+- [20260206のダイジェスト](./archives/digest_20260206.md)
 
 ## アーカイブ
 
+- [20260206](./archives/digest_20260206.md)
 - [20260205](./archives/digest_20260205.md)
 - [20260204](./archives/digest_20260204.md)
 - [20260203](./archives/digest_20260203.md)
@@ -22,4 +23,3 @@ title: AI News Digest
 - [20260128](./archives/digest_20260128.md)
 - [20260127](./archives/digest_20260127.md)
 - [20260126](./archives/digest_20260126.md)
-- [20260123](./archives/digest_20260123.md)
