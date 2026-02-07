@@ -1,0 +1,55 @@
+🤖 AI最新ニュースダイジェスト 🤖
+2026年02月07日 13:07
+
+【1】DeepRead: Document Structure-Aware Reasoning to Enhance Agentic Search (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2602.05014
+📅 2026年02月07日
+💡 DeepReadは、大規模言語モデル（LLM）を用いたエージェント検索を強化する新しい手法です。PDF文書を構造化されたMarkdownに変換し、階層構造や順序を考慮した上で、LLMに検索とセクション読み込みのツールを提供します。これにより、従来の検索手法よりも長文の質問応答において大幅な改善が見られ、人間の「場所を特定し、読む」という行動に近い推論プロセスを実現しています。DeepReadは、文書
+
+【2】MINT: Minimal Information Neuro-Symbolic Tree for Objective-Driven Knowledge-Gap Reasoning and Active Elicitation (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2602.05048
+📅 2026年02月07日
+💡 この論文は、人間とAIの共同作業における知識ギャップに対処するための新しいアプローチ、MINT（Minimal Information Neuro-Symbolic Tree）を提案しています。MINTは、人間の入力を積極的に引き出すために、ニューラルプランニングポリシーとLLMを活用して、不確実性を評価し、最適な質問を生成します。評価結果は、MINTが限られた質問数で高いパフォーマンスを達成し、人間とAIの共同作業を向上させる可能性
+
+【3】Evaluating Large Language Models on Solved and Unsolved Problems in Graph Theory: Implications for Computing Education (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2602.05059
+📅 2026年02月07日
+💡 この研究は、大規模言語モデル（LLM）がグラフ理論の問題解決にどのように役立つかを評価しています。LLMは、解決済みの問題では優れたパフォーマンスを示しましたが、未解決の問題では解決に至りませんでした。この結果は、LLMが概念的な探求を支援できる一方で、新しい洞察や厳密な論証を必要とする問題解決には限界があることを示唆しています。教育現場では、LLMを概念理解に活用しつつ、独立
+
+【4】Towards Reducible Uncertainty Modeling for Reliable Large Language Model Agents (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2602.05073
+📅 2026年02月07日
+💡 この論文は、大規模言語モデル（LLM）エージェントの信頼性を高めるために、不確実性評価（UQ）をインタラクティブな環境でどのように改善すべきかに焦点を当てています。従来のUQ研究が単一の質問応答に偏っているのに対し、論文はエージェントの行動における「可変な不確実性」をモデル化する新しいフレームワークを提案し、UQを不確実性の蓄積ではなく、削減の
+
+【5】VERA-MH: Reliability and Validity of an Open-Source AI Safety Evaluation in Mental Health (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2602.05088
+📅 2026年02月07日
+💡 この論文は、精神的健康におけるAIの安全性評価ツールであるVERA-MHの信頼性と妥当性を検証しています。研究では、LLM（大規模言語モデル）ベースのチャットボットとユーザーエージェント間のシミュレーション会話を評価し、臨床医とAIジャッジの評価を比較しました。その結果、VERA-MHは臨床医の評価と高い相関を示し、AIチャットボットの安全性を評価するための信頼できる
+
+【6】Understanding LLM Evaluator Behavior: A Structured Multi-Evaluator Framework for Merchant Risk Assessment (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2602.05110
+📅 2026年02月07日
+💡 この論文は、大規模言語モデル（LLM）を評価者として使用する際の信頼性とバイアスを、支払いリスク評価の文脈で調査しています。研究では、複数のLLMを組み合わせた評価フレームワークを開発し、MCC（Merchant Category Code）に基づくリスク評価におけるLLMの推論能力を評価しました。結果として、LLM間で評価のばらつきが大きく、バイアスも存在することが明らかになり、特にGPT-5.1とClaude
+
+【7】SocialVeil: Probing Social Intelligence of Language Agents under Communication Barriers (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2602.05115
+📅 2026年02月07日
+💡 この論文は、大規模言語モデル（LLM）の社会知能を評価するための新しい環境「SocialVeil」を紹介しています。SocialVeilは、人間社会におけるコミュニケーションの障壁（曖昧さ、文化的なミスマッチ、感情的な干渉）をシミュレートし、LLMがこれらの障壁下でどのように相互作用を維持・修復できるかを評価します。実験結果は、障壁がLLMのパフォーマンスを大幅に低下させ、
+
+【8】Hallucination-Resistant Security Planning with a Large Language Model (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2602.05279
+📅 2026年02月07日
+💡 この論文は、大規模言語モデル（LLM）のセキュリティ管理への応用における課題である「ハルシネーション（誤情報生成）」に対処するためのフレームワークを提案しています。このフレームワークは、LLMが生成した候補アクションを、システムの制約と予測との整合性で検証し、整合性が低い場合は外部フィードバックを活用してアクションを洗練させる反復的なループを採用しています。実験結果は、このフレームワークが従来のLLMよりも最大
+
+【9】PieArena: Frontier Language Agents Achieve MBA-Level Negotiation Performance and Reveal Novel Behavioral Differences (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2602.05302
+📅 2026年02月07日
+💡 この論文は、大規模言語モデル（LLM）の交渉能力を評価する研究です。MBAレベルの交渉シナリオを用いた新しいベンチマーク「PieArena」を開発し、最先端のLLM（GPT-5など）がビジネススクールの学生と同等以上のパフォーマンスを発揮することを示しました。この研究は、LLMが高度な経済活動に利用できる可能性を示唆する一方で、信頼性と堅牢性に関する課題も浮き彫りにしています。さらに
+
+【10】ProAct: Agentic Lookahead in Interactive Environments (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2602.05327
+📅 2026年02月07日
+💡 この論文は、インタラクティブ環境における大規模言語モデル（LLM）エージェントの長期的な計画能力を向上させるための新しいフレームワーク「ProAct」を提案しています。ProActは、環境ベースの検索から得られた軌跡でエージェントを微調整する「Grounded LookAhead Distillation (GLAD)」と、価値推定を改善する「Monte-Carlo Critic (MC-Critic)」の2つの段階的なトレーニング手法を用いて、正確な先
+
+---
+合計 145 件のAI関連ニュースが見つかりました。
