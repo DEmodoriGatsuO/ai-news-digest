@@ -1,0 +1,55 @@
+🤖 AI最新ニュースダイジェスト 🤖
+2026年02月09日 13:27
+
+【1】Jackpot: Optimal Budgeted Rejection Sampling for Extreme Actor-Policy Mismatch Reinforcement Learning (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2602.06107
+📅 2026年02月09日
+💡 この論文は、大規模言語モデル（LLM）の強化学習（RL）におけるコスト削減を目指し、ロールアウト生成とポリシー最適化を分離する新しいフレームワーク「Jackpot」を提案しています。Jackpotは、最適な予算拒否サンプリング（OBRS）を用いて、ロールアウトモデルと進化するポリシー間の不一致を直接的に軽減し、学習の安定性を向上させます。理論的分析と実験的検証により、OBRSがロールアウト
+
+【2】Large Language Model Reasoning Failures (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2602.06176
+📅 2026年02月09日
+💡 この論文は、大規模言語モデル（LLM）の推論能力の限界に焦点を当て、その失敗を体系的に分析しています。著者は、推論を「非具現型」と「具現型」に分類し、さらに失敗を「根本的」「アプリケーション固有」「堅牢性」の3つのタイプに分類するフレームワークを提案しています。この包括的な調査は、LLMの弱点を理解し、より信頼性の高い推論能力
+
+【3】Do LLMs Act Like Rational Agents? Measuring Belief Coherence in Probabilistic Decision Making (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2602.06286
+📅 2026年02月09日
+💡 この論文は、大規模言語モデル（LLM）が、不確実性下での意思決定において、合理的なエージェントのように一貫した信念と安定した選好を持っているかを検証しています。研究者たちは、LLMの診断問題における行動を分析し、LLMが理想的なベイズ的効用最大化と一致するかどうかを評価しました。その結果は、LLMが報告する確率が、いかなる合理的なエージェントの真
+
+【4】Trifuse: Enhancing Attention-Based GUI Grounding via Multimodal Fusion (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2602.06351
+📅 2026年02月09日
+💡 この論文は、GUI（グラフィカルユーザーインターフェース）の操作を自然言語で指示するための技術「GUI grounding」を改善する新しいフレームワーク「Trifuse」を提案しています。Trifuseは、注意メカニズム、OCR（光学文字認識）によるテキスト情報、アイコンのキャプションを統合し、より正確なGUI要素の特定を実現します。このアプローチは、大規模なデータセットへの依存を減らし、未見のインターフェ
+
+【5】Intrinsic Stability Limits of Autoregressive Reasoning: Structural Consequences for Long-Horizon Execution (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2602.06413
+📅 2026年02月09日
+💡 この論文は、大規模言語モデル（LLM）の長距離タスクにおけるパフォーマンス低下の根本原因を、タスクの複雑さではなく、自己回帰生成のプロセスレベルの不安定性にあると指摘しています。研究者たちは、自己回帰推論における決定的な優位性が実行長とともに指数関数的に減衰することを示し、安定した長距離推論には離散的なセグメンテーションとグラフ構造（DAGなど）が必要であることを示唆しています。
+
+【6】AgentCPM-Explore: Realizing Long-Horizon Deep Exploration for Edge-Scale Agents (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2602.06485
+📅 2026年02月09日
+💡 この論文は、エッジスケール（40億パラメータ）のAIエージェントの能力を最大限に引き出すための新しいアプローチ「AgentCPM-Explore」を紹介しています。AgentCPM-Exploreは、学習中の問題点に対処するために、パラメータ空間モデル融合、報酬信号のノイズ除去、コンテキスト情報の洗練といった技術を採用し、4Bクラスのモデルでありながら、より大規模なモデルを凌駕する性能を達成しました。この研究は、
+
+【7】JADE: Expert-Grounded Dynamic Evaluation for Open-Ended Professional Tasks (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2602.06486
+📅 2026年02月09日
+💡 この論文は、オープンエンドな専門タスクにおけるAIエージェントの評価方法として、専門家の評価プロセスを模倣した新しいフレームワーク「JADE」を提案しています。JADEは、専門知識に基づいた評価基準と、多様な回答戦略に対応できる柔軟な評価を組み合わせることで、評価の安定性と多様性の両立を目指しています。実験結果は、JADEが従来のLLMベースの評価方法よりも安定性が高く、エージェントの潜在
+
+【8】HyPER: Bridging Exploration and Exploitation for Scalable LLM Reasoning with Hypothesis Path Expansion and Reduction (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2602.06527
+📅 2026年02月09日
+💡 この論文は、大規模言語モデル（LLM）の推論能力を向上させるための新しい手法「HyPER」を提案しています。HyPERは、探索と活用のバランスを動的に調整し、仮説パスの展開と削減を制御することで、推論の精度を向上させます。HyPERは、トレーニングを必要とせず、軽量なパス統計を用いて計算リソースを効率的に割り当て、トークン使用量を削減しながら、推論精度を大幅
+
+【9】SeeUPO: Sequence-Level Agentic-RL with Convergence Guarantees (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2602.06554
+📅 2026年02月09日
+💡 この論文は、大規模言語モデル（LLM）ベースのAIエージェントの訓練に不可欠な強化学習（RL）アルゴリズムの課題に対処しています。既存のRLアルゴリズムは、マルチターンシナリオで収束保証を欠き、訓練の不安定性や最適ポリシーへの収束失敗を引き起こしていました。研究者たちは、SeeUPOという、マルチターンインタラクションをシーケンシャルに処理する、批評家不要で収
+
+【10】Towards Understanding What State Space Models Learn About Code (cs.AI updates on arXiv.org)
+🔗 https://arxiv.org/abs/2602.06774
+📅 2026年02月09日
+💡 この論文は、Transformerに代わる効率的なモデルとして注目されているState Space Models (SSMs) が、コード理解タスクでTransformerを上回る能力を持つことを分析しています。研究の結果、SSMは事前学習ではコードの構文と意味を効果的に捉えるものの、タスクに特化した微調整中に特定の関係性を忘れてしまうことが判明しました。この問題を解決するため、周波数領域分析フレームワーク「SSM-Interpret」を開発し
+
+---
+合計 126 件のAI関連ニュースが見つかりました。
